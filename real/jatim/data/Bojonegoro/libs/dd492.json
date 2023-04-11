@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "27",
+        "subDistrictId": "6",
+        "postalCode": "62155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Padang",
+        "kecamatan": "Trucuk",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.9 VR9M+PPM, Unnamed Road, Padang, Kec. Trucuk, Kabupaten Bojonegoro, Jawa Timur 62155, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "27",
+        "subDistrictId": "10",
+        "postalCode": "62191",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberrejo",
+        "kecamatan": "Trucuk",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.8 Jl. Malo No.16, Nglempung, Sumberrejo, Kec. Trucuk, Kabupaten Bojonegoro, Jawa Timur 62155, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "27",
+        "subDistrictId": "1",
+        "postalCode": "62155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Banjarsari",
+        "kecamatan": "Trucuk",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.10 VV7P+G6, Karang, Banjarsari, Trucuk, Bojonegoro Regency, East Java 62155, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "27",
+        "subDistrictId": "3",
+        "postalCode": "62155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kandangan",
+        "kecamatan": "Trucuk",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.14 VRJ7+RPR, Kandangan Lor, Kandangan, Trucuk, Bojonegoro Regency, East Java 62155, Indonesia"
+    }
+]
