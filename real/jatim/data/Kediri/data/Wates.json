@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "9",
+        "name": "Pojok",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "11",
+        "name": "Sidomulyo",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "12",
+        "name": "Silir",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "4",
+        "name": "Janti",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "3",
+        "name": "Jajar",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "14",
+        "name": "Tawang",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "10",
+        "name": "Segaran",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "18",
+        "name": "Wonorejo",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "6",
+        "name": "Karanganyar",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "17",
+        "name": "Wates",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "13",
+        "name": "Sumberagung",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "2",
+        "name": "Gadungan",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "5",
+        "name": "Joho",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "16",
+        "name": "Tunge",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "15",
+        "name": "Tempurejo",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "8",
+        "name": "Plaosan",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "7",
+        "name": "Pagu",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "1",
+        "name": "Duwet",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

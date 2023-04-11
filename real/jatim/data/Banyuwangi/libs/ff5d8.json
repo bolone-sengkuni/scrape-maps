@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kajarharjo",
+        "kecamatan": "Kalibaru",
+        "kota": "Banyuwangi",
+        "alamat": "RT.2/RW.7 Jl. Raya Kalibaru No.6-4, Dusun Tegalgondo, Kajarharjo, Kec. Kalibaru, Kabupaten Banyuwangi, Jawa Timur 68466, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Banyuanyar",
+        "kecamatan": "Kalibaru",
+        "kota": "Banyuwangi",
+        "alamat": "RT.2/RW.6 PX6M+HJR, Jalan Raya, Dusun Krajan, Banyuanyar, Kalibaru, Banyuwangi Regency, East Java 68467, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "postalCode": "68466",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tegalharjo",
+        "kecamatan": "Glenmore",
+        "kota": "Banyuwangi",
+        "alamat": "RT.2/RW.1 P23J+G4C, Jl. RSU Bhakti Husada Krikilan, Dusun Krajan, Tegalharjo, Glenmore, Banyuwangi Regency, East Java 68466, Indonesia"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "19",
+        "name": "Tambak Rejo",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Mojongapit",
+        "postalCode": "61413",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Jabon",
+        "postalCode": "61418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "13",
+        "name": "Plandi",
+        "postalCode": "61412",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "15",
+        "name": "Pulo Lor",
+        "postalCode": "61417",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Candi Mulyo",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "16",
+        "name": "Sambong Dukuh",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Kaliwungu",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Jombatan",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "20",
+        "name": "Tunggorono",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "14",
+        "name": "Plosogeneng",
+        "postalCode": "61416",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Kepanjen",
+        "postalCode": "61411",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Jombang",
+        "postalCode": "61415",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Denanyar",
+        "postalCode": "61416",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "18",
+        "name": "Sumberjo",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "17",
+        "name": "Sengon",
+        "postalCode": "61418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Jelakombo",
+        "postalCode": "61412",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Kepatihan",
+        "postalCode": "61417",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Banjar Dowo",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Dapur Kejambon",
+        "postalCode": "61419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

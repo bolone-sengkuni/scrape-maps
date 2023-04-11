@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Kayu Mas",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Curah Tatal",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Bayeman",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Arjasa",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Kedung Dowo",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Lamongan",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Jatisari",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Ketowan",
+        "postalCode": "68371",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

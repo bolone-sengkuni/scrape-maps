@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Kali Anyar",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Trayang",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Dadapan",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Kelutan",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Juwet",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Mojokendil",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Kaloran",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Tanjung Kalang",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Betet",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Cengkok",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Banjar Sari",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Ngronggot",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Klurahan",
+        "postalCode": "64395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

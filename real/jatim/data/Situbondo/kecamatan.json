@@ -1,0 +1,155 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "2",
+        "name": "Arjasa",
+        "longitude": 114.1229226,
+        "latitude": -7.8501654
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "14",
+        "name": "Panarukan",
+        "longitude": 113.9678415,
+        "latitude": -7.6930689
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "name": "Situbondo",
+        "longitude": 114.019903,
+        "latitude": -7.7985945
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "17",
+        "name": "Sumbermalang",
+        "longitude": 113.6728965,
+        "latitude": -7.8743029
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "7",
+        "name": "Bungatan",
+        "longitude": 113.8215514,
+        "latitude": -7.730867
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "8",
+        "name": "Jangkar",
+        "longitude": 114.174367,
+        "latitude": -7.776072
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "13",
+        "name": "Mlandingan",
+        "longitude": 113.796747,
+        "latitude": -7.7742396
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "6",
+        "name": "Besuki",
+        "longitude": 113.689003,
+        "latitude": -7.7367979
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "3",
+        "name": "Asembagus",
+        "longitude": 114.216777,
+        "latitude": -7.8421699
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "12",
+        "name": "Mangaran",
+        "longitude": 114.04523,
+        "latitude": -7.6399594
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "9",
+        "name": "Jatibanteng",
+        "longitude": 113.6516965,
+        "latitude": -7.8302145
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "11",
+        "name": "Kendit",
+        "longitude": 113.93406,
+        "latitude": -7.731625
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "5",
+        "name": "Banyuputih",
+        "longitude": 114.25717,
+        "latitude": -7.7472661
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "name": "Banyuglugur",
+        "longitude": 113.6282715,
+        "latitude": -7.757167
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "10",
+        "name": "Kapongan",
+        "longitude": 114.0803351,
+        "latitude": -7.7116275
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "15",
+        "name": "Panji",
+        "longitude": 114.0351139,
+        "latitude": -7.708082
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "16",
+        "name": "Suboh",
+        "longitude": 113.7390945,
+        "latitude": -7.764284
+    }
+]

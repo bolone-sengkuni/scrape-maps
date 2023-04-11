@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Songgo Kerto",
+        "postalCode": "65312",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Pesanggrahan",
+        "postalCode": "65313",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Sisir",
+        "postalCode": "65314",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Sidomulyo",
+        "postalCode": "65317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Temas",
+        "postalCode": "65315",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Oro-Oro Ombo",
+        "postalCode": "65316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Ngaglik",
+        "postalCode": "65311",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Sumberejo (Sumber Rejo)",
+        "postalCode": "65318",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

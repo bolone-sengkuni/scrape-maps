@@ -1,0 +1,29 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "1",
+        "name": "Kediri Kota",
+        "longitude": 112.018747,
+        "latitude": -7.8290715
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "2",
+        "name": "Mojoroto",
+        "longitude": 111.9822195,
+        "latitude": -7.806791
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "name": "Pesantren",
+        "longitude": 112.0315204,
+        "latitude": -7.8468841
+    }
+]

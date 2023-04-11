@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Banjarjo",
+        "postalCode": "63418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Krisik",
+        "postalCode": "63418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Pudakwetan",
+        "postalCode": "63418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Pudakkulon",
+        "postalCode": "63418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Bareng",
+        "postalCode": "63418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Tambang",
+        "postalCode": "63418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

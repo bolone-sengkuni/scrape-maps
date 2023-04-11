@@ -1,0 +1,236 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "9",
+        "name": "Kepung",
+        "longitude": 112.270191,
+        "latitude": -7.842624
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "3",
+        "name": "Gampengrejo",
+        "longitude": 112.031971,
+        "latitude": -7.7623894
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "14",
+        "name": "Ngancar",
+        "longitude": 112.205073,
+        "latitude": -7.9365365
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "name": "Pagu",
+        "longitude": 112.0869001,
+        "latitude": -7.7803294
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "name": "Mojo",
+        "longitude": 111.895773,
+        "latitude": -7.905154
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "name": "Kras",
+        "longitude": 111.9787869,
+        "latitude": -7.9658916
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "name": "Papar",
+        "longitude": 112.0774185,
+        "latitude": -7.7049795
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "11",
+        "name": "Kunjang",
+        "longitude": 112.178653,
+        "latitude": -7.6603281
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "24",
+        "name": "Semen",
+        "longitude": 111.9777245,
+        "latitude": -7.8308471
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "15",
+        "name": "Ngasem",
+        "longitude": 112.0446766,
+        "latitude": -7.8015285
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "25",
+        "name": "Tarokan",
+        "longitude": 111.930973,
+        "latitude": -7.7250375
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "7",
+        "name": "Kandat",
+        "longitude": 112.0369439,
+        "latitude": -7.916677
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "name": "Gurah",
+        "longitude": 112.1078895,
+        "latitude": -7.8226634
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "name": "Kayen Kidul",
+        "longitude": 112.093297,
+        "latitude": -7.7415335
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "21",
+        "name": "Puncu",
+        "longitude": 112.2373715,
+        "latitude": -7.8567624
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "name": "Wates",
+        "longitude": 112.103505,
+        "latitude": -7.9027104
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "2",
+        "name": "Banyakan",
+        "longitude": 111.918456,
+        "latitude": -7.7863056
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "name": "Ngadiluwih",
+        "longitude": 111.9966836,
+        "latitude": -7.896807
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "23",
+        "name": "Ringinrejo",
+        "longitude": 112.0490734,
+        "latitude": -7.9680915
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "18",
+        "name": "Pare",
+        "longitude": 112.197899,
+        "latitude": -7.7655119
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "name": "Plosoklaten",
+        "longitude": 112.1948249,
+        "latitude": -7.872903
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "name": "Plemahan",
+        "longitude": 112.154385,
+        "latitude": -7.709473
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "name": "Badas",
+        "longitude": 112.2034015,
+        "latitude": -7.725538
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "name": "Kandangan",
+        "longitude": 112.3277645,
+        "latitude": -7.749646
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "name": "Grogol",
+        "longitude": 111.920156,
+        "latitude": -7.7559094
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "22",
+        "name": "Purwoasri",
+        "longitude": 112.1307285,
+        "latitude": -7.6355815
+    }
+]

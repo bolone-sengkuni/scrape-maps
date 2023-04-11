@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "3",
+        "name": "Kramat Sukoharjo",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "2",
+        "name": "Klatakan",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "7",
+        "name": "Tanggul Kulon",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "6",
+        "name": "Selodakon",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "4",
+        "name": "Manggisan",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "5",
+        "name": "Patemon",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "8",
+        "name": "Tanggul Wetan",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "subDistrictId": "1",
+        "name": "Darungan",
+        "postalCode": "68155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

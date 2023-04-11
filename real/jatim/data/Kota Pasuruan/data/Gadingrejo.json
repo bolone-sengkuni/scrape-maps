@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Tambaan",
+        "postalCode": "67133",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Petahunan",
+        "postalCode": "67136",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Gadingrejo",
+        "postalCode": "67134",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Krapyakrejo",
+        "postalCode": "67137",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Trajeng",
+        "postalCode": "67132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Karangketug",
+        "postalCode": "67135",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Bukir",
+        "postalCode": "67138",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Sebani",
+        "postalCode": "67139",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Gentong",
+        "postalCode": "67139",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Randusari",
+        "postalCode": "67136",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Karanganyar",
+        "postalCode": "67131",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

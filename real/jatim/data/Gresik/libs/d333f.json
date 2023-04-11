@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Petung",
+        "kecamatan": "Panceng",
+        "kota": "Gresik",
+        "alamat": "RT.1/RW.5 2FGM+3P2, Petung, Kec. Panceng, Kabupaten Gresik, Jawa Timur, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Prupuh",
+        "kecamatan": "Panceng",
+        "kota": "Gresik",
+        "alamat": "RT.4/RW.11 Jl. Raya Dandeles No.103, Area Sawah, Prupuh, Kec. Panceng, Kabupaten Gresik, Jawa Timur 61156, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Campurejo",
+        "kecamatan": "Panceng",
+        "kota": "Gresik",
+        "alamat": "RT.7/RW.5 4F58+66V, Rejodadi, Campurejo, Kec. Panceng, Kabupaten Gresik, Jawa Timur 61156, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dalegan",
+        "kecamatan": "Panceng",
+        "kota": "Gresik",
+        "alamat": "Jalan Raya Campurejo RT.19/RW.06 Mulyorejo, Sidorejo, Dalegan, Kec. Panceng, Kabupaten Gresik, Jawa Timur 61156, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dalegan",
+        "kecamatan": "Panceng",
+        "kota": "Gresik",
+        "alamat": "RT.2/RW.6 4F37+4VJ, Jalan Raya, Delegan, Dalegan, Panceng, Gresik Regency, East Java 61156, Indonesia"
+    }
+]

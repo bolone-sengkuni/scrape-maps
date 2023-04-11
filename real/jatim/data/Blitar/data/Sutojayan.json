@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "name": "Kembangarum",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "name": "Jingglong",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "10",
+        "name": "Sukorejo",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "name": "Jegu",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "6",
+        "name": "Kedung Bunder",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "8",
+        "name": "Pandanarum",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "name": "Kalipang",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "11",
+        "name": "Sumberjo",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "name": "Bacem",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "9",
+        "name": "Sotojayan (Sutojayan)",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "name": "Kaulon",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

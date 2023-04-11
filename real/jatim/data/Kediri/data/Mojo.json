@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Jugo",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Kedawung",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Blimbing",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Ngetrep",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Kraton",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Kranding",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "20",
+        "name": "Tambibendo",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Ngadi",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "19",
+        "name": "Surat",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "18",
+        "name": "Sukoanyar",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Pamongan",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Maesan",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Keniten",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Mojo",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "name": "Ponggok",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Petok",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "16",
+        "name": "Ploso",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Petungroto",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Mlati",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Mondo",
+        "postalCode": "64162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "postalCode": "66161",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kademangan",
+        "kecamatan": "Kademangan",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.8 Jl. Raya Trisula No.9, Kademangan, Kec. Kademangan, Kabupaten Blitar, Jawa Timur 66161, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "6",
+        "subDistrictId": "15",
+        "postalCode": "66161",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Suruhwadang",
+        "kecamatan": "Kademangan",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.11 R433+5FQ, Jl. Raya Trisula, Krajan, Suruhwadang, Kec. Kademangan, Kabupaten Blitar, Jawa Timur 66161, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "postalCode": "66161",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberjati",
+        "kecamatan": "Kademangan",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.1 R4QR+5RG, Jl. Raya Trisula No.29, Ringinanom, Sumberjati, Kec. Kademangan, Kabupaten Blitar, Jawa Timur 66161, Indonesia"
+    }
+]

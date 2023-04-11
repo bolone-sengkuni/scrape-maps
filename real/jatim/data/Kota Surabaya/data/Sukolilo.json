@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "7",
+        "name": "Semolowaru",
+        "postalCode": "60119",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "1",
+        "name": "Gebang Putih",
+        "postalCode": "60117",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "3",
+        "name": "Klampis Ngasem",
+        "postalCode": "60117",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "6",
+        "name": "Nginden Jangkungan",
+        "postalCode": "60118",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "2",
+        "name": "Keputih",
+        "postalCode": "60111",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "5",
+        "name": "Menur Pumpungan",
+        "postalCode": "60118",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "subDistrictId": "4",
+        "name": "Medokan Semampir",
+        "postalCode": "60119",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

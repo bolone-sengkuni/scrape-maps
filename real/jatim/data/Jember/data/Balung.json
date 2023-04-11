@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Curahlele",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Balung Kulon",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "8",
+        "name": "Tutul",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Karang Duren",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Gumelar",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Balung Lor",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Balung Kidul",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Karang Semanding",
+        "postalCode": "68161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

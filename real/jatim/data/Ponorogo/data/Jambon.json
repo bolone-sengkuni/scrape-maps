@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Menang",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Karanglo Kidul",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Bulu Lor",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Poko",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bringinan",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Pulosari",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Krebet",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Blembem",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Jonggol",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Srandil",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Jambon",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Sendang",
+        "postalCode": "63456",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "20",
+        "subDistrictId": "6",
+        "postalCode": "68152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Rambigundam",
+        "kecamatan": "Rambipuji",
+        "kota": "Jember",
+        "alamat": "RT.7/RW.13 Jl. Dharmawangsa, Dusun Gayam, Rambigundam, Kec. Rambipuji, Kabupaten Jember, Jawa Timur 68152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "postalCode": "68135",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sempusari",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.2/RW.13 Jl. Lumba-Lumba Gg. 1 No.6, Mrapa, Sempusari, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 65131, Indonesia"
+    }
+]

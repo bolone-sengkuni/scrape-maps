@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "postalCode": "66181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dayu",
+        "kecamatan": "Nglegok",
+        "kota": "Blitar",
+        "alamat": "RT.9/RW.12 X54F+X5C, Sanan, Dayu, Kec. Nglegok, Kabupaten Blitar, Jawa Timur 66181, Indonesia"
+    }
+]

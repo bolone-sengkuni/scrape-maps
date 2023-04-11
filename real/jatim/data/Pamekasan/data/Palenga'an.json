@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "name": "Panaan",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "name": "Larangan Badung",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "10",
+        "name": "Rombuh",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "9",
+        "name": "Kacok",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "3",
+        "name": "Angsanah",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "2",
+        "name": "Rek Kerrek",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "4",
+        "name": "Akkor",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "name": "Potoan Laok",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "12",
+        "name": "Palengaan Daja",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "11",
+        "name": "Palengaan Laok",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "1",
+        "name": "Banyupelle",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "subDistrictId": "8",
+        "name": "Potoan Daja",
+        "postalCode": "69362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

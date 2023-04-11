@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "postalCode": "66194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purworejo",
+        "kecamatan": "Wates",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.2 P886+33P, Tulungrejo, Wates, Sumberasri, Purworejo, Kec. Wates, Kabupaten Blitar, Jawa Timur 66194, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "postalCode": "66187",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gadungan",
+        "kecamatan": "Gandusari",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.11 Jl. Raya Kawi No.25, Dermosari, Gadungan, Kec. Gandusari, Kabupaten Blitar, Jawa Timur 66187, Indonesia"
+    }
+]

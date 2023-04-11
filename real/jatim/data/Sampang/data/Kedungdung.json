@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "17",
+        "name": "Rabasan",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "16",
+        "name": "Pasarenan",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Kramat",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Daleman",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Banjar",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Ombul",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "name": "Rohayu",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Komis",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Kedungdung",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Bajrasokah",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Gunung Eleh",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Nyeloh",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Batoporo Timur",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Batoporo Barat",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Pajeruan",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Banyukapah",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Muktesareh (Moktesareh)",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Palenggiyan (Palenggian)",
+        "postalCode": "69252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

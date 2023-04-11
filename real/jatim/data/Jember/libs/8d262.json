@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "postalCode": "68132",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tegal Besar",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.1/RW.11 QPX5+MRG, Tumpengsari, Tegal Besar, Kaliwates, Jember Regency, East Java 68131, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "postalCode": "68131",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jember Kidul",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.3/RW.2 Jl. Gajahmada Gg. Gajah Mada II No.19, Kb. Kidul, Jember Kidul, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68131, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "postalCode": "68111",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Patrang",
+        "kecamatan": "Patrang",
+        "kota": "Jember",
+        "alamat": "RT.6/RW.7 VP26+27M, Jl. DR. Soebandi Gg sungai kecil, Cangkring, Patrang, Kec. Patrang, Kabupaten Jember, Jawa Timur 68111, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "postalCode": "68135",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sempusari",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.2/RW.1 Jl. Lumba-Lumba Gg. 1 No.6, Mrapa, Sempusari, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 65131, Indonesia"
+    }
+]

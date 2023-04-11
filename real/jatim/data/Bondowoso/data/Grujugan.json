@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Sumberpandan",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Kabuaran",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Grujugan Kidul",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Pekauman",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Dadapan",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Tegalmijin",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Dawuhan",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Wonosari",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Kejawan",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Taman",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Wanisodo",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Boto",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Lumbang",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Branggah",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Lambangkuning",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "10",
+        "name": "Wonogoro",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "name": "Sapih",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "9",
+        "name": "Tandongsentul (Tandon Sentul)",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Negororejo",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "name": "Purut",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Palangbesi",
+        "postalCode": "67255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

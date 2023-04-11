@@ -1,0 +1,182 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "18",
+        "name": "Soko",
+        "longitude": 111.9385015,
+        "latitude": -7.0986139
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "2",
+        "name": "Bancar",
+        "longitude": 111.7414239,
+        "latitude": -6.8105405
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "name": "Palang",
+        "longitude": 112.1425065,
+        "latitude": -7.0019424
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "14",
+        "name": "Rengel",
+        "longitude": 112.0196885,
+        "latitude": -7.0826879
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "10",
+        "name": "Montong",
+        "longitude": 111.88404,
+        "latitude": -6.9744645
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "3",
+        "name": "Bangilan",
+        "longitude": 111.710688,
+        "latitude": -6.9616105
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "name": "Jatirogo",
+        "longitude": 111.680074,
+        "latitude": -6.8655764
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "19",
+        "name": "Tambakboyo",
+        "longitude": 111.8150315,
+        "latitude": -6.8514456
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "20",
+        "name": "Widang",
+        "longitude": 112.1684644,
+        "latitude": -7.03965
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "7",
+        "name": "Kenduruan",
+        "longitude": 111.628669,
+        "latitude": -6.937079
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "16",
+        "name": "Senori",
+        "longitude": 111.723168,
+        "latitude": -7.0361635
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "name": "Semanding",
+        "longitude": 112.05252,
+        "latitude": -6.9629259
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "name": "Tuban",
+        "longitude": 112.0403455,
+        "latitude": -6.8921205
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "name": "Plumpang",
+        "longitude": 112.1066409,
+        "latitude": -7.0454225
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "name": "Jenu",
+        "longitude": 111.9702769,
+        "latitude": -6.8237125
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "name": "Parengan",
+        "longitude": 111.8472565,
+        "latitude": -7.0634805
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "9",
+        "name": "Merakurak",
+        "longitude": 111.9621731,
+        "latitude": -6.8774565
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "8",
+        "name": "Kerek",
+        "longitude": 111.845952,
+        "latitude": -6.883573
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "17",
+        "name": "Singgahan",
+        "longitude": 111.7735809,
+        "latitude": -6.978083
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "4",
+        "name": "Grabagan",
+        "longitude": 111.99666,
+        "latitude": -7.0027735
+    }
+]

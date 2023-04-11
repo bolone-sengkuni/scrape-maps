@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Turi Pinggir",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Sumbersari",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Gongseng",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Balongsari",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Pacar Peluk",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Sudimoro",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Dukuh Arum",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Kedung Rejo",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Sidomulyo",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Sumber Agung",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Megaluh",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Balonggemek",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Ngogri",
+        "postalCode": "61457",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

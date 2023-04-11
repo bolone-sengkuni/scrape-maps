@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "3",
+        "name": "Karangsari",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "name": "Temuguruh",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "4",
+        "name": "Sempu",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "name": "Gendoh",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "2",
+        "name": "Jambewangi",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "name": "Temuasri",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "subDistrictId": "5",
+        "name": "Tegalarum",
+        "postalCode": "68468",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

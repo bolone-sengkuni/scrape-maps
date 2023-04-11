@@ -1,0 +1,182 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "11",
+        "name": "Sempol",
+        "longitude": 114.1574219,
+        "latitude": -8.048249
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "name": "Bondowoso",
+        "longitude": 113.9360271,
+        "latitude": -7.945285
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "name": "Klabang",
+        "longitude": 113.9178335,
+        "latitude": -7.8464685
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "20",
+        "name": "Wringin",
+        "longitude": 113.7755296,
+        "latitude": -7.8129545
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "15",
+        "name": "Tapen",
+        "longitude": 113.9418405,
+        "latitude": -7.8828765
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "name": "Cermee",
+        "longitude": 114.0480544,
+        "latitude": -7.776064
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "5",
+        "name": "Grujugan",
+        "longitude": 113.750372,
+        "latitude": -7.972814
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "name": "Curahdami",
+        "longitude": 113.7580915,
+        "latitude": -7.924524
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "17",
+        "name": "Tenggarang",
+        "longitude": 113.849415,
+        "latitude": -7.9340001
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "name": "Wonosari",
+        "longitude": 113.897598,
+        "latitude": -7.8853168
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "7",
+        "name": "Maesan",
+        "longitude": 113.7407145,
+        "latitude": -8.0167715
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "16",
+        "name": "Tegalampel",
+        "longitude": 113.816833,
+        "latitude": -7.8702665
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "13",
+        "name": "Sumber Wringin",
+        "longitude": 114.0299153,
+        "latitude": -8.0275421
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "12",
+        "name": "Sukosari",
+        "longitude": 113.9550456,
+        "latitude": -7.9383465
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "2",
+        "name": "Binakal",
+        "longitude": 113.7303136,
+        "latitude": -7.9183125
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "name": "Tlogosari",
+        "longitude": 113.98238,
+        "latitude": -8.0429595
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "9",
+        "name": "Prajekan",
+        "longitude": 114.0053785,
+        "latitude": -7.8405505
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "name": "Pujer",
+        "longitude": 113.890356,
+        "latitude": -7.9796315
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "name": "Pakem",
+        "longitude": 113.6995551,
+        "latitude": -7.904036
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "14",
+        "name": "Tamanan",
+        "longitude": 113.831512,
+        "latitude": -8.0196874
+    }
+]

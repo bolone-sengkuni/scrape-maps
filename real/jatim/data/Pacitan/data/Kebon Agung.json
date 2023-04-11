@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "16",
+        "name": "Sanggrahan",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Gawang",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Punjung",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Klesem",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Katipugal",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Karanganyar",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "name": "Wonogondo",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Banjarjo",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "19",
+        "name": "Worawari",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Karangnongko",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Purwoasri",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Ketro",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "17",
+        "name": "Sidomulyo",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Kalipelus",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Gembuk",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Mantren",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Ketepung",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Plumbungan (Pelumbungan)",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Kebonagung",
+        "postalCode": "63561",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

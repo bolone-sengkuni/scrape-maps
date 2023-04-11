@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "17",
+        "name": "Tanggalrejo",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Karangwinongan",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Dukuh Mojo",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Kedunglumpang",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Mancilan",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "15",
+        "name": "Murukan",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Dukuhdimoro",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Gambiran",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Kademangan",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Kauman",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Betek",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Janti",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "16",
+        "name": "Seketi",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Johowinong",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Karobelah",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Miagan",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "18",
+        "name": "Tejo",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "subDistrictId": "14",
+        "name": "Mojotrisno",
+        "postalCode": "61482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

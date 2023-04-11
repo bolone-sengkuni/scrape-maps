@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Kresek",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Mojopurno",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Bantengan",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Mojorayung",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Karangrejo",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "name": "Sidorejo",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "13",
+        "name": "Tempursari",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Munggut",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "12",
+        "name": "Sobrah",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "14",
+        "name": "Wungu",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "name": "Pilangrejo",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Nglambangan",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "9",
+        "name": "Nglanduk",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Brumbun",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

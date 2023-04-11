@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "8",
+        "name": "Ngino",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "13",
+        "name": "Sebet",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "name": "Langenharjo",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "15",
+        "name": "Sukoharjo",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "14",
+        "name": "Sidowarek",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "17",
+        "name": "Wonokerto",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "11",
+        "name": "Puhjarak",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "9",
+        "name": "Payaman",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "5",
+        "name": "Mejono",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "name": "Mojokerep",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "10",
+        "name": "Plemahan",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "6",
+        "name": "Mojoayu",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "name": "Banjarejo",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "16",
+        "name": "Tegowangi",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "name": "Kayen Lor",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "name": "Bogokidul",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "19",
+        "subDistrictId": "12",
+        "name": "Ringinpitu",
+        "postalCode": "64155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

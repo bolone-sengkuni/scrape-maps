@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Wonokerto",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Bandungrejo",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Bantur",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Srigonco",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Karangsari",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Rejosari",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Pringgodani",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Sumberbening",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Wonorejo",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Rejoyoso",
+        "postalCode": "65179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

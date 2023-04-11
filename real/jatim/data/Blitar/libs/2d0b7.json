@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "postalCode": "66194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tulungrejo",
+        "kecamatan": "Wates",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.6 P8JG+GC8, Ringin Rejo, Tulungrejo, Kec. Wates, Kabupaten Blitar, Jawa Timur 66194, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "postalCode": "66194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukorejo",
+        "kecamatan": "Wates",
+        "kota": "Blitar",
+        "alamat": "RT.5/RW.8 P9F4+XVH, Sukorejo, Kec. Wates, Kabupaten Blitar, Jawa Timur 66194, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "postalCode": "66194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mojorejo",
+        "kecamatan": "Wates",
+        "kota": "Blitar",
+        "alamat": "RT.9/RW.6 P9Q3+43M, Jl. Wijaya Kusuma, Banyuurip, Mojorejo, Kec. Wates, Kabupaten Blitar, Jawa Timur 66194, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "postalCode": "66194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purworejo",
+        "kecamatan": "Wates",
+        "kota": "Blitar",
+        "alamat": "RT.5/RW.3 P899+QRX, Sumberurip, Purworejo, Kec. Wates, Kabupaten Blitar, Jawa Timur 66194, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "postalCode": "66194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purworejo",
+        "kecamatan": "Wates",
+        "kota": "Blitar",
+        "alamat": "RT.6/RW.5 P8H8+M92, Sumberdadi, Purworejo, Kec. Wates, Kabupaten Blitar, Jawa Timur 00000, Indonesia"
+    }
+]

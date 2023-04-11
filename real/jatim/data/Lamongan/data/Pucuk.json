@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "12",
+        "name": "Pucuk",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "14",
+        "name": "Tanggungan",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "9",
+        "name": "Padenganploso",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "15",
+        "name": "Wanar",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "4",
+        "name": "Gempolpading",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "17",
+        "name": "Waruwetan",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "13",
+        "name": "Sumberjo",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "5",
+        "name": "Karangtinggil",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "8",
+        "name": "Ngambeg",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "10",
+        "name": "Paji",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "name": "Kesambi",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "11",
+        "name": "Plososetro",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "16",
+        "name": "Warukulon",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "2",
+        "name": "Bugoharjo",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "6",
+        "name": "Kedali",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "1",
+        "name": "Babatkumpul",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "name": "Cungkup",
+        "postalCode": "62257",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

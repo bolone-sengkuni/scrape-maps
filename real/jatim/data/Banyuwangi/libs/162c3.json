@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pesanggaran",
+        "kecamatan": "Pesanggaran",
+        "kota": "Banyuwangi",
+        "alamat": "RT.3/RW.2 Perumahan Bumi Emas Residence Blok D.3, Dusun Ringinsari, Pesanggaran, Kec. Pesanggaran, Kabupaten Banyuwangi, Jawa Timur 68488, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "postalCode": "68486",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wringin Agung",
+        "kecamatan": "Gambiran",
+        "kota": "Banyuwangi",
+        "alamat": "RT.5/RW.9 H57J+PW4, Sumberrejo, Wringin Agung, Kec. Gambiran, Kabupaten Banyuwangi, Jawa Timur 68486, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pesanggaran",
+        "kecamatan": "Pesanggaran",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.9 KSP milan, Dusun krajan rtrw 04/02, Pesanggaran Masuk gang depan, Dusun Krajan, Pesanggaran, Kec. Pesanggaran, Kabupaten Banyuwangi, Jawa Timur 68488, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kesilir",
+        "kecamatan": "Siliragung",
+        "kota": "Banyuwangi",
+        "alamat": "RT.9/RW.10 Jalan H Ihsan,Sumber Suko Rt04 Rw04, Dusun Sumbersuko, Kesilir, Siliragung, Banyuwangi Regency, East Java 68487, Indonesia"
+    }
+]

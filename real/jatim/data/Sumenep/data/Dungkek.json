@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Lapa Taman",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Jadung",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Romben Guna",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Candi",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Bancamara",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Banraas",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Romben Barat",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "14",
+        "name": "Romben Rana",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Lapa Daya",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Bunpenang",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Bicabi",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Lapa Laok",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Bungin Bungin",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "15",
+        "name": "Tamansare",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Dungkek",
+        "postalCode": "69474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

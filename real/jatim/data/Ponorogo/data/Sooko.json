@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "subDistrictId": "4",
+        "name": "Ngadirojo (Ngadirejo)",
+        "postalCode": "63482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "subDistrictId": "2",
+        "name": "Jurug",
+        "postalCode": "63482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "subDistrictId": "1",
+        "name": "Bedoho",
+        "postalCode": "63482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "subDistrictId": "5",
+        "name": "Sooko",
+        "postalCode": "63482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "subDistrictId": "6",
+        "name": "Suru (Seru)",
+        "postalCode": "63482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "subDistrictId": "3",
+        "name": "Klepu",
+        "postalCode": "63482",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

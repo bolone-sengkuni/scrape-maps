@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "postalCode": "69161",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Socah",
+        "kecamatan": "Socah",
+        "kota": "Bangkalan",
+        "alamat": "RT.5/RW.12 WP55+V7V, Jl. Raya Socah, Socah, Kec. Socah, Kabupaten Bangkalan, Jawa Timur 69161, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "postalCode": "69161",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Keleyan",
+        "kecamatan": "Socah",
+        "kota": "Bangkalan",
+        "alamat": "RT.7/RW.14 WP97+27W, Jl. Jend. A. Yani, Bandung Barat, Keleyan, Kec. Socah, Kabupaten Bangkalan, Jawa Timur 69161, Indonesia"
+    }
+]

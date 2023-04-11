@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "name": "Klompang Timur",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Banban",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "name": "Palalang",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Bajang",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "12",
+        "name": "Somalang",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "9",
+        "name": "Pakong",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Bicorong",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Klompang Barat",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "11",
+        "name": "Seddur",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Cenlecen",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "8",
+        "name": "Lebbek",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Bandungan",
+        "postalCode": "69352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "name": "Purworejo",
+        "longitude": 112.8944844,
+        "latitude": -7.664807
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "name": "Bugul Kidul",
+        "longitude": 112.9246705,
+        "latitude": -7.6508124
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "2",
+        "name": "Gadingrejo",
+        "longitude": 112.889443,
+        "latitude": -7.6422685
+    }
+]

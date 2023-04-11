@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "name": "Ketawang",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "3",
+        "name": "Gondanglegi Kulon",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "8",
+        "name": "Putat Lor",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "13",
+        "name": "Sumberjaya",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "name": "Putat Kidul",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "11",
+        "name": "Sukorejo",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "12",
+        "name": "Sukosari",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "name": "Panggungharjo",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "14",
+        "name": "Urek Urek",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "4",
+        "name": "Gondanglegi Wetan",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "1",
+        "name": "Bulupitu",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "9",
+        "name": "Putukrejo",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "10",
+        "name": "Sepanjang",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "subDistrictId": "2",
+        "name": "Ganjaran",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

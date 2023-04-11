@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "name": "Pelem",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Bungkal",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Ketonggo",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Munggu",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Kwajon",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Bekare",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Nambak",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Bungu",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "19",
+        "name": "Sambilawang",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Bedi Wetan",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Kunti",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Bancar",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Belang (Blang)",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "17",
+        "name": "Pager",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Bedi Kulon",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Koripan",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "16",
+        "name": "Padas",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Kupuk",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Kalisat",
+        "postalCode": "63462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

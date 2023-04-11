@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Labuhan",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Labang",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Plasah",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Junuk (Junok)",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Disanah",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Taman",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Noreh",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Bangsah",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Marparan",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Bundah",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Sreseh",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Klobur",
+        "postalCode": "69273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

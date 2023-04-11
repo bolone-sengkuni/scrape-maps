@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Dukuh",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Slawe",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Watulimo",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Sawahan",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Tasikmadu",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Prigi",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Watuagung",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Ngembel",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Pakel",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Margomulyo",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Gemaharjo",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Karanggandu",
+        "postalCode": "66382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

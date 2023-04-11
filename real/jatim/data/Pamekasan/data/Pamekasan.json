@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Nylabu Daya atau Daja",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "18",
+        "name": "Toronan",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "14",
+        "name": "Parteker",
+        "postalCode": "69311",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Barurambat Kota (Barkot)",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "16",
+        "name": "Tejah atau Teja Barat",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Jungcangcang",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Bugih",
+        "postalCode": "69316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "17",
+        "name": "Tejah atau Teja Timur",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Jalmak",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "name": "Panempan",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "15",
+        "name": "Patemon",
+        "postalCode": "69312",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Kangenan",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Kowel",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Nylabu Laok",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Gladak Anyar",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Kolpajung",
+        "postalCode": "69314",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Laden",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Bettet",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

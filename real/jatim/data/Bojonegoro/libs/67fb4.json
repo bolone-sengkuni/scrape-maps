@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "postalCode": "62192",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Banjaranyar",
+        "kecamatan": "Baureno",
+        "kota": "Bojonegoro",
+        "alamat": "RT.1/RW.10 R3Q2+X5M, Jl. P. Sudirman Mejuwet', Banjaranyar, Kec. Baureno, Kabupaten Bojonegoro, Jawa Timur 62192, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "postalCode": "62192",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Banjaranyar",
+        "kecamatan": "Baureno",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.9 Jl. P. Sudirman Mejuwet' No.20-10, Banjaranyar, Kec. Baureno, Kabupaten Bojonegoro, Jawa Timur 62193, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberejo",
+        "kecamatan": "Margomulyo",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.10 MG95+9FX, Jl. Raya Ngawi-Cepu, Pluntu, Sumberejo, Kec. Margomulyo, Kabupaten Bojonegoro, Jawa Timur 62168, Indonesia"
+    }
+]

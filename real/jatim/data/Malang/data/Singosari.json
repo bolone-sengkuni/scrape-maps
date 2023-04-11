@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "6",
+        "name": "Gunungrejo",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "12",
+        "name": "Randuagung",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "8",
+        "name": "Langlang",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "5",
+        "name": "Dengkol",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "3",
+        "name": "Baturetno",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "17",
+        "name": "Wonorejo",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "11",
+        "name": "Purwoasri",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "15",
+        "name": "Tunjungtirto",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "13",
+        "name": "Tamanharjo",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "16",
+        "name": "Watugede",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "name": "Klampok",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "9",
+        "name": "Losari",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "1",
+        "name": "Ardimulyo",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "4",
+        "name": "Candirenggo",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "10",
+        "name": "Pagentan",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "14",
+        "name": "Toyomarto",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "subDistrictId": "2",
+        "name": "Banjararum",
+        "postalCode": "65153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

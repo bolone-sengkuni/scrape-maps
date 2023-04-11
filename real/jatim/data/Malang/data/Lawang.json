@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "name": "Sumber Porong",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "13",
+        "name": "Sumberporong",
+        "postalCode": "65212",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Lawang",
+        "postalCode": "65211",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Bedali",
+        "postalCode": "65215",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Kalirejo",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Sidodadi",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "name": "Turirejo",
+        "postalCode": "65213",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Sidoluhur",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Srigading",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "9",
+        "name": "Sumber Ngepoh",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Ketindan",
+        "postalCode": "65214",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "12",
+        "name": "Wonorejo",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Mulyoarjo",
+        "postalCode": "65216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kanigoro",
+        "kecamatan": "Kanigoro",
+        "kota": "Blitar",
+        "alamat": "RT.9/RW.10 V697+X79, Jl. Kusuma Bangsa No.60, Kanigoro, Kec. Kanigoro, Kabupaten Blitar, Jawa Timur 66171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kandangan",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.13 Jl. Raya Bendo No.16, Duren, Kandangan, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngaglik",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.8/RW.6 Biluk, Ngaglik, Srengat, Blitar Regency, East Java 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngaglik",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.9/RW.11 Jl. Jatirejo, Ngaglik, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    }
+]

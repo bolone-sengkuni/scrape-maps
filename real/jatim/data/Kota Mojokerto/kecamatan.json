@@ -1,0 +1,20 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "21",
+        "districtId": "2",
+        "name": "Prajurit Kulon",
+        "longitude": 112.425135,
+        "latitude": -7.4754755
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "21",
+        "districtId": "1",
+        "name": "Magersari",
+        "longitude": 112.437895,
+        "latitude": -7.4592565
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Nambangan Lor",
+        "postalCode": "63129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Manguharjo",
+        "postalCode": "63127",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Sogaten",
+        "postalCode": "63129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Pangongangan",
+        "postalCode": "63121",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Madiun Lor",
+        "postalCode": "63122",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Patihan",
+        "postalCode": "63123",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Ngegong",
+        "postalCode": "63125",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Winongo",
+        "postalCode": "63126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Nambangan Kidul",
+        "postalCode": "63128",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Nongkodono",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Plosojenar",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "15",
+        "name": "Tegalombo",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Bringin",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Nglarangan (Nlarangan)",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "16",
+        "name": "Tosanan",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Somoroto",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Carat",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Ngrandu",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "14",
+        "name": "Sukosari",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Pengkol",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Maron",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Ciluk",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Gabel",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Semanding",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Kauman",
+        "postalCode": "63451",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

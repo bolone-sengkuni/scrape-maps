@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "postalCode": "63261",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mantingan",
+        "kecamatan": "Mantingan",
+        "kota": "Ngawi",
+        "alamat": "RT.4/RW.1 Jl. Maospati - Solo No.16, Pasar, Mantingan, Kec. Mantingan, Kabupaten Ngawi, Jawa Timur 63261, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "postalCode": "63261",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mantingan",
+        "kecamatan": "Mantingan",
+        "kota": "Ngawi",
+        "alamat": "RT.6/RW.9 Jl. Mantingan-Pakah No.26, Pasar, Mantingan, Kec. Mantingan, Kabupaten Ngawi, Jawa Timur 63261, Indonesia"
+    }
+]

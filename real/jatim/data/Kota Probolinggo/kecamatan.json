@@ -1,0 +1,47 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "5",
+        "name": "Kedopok",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "1",
+        "name": "Kademangan",
+        "longitude": 113.1811455,
+        "latitude": -7.775545
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "2",
+        "name": "Mayangan",
+        "longitude": 113.2157765,
+        "latitude": -7.735008
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "4",
+        "name": "Kanigaran",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "name": "Wonoasih",
+        "longitude": 113.2050155,
+        "latitude": -7.8022755
+    }
+]

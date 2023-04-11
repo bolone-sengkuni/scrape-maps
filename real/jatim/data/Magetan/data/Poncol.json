@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Cileng",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Sombo",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Plangkrongan",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Janggan",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Gonggang",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Genilangit",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Alastuwo",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Poncol",
+        "postalCode": "63362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

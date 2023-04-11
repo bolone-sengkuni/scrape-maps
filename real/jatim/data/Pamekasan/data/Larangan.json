@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Lancar",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Panaguan",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Blumbungan",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Kaduara Barat",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Dukuh atau Duko Timur",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Taraban",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Trasak",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Larangan Dalam",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Grujugan",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Larangan Luar",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Peltong",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Montok",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Tentenan Timur",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Tentenan Barat",
+        "postalCode": "69383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

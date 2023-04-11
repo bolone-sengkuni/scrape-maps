@@ -1,0 +1,110 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "5",
+        "name": "Kebon Agung",
+        "longitude": 111.1625724,
+        "latitude": -8.215263
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "name": "Sudimoro",
+        "longitude": 111.3748861,
+        "latitude": -8.2183041
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "12",
+        "name": "Tulakan",
+        "longitude": 111.275121,
+        "latitude": -8.1742565
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "8",
+        "name": "Pringkuku",
+        "longitude": 111.034295,
+        "latitude": -8.1746383
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "3",
+        "name": "Bandar",
+        "longitude": 111.264335,
+        "latitude": -7.995015
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "1",
+        "name": "Pacitan",
+        "longitude": 111.1626509,
+        "latitude": -8.101907
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "name": "Punung",
+        "longitude": 111.0196849,
+        "latitude": -8.1318099
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "6",
+        "name": "Nawangan",
+        "longitude": 111.1885099,
+        "latitude": -7.9916766
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "2",
+        "name": "Arjosari",
+        "longitude": 111.1594,
+        "latitude": -8.0927445
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "11",
+        "name": "Tegalombo",
+        "longitude": 111.290194,
+        "latitude": -8.0445331
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "name": "Donorojo",
+        "longitude": 110.95917,
+        "latitude": -8.1459779
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "7",
+        "name": "Ngadirojo",
+        "longitude": 111.3293835,
+        "latitude": -8.212891
+    }
+]

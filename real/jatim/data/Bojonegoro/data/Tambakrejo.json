@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "2",
+        "name": "Dolok Gede",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "17",
+        "name": "Tanjung",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "15",
+        "name": "Sukorejo",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "10",
+        "name": "Mulyorejo",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "12",
+        "name": "Ngrancang",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "18",
+        "name": "Turi",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "14",
+        "name": "Sendangrejo",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "11",
+        "name": "Napis",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "4",
+        "name": "Gamongan",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "1",
+        "name": "Bakalan",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "16",
+        "name": "Tambak Rejo",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "8",
+        "name": "Kalisumber",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "5",
+        "name": "Jatimulyo",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "7",
+        "name": "Kacangan",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "13",
+        "name": "Pengkol",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "3",
+        "name": "Gading",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "9",
+        "name": "Maling Mati",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "subDistrictId": "6",
+        "name": "Jawik",
+        "postalCode": "62166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

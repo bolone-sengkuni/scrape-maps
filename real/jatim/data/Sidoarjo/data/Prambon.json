@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "16",
+        "name": "Simpang",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Kedungsugo",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Jatikalang",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "15",
+        "name": "Simogirang",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Kedungkembar",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Kedungwonokerto",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "20",
+        "name": "Wono Plintahan",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Kajartengguli",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Jati Alun Alun",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Bendotretek",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Pejangkungan",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "17",
+        "name": "Temu",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Jedongcangkring",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "19",
+        "name": "Wirobiting",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Gedangrowo",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "18",
+        "name": "Watutulis",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "14",
+        "name": "Prambon",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Bulang",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Cangkringturi",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Gampang",
+        "postalCode": "61264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

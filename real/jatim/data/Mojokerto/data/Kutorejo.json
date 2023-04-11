@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Pesanggrahan",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "14",
+        "name": "Simbaringin",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Jiyu",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Kepuhpandak",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Payungrejo",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Gedangan",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "17",
+        "name": "Wonodadi",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "16",
+        "name": "Windurejo",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Kepuharum",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Kaligoro",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Kutorejo",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Karangasem",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Sampangagung",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Sawo",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "15",
+        "name": "Singowangi",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Karangdiyeng",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Kertosari",
+        "postalCode": "61383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

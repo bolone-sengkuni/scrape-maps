@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sidorejo",
+        "kecamatan": "Wungu",
+        "kota": "Madiun",
+        "alamat": "RT.5/RW.4 Jl. Merapi No.32, Balong, Sidorejo, Kec. Wungu, Kabupaten Madiun, Jawa Timur 63181, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mojopurno",
+        "kecamatan": "Wungu",
+        "kota": "Madiun",
+        "alamat": "RT.7/RW.1 9H23+V4F, Jl. Flamboyan, Krajan II, Mojopurno, Kec. Wungu, Kabupaten Madiun, Jawa Timur 63181, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Munggut",
+        "kecamatan": "Wungu",
+        "kota": "Madiun",
+        "alamat": "RT.8/RW.5 Jl. Wijaya Kusuma Jl. Janur Sari Gg. I No..1, Pojok Dua, Munggut, Kec. Wungu, Kota Madiun, Jawa Timur 63181, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "postalCode": "63181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bantengan",
+        "kecamatan": "Wungu",
+        "kota": "Madiun",
+        "alamat": "Jl. Rajawali, Krajan No.02, RT.04/RW.RW, Krajan, Bantengan, Kec. Wungu, Kabupaten Madiun, Jawa Timur 63181, Indonesia"
+    }
+]

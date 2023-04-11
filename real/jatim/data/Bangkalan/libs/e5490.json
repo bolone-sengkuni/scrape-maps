@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "postalCode": "69115",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Demangan",
+        "kecamatan": "Bangkalan",
+        "kota": "Bangkalan",
+        "alamat": "RT.3/RW.3 XPCX+2X7, Kasorjan, Demangan, Bangkalan, Bangkalan Regency, East Java 69115, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "postalCode": "69161",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Keleyan",
+        "kecamatan": "Socah",
+        "kota": "Bangkalan",
+        "alamat": "RT.6/RW.7 WP97+27W, Jl. Jend. A. Yani, Bandung Barat, Keleyan, Kec. Socah, Kabupaten Bangkalan, Jawa Timur 69161, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "3",
+        "subDistrictId": "19",
+        "postalCode": "69174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Rosep",
+        "kecamatan": "Blega",
+        "kota": "Bangkalan",
+        "alamat": "RT.2/RW.9 V393+WFH, Jl. Raya Blega, Kedong, Rosep, Kec. Blega, Kabupaten Bangkalan, Jawa Timur 69174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "postalCode": "69155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bandang Laok",
+        "kecamatan": "Kokop",
+        "kota": "Bangkalan",
+        "alamat": "RT.9/RW.6 3344+2WM, Seloeh, Bandang Laok, Kec. Kokop, Kabupaten Bangkalan, Jawa Timur 69155, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "postalCode": "69155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mandung",
+        "kecamatan": "Kokop",
+        "kota": "Bangkalan",
+        "alamat": "RT.1/RW.6 Jl.Pon Pes Assyarqowiyah Poloh Desa Mandung No.3, Rambay, Mandung, Kec. Kokop, Kabupaten Bangkalan, Jawa Timur 69155, Indonesia"
+    }
+]

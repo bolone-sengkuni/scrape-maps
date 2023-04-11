@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "9",
+        "name": "Sembung",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "5",
+        "name": "Lebaniwaras",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "name": "Pasinan Lemahputih",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "12",
+        "name": "Sumbergede",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "13",
+        "name": "Sumberwaru",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "10",
+        "name": "Soko (Sooko)",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "4",
+        "name": "Lebanisuko",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "16",
+        "name": "Wringinanom",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "14",
+        "name": "Sumengko",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "name": "Kesamben Kulon",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "2",
+        "name": "Kepuhklagen",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "6",
+        "name": "Mondoluku",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "15",
+        "name": "Watestanjung",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "8",
+        "name": "Pedagangan",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "11",
+        "name": "Sumberame",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "subDistrictId": "1",
+        "name": "Kedunganyar",
+        "postalCode": "61176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

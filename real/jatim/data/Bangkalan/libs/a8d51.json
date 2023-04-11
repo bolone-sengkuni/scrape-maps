@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "2",
+        "subDistrictId": "17",
+        "postalCode": "69151",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tambegan",
+        "kecamatan": "Arosbaya",
+        "kota": "Bangkalan",
+        "alamat": "RT.8/RW.10 Jl. Raya Air Mata, Tambegan Timur, Tambegan, Kec. Arosbaya, Kabupaten Bangkalan, Jawa Timur 69151, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "postalCode": "69151",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Buduran",
+        "kecamatan": "Arosbaya",
+        "kota": "Bangkalan",
+        "alamat": "RT.6/RW.2 Jl. Raya Air Mata, Tragah, Buduran, Kec. Arosbaya, Kabupaten Bangkalan, Jawa Timur 69151, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "postalCode": "69151",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Lajing",
+        "kecamatan": "Arosbaya",
+        "kota": "Bangkalan",
+        "alamat": "RT.8/RW.2 2RH5+RF2, Janglor II, Lajing, Kec. Arosbaya, Kabupaten Bangkalan, Jawa Timur 69151, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "postalCode": "69151",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Berbeluk",
+        "kecamatan": "Arosbaya",
+        "kota": "Bangkalan",
+        "alamat": "RT.9/RW.6 2VP8+H2G, Jl. Raya Berbeluk, Pancor, Berbeluk, Kec. Arosbaya, Kabupaten Bangkalan, Jawa Timur 69151, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "postalCode": "69121",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Binoh",
+        "kecamatan": "Burneh",
+        "kota": "Bangkalan",
+        "alamat": "RT.3/RW.13 XRPW+J5X, Socen, Binoh, Kec. Burneh, Kabupaten Bangkalan, Jawa Timur 69121, Indonesia"
+    }
+]

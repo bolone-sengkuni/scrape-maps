@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Kupang",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "12",
+        "name": "Sumbersuko",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Locare",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "8",
+        "name": "Petung",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Penambangan",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "11",
+        "name": "Sumber Salak",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Curahdami",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "10",
+        "name": "Silolembu",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Pakuwesi",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "9",
+        "name": "Poncogati",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Curahpoh",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Jetis",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

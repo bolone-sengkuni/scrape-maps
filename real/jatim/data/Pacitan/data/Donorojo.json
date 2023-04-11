@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "11",
+        "name": "Sukodono",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Kalak",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Donorojo",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "8",
+        "name": "Sawahan",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "9",
+        "name": "Sekar",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Belah",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "12",
+        "name": "Widoro",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "10",
+        "name": "Sendang",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Klepu",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Cemeng",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Gedompol",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Gendaran",
+        "postalCode": "63554",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

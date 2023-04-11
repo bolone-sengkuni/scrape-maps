@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngabetan",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "RT.3/RW.3 Perum Bhumi Apsari blok H-11Ngabetan, Cerme, Kejambon, Ngabetan, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Betiting",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "RT.3/RW.3 Jl. Delima No.8, Betiting, Cerme, Gresik Regency, East Java 61171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Cerme Lor",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "RT.1/RW.5 QHJC+R43, Jl. Raya Cerme Lor, Cerme Lor, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Cerme Kidul",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "QH97+RCR, Jl. Cerme Kidul, RT.2 Rw2, Cerme Kidul, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"
+    }
+]

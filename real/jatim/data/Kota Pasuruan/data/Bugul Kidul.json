@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Sekargadung",
+        "postalCode": "67127",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Bugul Kidul",
+        "postalCode": "67129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Blandongan",
+        "postalCode": "67128",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Pekuncen",
+        "postalCode": "67126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Bugul Lor",
+        "postalCode": "67129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Kepel",
+        "postalCode": "67129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "name": "Tapaan",
+        "postalCode": "67129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Krampyangan",
+        "postalCode": "67127",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Kandang Sapi",
+        "postalCode": "67125",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Petamanan",
+        "postalCode": "67126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Bakalan",
+        "postalCode": "67128",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Panggungrejo",
+        "postalCode": "67124",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Mandaranrejo",
+        "postalCode": "67123",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

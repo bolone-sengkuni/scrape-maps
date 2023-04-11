@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Dayurejo",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "13",
+        "name": "Sukoreno",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Sukolelo",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Bulukandang",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Prigen",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Pecalukan",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Lumbang Rejo",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Ketanireng",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "14",
+        "name": "Watuagung",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Candi Wates",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Ledug",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Gambiran",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Sekarjoho",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Jatiarjo",
+        "postalCode": "67157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

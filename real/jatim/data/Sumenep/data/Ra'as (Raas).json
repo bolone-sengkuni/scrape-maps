@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "2",
+        "name": "Jungkat",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "1",
+        "name": "Ketupat",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "4",
+        "name": "Karangnangka",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "7",
+        "name": "Brakas",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "9",
+        "name": "Guwa Guwa",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "3",
+        "name": "Karopoh",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "8",
+        "name": "Tonduk",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "6",
+        "name": "Poteran",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "subDistrictId": "5",
+        "name": "Alasmalang",
+        "postalCode": "69485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

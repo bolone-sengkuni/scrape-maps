@@ -1,0 +1,29 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "2",
+        "name": "Bumiaji",
+        "longitude": 112.5331694,
+        "latitude": -7.8046255
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "1",
+        "name": "Batu",
+        "longitude": 112.5223041,
+        "latitude": -7.8806987
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "name": "Junrejo",
+        "longitude": 112.5414135,
+        "latitude": -7.9033361
+    }
+]

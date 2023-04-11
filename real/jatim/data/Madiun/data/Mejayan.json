@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "14",
+        "name": "Wonorejo",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Kaliabu",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Darmorejo",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Pandeyan",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Bangunsari",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Kaligunting",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Blabakan",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Krajan",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Kebonagung",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Mejayan",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Kuncen",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Sidodadi",
+        "postalCode": "63112",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Ngampel",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Klecorejo",
+        "postalCode": "63153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

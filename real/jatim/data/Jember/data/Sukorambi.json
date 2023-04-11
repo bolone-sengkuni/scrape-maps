@@ -1,0 +1,57 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "23",
+        "subDistrictId": "3",
+        "name": "Karangpring",
+        "postalCode": "68151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "23",
+        "subDistrictId": "4",
+        "name": "Kelungkung",
+        "postalCode": "68151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "23",
+        "subDistrictId": "1",
+        "name": "Dukuh Mencek",
+        "postalCode": "68151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "23",
+        "subDistrictId": "5",
+        "name": "Sukorambi",
+        "postalCode": "68151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "23",
+        "subDistrictId": "2",
+        "name": "Jubung",
+        "postalCode": "68151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

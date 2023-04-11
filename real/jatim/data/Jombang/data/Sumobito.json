@@ -1,0 +1,233 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "14",
+        "name": "Palrejo",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "15",
+        "name": "Plemahan",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "11",
+        "name": "Mentoro",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "9",
+        "name": "Kendalsari",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "12",
+        "name": "Mlaras",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "5",
+        "name": "Curah Malang",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "19",
+        "name": "Sumobito",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "6",
+        "name": "Gedangan",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "21",
+        "name": "Trawasan",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "name": "Jogoloyo",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "name": "Brudu",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "20",
+        "name": "Talun Kidul",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "10",
+        "name": "Madyo Puro",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "17",
+        "name": "Sebani",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "name": "Budugsidorejo",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "name": "Bakalan",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "name": "Badas",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "8",
+        "name": "Kedungpapar",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "13",
+        "name": "Nglele",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "16",
+        "name": "Plosokerep",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "subDistrictId": "18",
+        "name": "Segodorejo",
+        "postalCode": "61483",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

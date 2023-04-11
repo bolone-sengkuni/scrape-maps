@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.8/RW.9 PP8F+2WX, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sengon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.7/RW.13 MPW4+Q8H, Unnamed Road, Ngrapeh, Sengon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bondol",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.5/RW.9 Bondol, Ngambon, Bojonegoro Regency, East Java 62167, Indonesia"
+    }
+]

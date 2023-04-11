@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Jatinom",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Karangsono",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "12",
+        "name": "Tlogo",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Gogodeso",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Kanigoro",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "9",
+        "name": "Papungan",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "name": "Satreyan",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Gaprang",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Banggle",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "8",
+        "name": "Minggirsari",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "name": "Kuningan",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "11",
+        "name": "Sawentar",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

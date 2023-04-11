@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "name": "Duyung",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "4",
+        "name": "Kerang",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "2",
+        "name": "Jomblang",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "3",
+        "name": "Kepuhrejo",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "8",
+        "name": "Madigondo",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "name": "Kiringan",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "10",
+        "name": "Takeran",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "5",
+        "name": "Kerik",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "11",
+        "name": "Tawangrejo",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "12",
+        "name": "Waduk",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "name": "Kuwonharjo",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "9",
+        "name": "Sawojajar",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

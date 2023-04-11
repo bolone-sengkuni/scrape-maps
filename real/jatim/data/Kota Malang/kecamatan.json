@@ -1,0 +1,47 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "name": "Kedungkandang",
+        "longitude": 112.6618434,
+        "latitude": -8.008167
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "name": "Sukun",
+        "longitude": 112.6057839,
+        "latitude": -7.9906485
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "3",
+        "name": "Klojen",
+        "longitude": 112.6258701,
+        "latitude": -7.9746914
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "1",
+        "name": "Blimbing",
+        "longitude": 112.652035,
+        "latitude": -7.9535796
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "4",
+        "name": "Lowokwaru",
+        "longitude": 112.6058835,
+        "latitude": -7.9390115
+    }
+]

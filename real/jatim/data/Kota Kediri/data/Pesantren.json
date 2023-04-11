@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Bawang",
+        "postalCode": "64136",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "11",
+        "name": "Pesantren",
+        "postalCode": "64131",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Blabak",
+        "postalCode": "64135",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Banaran",
+        "postalCode": "64133",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Ngletih",
+        "postalCode": "64137",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Ketami",
+        "postalCode": "64139",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "15",
+        "name": "Tosaren",
+        "postalCode": "64133",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Betet",
+        "postalCode": "64134",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Burengan",
+        "postalCode": "64131",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Jamsaren",
+        "postalCode": "64132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "14",
+        "name": "Tinalan",
+        "postalCode": "64132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "name": "Pakunden",
+        "postalCode": "64132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Bangsal",
+        "postalCode": "64131",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "13",
+        "name": "Tempurejo",
+        "postalCode": "64138",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "12",
+        "districtId": "3",
+        "subDistrictId": "12",
+        "name": "Singonegaran",
+        "postalCode": "64132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

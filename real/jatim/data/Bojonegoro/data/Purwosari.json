@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "11",
+        "name": "Tinumpuk",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "7",
+        "name": "Pojok",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "3",
+        "name": "Kaliombo",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "4",
+        "name": "Kuniran",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "9",
+        "name": "Purwosari",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "1",
+        "name": "Donan",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "2",
+        "name": "Gapluk",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "8",
+        "name": "Punggur",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "6",
+        "name": "Pelem",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "10",
+        "name": "Sedahkidul",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "5",
+        "name": "Ngrejeng",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "subDistrictId": "12",
+        "name": "Tlatah",
+        "postalCode": "62161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

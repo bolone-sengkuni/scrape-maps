@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Karangtengah",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Jombok",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "name": "Wotsogo",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Kebonharjo",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Dingil",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Paseyan",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Ketodan",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Sekaran",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Bader",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Jatiklabang",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Demit",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Sadang",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Kedungmakam",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "16",
+        "name": "Sugihan",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Ngepon",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "17",
+        "name": "Wangi",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Besowo",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Sidomulyo",
+        "postalCode": "62362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

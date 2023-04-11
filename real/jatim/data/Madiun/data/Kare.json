@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Bodag",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Cermo",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "name": "Morang",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "8",
+        "name": "Randualas",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Kepel",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Kare",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Kuwiran",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Bolo",
+        "postalCode": "63182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

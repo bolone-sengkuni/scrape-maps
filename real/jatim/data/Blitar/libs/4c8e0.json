@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "postalCode": "66184",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ploso",
+        "kecamatan": "Selopuro",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.3 V84J+42R, Unnamed Rd Jl. Ps. Ploso, Kasim, Ploso, Kec. Selopuro, Kabupaten Blitar, Jawa Timur 66184, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "postalCode": "66184",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ploso",
+        "kecamatan": "Selopuro",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.12 V84J+23J, Jl. Hasan Ahmad, Kasim, Ploso, Kec. Selopuro, Kabupaten Blitar, Jawa Timur 66184, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "postalCode": "66184",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jambewangi",
+        "kecamatan": "Selopuro",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.1 Dusun Jambewangi Kraj, Jambewangi, Selopuro, Blitar Regency, East Java 66184, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "postalCode": "66184",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Selopuro",
+        "kecamatan": "Selopuro",
+        "kota": "Blitar",
+        "alamat": "Dsn. Gading RT 2 RW 7 kec. Selopuro kab. Blitar provinsi Jatim, Gading, Selopuro, Kec. Selopuro, Kabupaten Blitar, Jawa Timur 66185, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "postalCode": "66184",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ploso",
+        "kecamatan": "Selopuro",
+        "kota": "Blitar",
+        "alamat": "RT.6/RW.10 V8C9+82W, Ploso, Kec. Selopuro, Kabupaten Blitar, Jawa Timur 66184, Indonesia"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Sukun",
+        "postalCode": "65147",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Tanjungrejo",
+        "postalCode": "65147",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Pisang Candi",
+        "postalCode": "65146",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Kebonsari",
+        "postalCode": "65149",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Karang Besuki",
+        "postalCode": "65149",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Bandungrejosari",
+        "postalCode": "65148",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Bakalan Krajan",
+        "postalCode": "65148",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Gadang",
+        "postalCode": "65149",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Mulyorejo",
+        "postalCode": "65147",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Bandulan",
+        "postalCode": "65146",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Ciptomulyo",
+        "postalCode": "65148",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

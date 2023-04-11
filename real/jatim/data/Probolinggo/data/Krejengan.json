@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Sentong",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "15",
+        "name": "Tanjungsari",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Seboro",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Kedungcaluk",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Dawuan",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Krejengan",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Karangren",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Patemon",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Jatiurip",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Gebangan",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "14",
+        "name": "Sumberkatimoho",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "17",
+        "name": "Widoro",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Sokaan",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "16",
+        "name": "Temenggungan",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Rawan",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Opo Opo",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Kamalkuning",
+        "postalCode": "67284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

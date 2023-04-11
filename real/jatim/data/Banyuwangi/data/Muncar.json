@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Sumbersewu",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Kedungrejo",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "name": "Tapanrejo",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Kumendung",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Blambangan",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "name": "Tambakrejo",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Kedungringin (Kedungpringin)",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "10",
+        "name": "Wringin Putih",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "9",
+        "name": "Tembokrejo",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Sumberberas",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

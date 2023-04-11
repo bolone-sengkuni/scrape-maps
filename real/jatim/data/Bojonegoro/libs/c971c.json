@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "postalCode": "62164",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sambeng",
+        "kecamatan": "Kasiman",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.14 VJ7F+82M, Sendang Gedhe, Sambeng, Kec. Kasiman, Kabupaten Bojonegoro, Jawa Timur 62164, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "postalCode": "62164",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sambeng",
+        "kecamatan": "Kasiman",
+        "kota": "Bojonegoro",
+        "alamat": "RT.7/RW.14 VJGG+8WG, Sendangiwak, Sambeng, Kec. Kasiman, Kabupaten Bojonegoro, Jawa Timur 62164, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "11",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Padangan",
+        "kecamatan": "Padangan",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.9 Jl. Kartini No.02, Dusun Kalangan, Padangan, Kec. Padangan, Kabupaten Bojonegoro, Jawa Timur 62162, Indonesia"
+    }
+]

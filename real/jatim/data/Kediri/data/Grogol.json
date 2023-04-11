@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Sonorejo",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Cerme",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "9",
+        "name": "Wonoasri",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Datengan",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Grogol",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Kalipang",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "8",
+        "name": "Sumberejo",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Bakalan",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Gambyok",
+        "postalCode": "64151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

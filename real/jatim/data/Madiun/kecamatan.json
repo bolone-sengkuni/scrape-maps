@@ -1,0 +1,137 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "5",
+        "name": "Gemarang",
+        "longitude": 111.6713,
+        "latitude": -7.6610579
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "13",
+        "name": "Sawahan",
+        "longitude": 111.5063194,
+        "latitude": -7.5688321
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "name": "Kebonsari",
+        "longitude": 111.4493609,
+        "latitude": -7.743694
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "1",
+        "name": "Balerejo",
+        "longitude": 111.5581239,
+        "latitude": -7.5362501
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "3",
+        "name": "Dolopo",
+        "longitude": 111.5107274,
+        "latitude": -7.7725856
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "2",
+        "name": "Dagangan",
+        "longitude": 111.5649304,
+        "latitude": -7.7232815
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "10",
+        "name": "Mejayan",
+        "longitude": 111.6375422,
+        "latitude": -7.5679487
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "11",
+        "name": "Pilangkenceng",
+        "longitude": 111.6252194,
+        "latitude": -7.4705301
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "name": "Saradan",
+        "longitude": 111.6817374,
+        "latitude": -7.516331
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "name": "Jiwan",
+        "longitude": 111.4526335,
+        "latitude": -7.6128361
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "name": "Wonoasri",
+        "longitude": 111.5991749,
+        "latitude": -7.5888686
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "7",
+        "name": "Kare",
+        "longitude": 111.6008245,
+        "latitude": -7.7272812
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "name": "Geger",
+        "longitude": 111.4942493,
+        "latitude": -7.7068531
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "name": "Madiun",
+        "longitude": 111.4930318,
+        "latitude": -7.6300605
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "15",
+        "name": "Wungu",
+        "longitude": 111.5538494,
+        "latitude": -7.6586586
+    }
+]

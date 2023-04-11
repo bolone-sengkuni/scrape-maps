@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Ngadirejo",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Sidomulyo",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Bancong",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Purwosari",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Wonoasri",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Banyukambang",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Buduran",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Jatirejo",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Klitik",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Plumpungrejo",
+        "postalCode": "63157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

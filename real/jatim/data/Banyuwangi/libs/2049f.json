@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "postalCode": "68424",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Boyolangu",
+        "kecamatan": "Giri",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.2 Jl. Wijaya Kusuma No.11A, Lingkungan Mojoroto R, Boyolangu, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "postalCode": "68425",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mojopanggung",
+        "kecamatan": "Giri",
+        "kota": "Banyuwangi",
+        "alamat": "RT.3/RW.12 Jl. Hos. Cokroaminoto No.33, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "postalCode": "68417",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kebalenan",
+        "kecamatan": "Banyuwangi",
+        "kota": "Banyuwangi",
+        "alamat": "RT.4/RW.7 Jl. Brawijaya, Glagah, Kebalenan, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68431, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "postalCode": "68425",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mojopanggung",
+        "kecamatan": "Giri",
+        "kota": "Banyuwangi",
+        "alamat": "RT.3/RW.8 Jl. Hos. Cokroaminoto No.73, Lingkungan Cungking Rw, Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425, Indonesia"
+    }
+]

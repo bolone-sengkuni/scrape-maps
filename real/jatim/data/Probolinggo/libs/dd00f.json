@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "15",
+        "subDistrictId": "18",
+        "postalCode": "67291",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberanyar",
+        "kecamatan": "Paiton",
+        "kota": "Probolinggo",
+        "alamat": "RT.5/RW.5 7G8G+MXW, Jl. Kotaanyar, Rt 2 Rw. 1, Sumberanyar, Kec. Paiton, Kabupaten Probolinggo, Jawa Timur 67191, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "15",
+        "subDistrictId": "18",
+        "postalCode": "67291",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberanyar",
+        "kecamatan": "Paiton",
+        "kota": "Probolinggo",
+        "alamat": "Jalan Kotaanyar RT. 2 RW. 1, Dusun Gasal, Sumberanyar, Kec. Paiton, Kabupaten Probolinggo, Jawa Timur 67293, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "15",
+        "subDistrictId": "18",
+        "postalCode": "67291",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberanyar",
+        "kecamatan": "Paiton",
+        "kota": "Probolinggo",
+        "alamat": "RT.4/RW.7 7GCG+97Q, Jl. Kotaanyar, Dusun Sefar, Sumberanyar, Kec. Paiton, Kabupaten Probolinggo, Jawa Timur 67291, Indonesia"
+    }
+]

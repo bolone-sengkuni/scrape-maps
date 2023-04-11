@@ -1,0 +1,233 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Sukorejo",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Gempolan",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Gabru",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Kerkep",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Kranggan",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Adan-Adan",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Gurah",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Ngasem",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Blimbing",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "16",
+        "name": "Sumbercangkring",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Banyuanyar",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Gayam",
+        "postalCode": "64113",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "17",
+        "name": "Tambakrejo",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Bangkok",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "20",
+        "name": "Turus",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "21",
+        "name": "Wonojoyo",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Besuk",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "name": "Tiru Kidul",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "19",
+        "name": "Tiru Lor",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Bogem",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Nglumbang",
+        "postalCode": "64181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "name": "Kresikan",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "6",
+        "name": "Tanggunggunung",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "5",
+        "name": "Pakisrejo",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "name": "Jengglungharjo",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "name": "Tenggarejo",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "name": "Ngrejo",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "name": "Ngepoh",
+        "postalCode": "66283",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

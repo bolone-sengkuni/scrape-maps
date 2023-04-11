@@ -1,0 +1,182 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "12",
+        "name": "Ngronggot",
+        "longitude": 112.0592006,
+        "latitude": -7.6728811
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "18",
+        "name": "Sukomoro",
+        "longitude": 111.9468039,
+        "latitude": -7.5950021
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "6",
+        "name": "Jatikalen",
+        "longitude": 112.1258849,
+        "latitude": -7.4902925
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "5",
+        "name": "Gondang",
+        "longitude": 111.99638,
+        "latitude": -7.5271235
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "name": "Ngetos",
+        "longitude": 111.831422,
+        "latitude": -7.7475525
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "16",
+        "name": "Rejoso",
+        "longitude": 111.8767661,
+        "latitude": -7.504866
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "7",
+        "name": "Kertosono",
+        "longitude": 112.087687,
+        "latitude": -7.606259
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "8",
+        "name": "Lengkong",
+        "longitude": 112.0718506,
+        "latitude": -7.4709739
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "name": "Wilangan",
+        "longitude": 111.8092416,
+        "latitude": -7.566965
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "3",
+        "name": "Baron",
+        "longitude": 112.0512461,
+        "latitude": -7.587745
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "2",
+        "name": "Bagor",
+        "longitude": 111.852742,
+        "latitude": -7.5748954
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "19",
+        "name": "Tanjunganom",
+        "longitude": 112.0290761,
+        "latitude": -7.633883
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "13",
+        "name": "Pace",
+        "longitude": 111.9282515,
+        "latitude": -7.6845105
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "name": "Ngluyu",
+        "longitude": 111.9810945,
+        "latitude": -7.4418295
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "15",
+        "name": "Prambon",
+        "longitude": 112.008341,
+        "latitude": -7.7089785
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "17",
+        "name": "Sawahan",
+        "longitude": 111.7775155,
+        "latitude": -7.7564785
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "4",
+        "name": "Berbek",
+        "longitude": 111.8397354,
+        "latitude": -7.6537665
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "name": "Nganjuk",
+        "longitude": 111.9040915,
+        "latitude": -7.5956346
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "14",
+        "name": "Patianrowo",
+        "longitude": 112.1011211,
+        "latitude": -7.549923
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "9",
+        "name": "Loceret",
+        "longitude": 111.8936304,
+        "latitude": -7.705477
+    }
+]

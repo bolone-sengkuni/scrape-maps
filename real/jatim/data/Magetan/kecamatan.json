@@ -1,0 +1,155 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "11",
+        "name": "Nguntoronadi",
+        "longitude": 111.4514095,
+        "latitude": -7.711605
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "8",
+        "name": "Lembeyan",
+        "longitude": 111.4081029,
+        "latitude": -7.7477575
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "name": "Plaosan",
+        "longitude": 111.2480875,
+        "latitude": -7.6691575
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "name": "Kawedanan",
+        "longitude": 111.4169149,
+        "latitude": -7.6960199
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "1",
+        "name": "Magetan",
+        "longitude": 111.3142016,
+        "latitude": -7.6488568
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "name": "Kartoharjo (Kertoharjo)",
+        "longitude": 111.4682116,
+        "latitude": -7.531949
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "name": "Sukomoro",
+        "longitude": 111.37547,
+        "latitude": -7.6332065
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "name": "Takeran",
+        "longitude": 111.4778601,
+        "latitude": -7.679573
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "12",
+        "name": "Panekan",
+        "longitude": 111.2740185,
+        "latitude": -7.614231
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "3",
+        "name": "Bendo",
+        "longitude": 111.3995299,
+        "latitude": -7.6365786
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "15",
+        "name": "Poncol",
+        "longitude": 111.244821,
+        "latitude": -7.722269
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "9",
+        "name": "Maospati",
+        "longitude": 111.4438135,
+        "latitude": -7.5997384
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "4",
+        "name": "Karangrejo",
+        "longitude": 111.4085263,
+        "latitude": -7.674095
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "13",
+        "name": "Parang",
+        "longitude": 111.3320689,
+        "latitude": -7.7474165
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "name": "Barat",
+        "longitude": 111.4511368,
+        "latitude": -7.5543462
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "10",
+        "name": "Ngariboyo",
+        "longitude": 111.34285,
+        "latitude": -7.691185
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "5",
+        "name": "Karas",
+        "longitude": 111.373789,
+        "latitude": -7.574816
+    }
+]

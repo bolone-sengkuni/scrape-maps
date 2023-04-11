@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Lesong Laok",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Blaban",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Lesong Daja",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Pangereman",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Ponjanan Barat",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Bujur Tengah",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Bangsereh",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Bujur Barat",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Ponjanan Timur",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Bujur Timur",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "13",
+        "name": "Tamberu",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Kapong",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Batu Bintang",
+        "postalCode": "69354",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

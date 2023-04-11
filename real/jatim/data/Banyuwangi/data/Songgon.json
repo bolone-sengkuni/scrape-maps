@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "2",
+        "name": "Bangunsari",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "7",
+        "name": "Sragi",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "9",
+        "name": "Sumber Bulu",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "3",
+        "name": "Bayu",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "4",
+        "name": "Bedewang",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "5",
+        "name": "Parangharjo",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "8",
+        "name": "Sumber Arum",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "6",
+        "name": "Songgon",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "subDistrictId": "1",
+        "name": "Balak",
+        "postalCode": "68463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "4",
+        "name": "Pegadangan",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "12",
+        "name": "Tiris",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "16",
+        "name": "Wedusan",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "13",
+        "name": "Tlogoargo",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "15",
+        "name": "Tulupari",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "5",
+        "name": "Pesawahan",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "2",
+        "name": "Andung Sari",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "11",
+        "name": "Tegalwatu",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "14",
+        "name": "Tlogosari",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "9",
+        "name": "Renjing (Rejing)",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "6",
+        "name": "Racek",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "8",
+        "name": "Ranugedang",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "10",
+        "name": "Segaran",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "1",
+        "name": "Andung Biru",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "3",
+        "name": "Jangkang",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "subDistrictId": "7",
+        "name": "Ranuagung",
+        "postalCode": "67287",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

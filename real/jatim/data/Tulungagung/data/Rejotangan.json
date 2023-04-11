@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "name": "Banjarejo",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "11",
+        "name": "Sumberagung",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "12",
+        "name": "Tanen",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "name": "Buntaran",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "8",
+        "name": "Panjerejo",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "name": "Jatidowo",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "6",
+        "name": "Karangsari",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "10",
+        "name": "Sukorejo Wetan",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "name": "Pakisrejo",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "15",
+        "name": "Tenggur",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "14",
+        "name": "Tenggong",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "name": "Blimbing",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "16",
+        "name": "Tugu",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "name": "Aryojeding",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "9",
+        "name": "Rejotangan",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "subDistrictId": "13",
+        "name": "Tegalrejo",
+        "postalCode": "66293",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

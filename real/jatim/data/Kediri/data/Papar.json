@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "8",
+        "name": "Minggiran",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "9",
+        "name": "Ngampel",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "11",
+        "name": "Pehkulon",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "5",
+        "name": "Kepuh",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "name": "Maduretno",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "10",
+        "name": "Papar",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "17",
+        "name": "Tanon",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "16",
+        "name": "Sukomoro",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "13",
+        "name": "Puhjajar",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "name": "Kwaron",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "name": "Dawuhan Kidul",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "15",
+        "name": "Srikaton",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "3",
+        "name": "Janti",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "14",
+        "name": "Purwotengah",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "12",
+        "name": "Pehwetan",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "2",
+        "name": "Jambangan",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "17",
+        "subDistrictId": "4",
+        "name": "Kedungmalang",
+        "postalCode": "64153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

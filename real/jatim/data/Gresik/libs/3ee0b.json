@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "subDistrictId": "20",
+        "postalCode": "61174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Setro",
+        "kecamatan": "Menganti",
+        "kota": "Gresik",
+        "alamat": "RT.3/RW.8 Jl. Raya Menganti Balong Dinding No.70, Pengampon, Setro, Kec. Menganti, Kabupaten Gresik, Jawa Timur 61174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "postalCode": "61174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pelemwatu",
+        "kecamatan": "Menganti",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.3 Jalan Hulaan Rt 18 Rw 2 Stand No 1, Gresik, Palemwatu, Pelemwatu, Kec. Menganti, Kabupaten Gresik, Jawa Timur 61174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "postalCode": "61174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Hulaan",
+        "kecamatan": "Menganti",
+        "kota": "Gresik",
+        "alamat": "RT.3/RW.13 PH4V+7GV, Jl. Raya Menganti Karang Turi, Sidomulyo, Hulaan, Kec. Menganti, Kabupaten Gresik, Jawa Timur 61174, Indonesia"
+    }
+]

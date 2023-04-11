@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Binajuh (Banyu Ajuh)",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.1/RW.11 RPP9+8JX, Karanganyar, Banyu Ajuh, Kec. Kamal, Kabupaten Bangkalan, Jawa Timur 69162, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Binajuh (Banyu Ajuh)",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.6/RW.9 RPHC+Q96, Kamal, Banyu Ajuh, Kec. Kamal, Kabupaten Bangkalan, Jawa Timur 69162, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kebun",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.9/RW.6 RPQR+H4W, Jl. Raya Jukong, Kebun, Kec. Kamal, Kabupaten Bangkalan, Jawa Timur 69162, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kebun",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.7/RW.5 Baturubuh, Kebun, Kamal, Bangkalan Regency, East Java 69162, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tellang (Telang)",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.7/RW.4 VPM7+359, Perumahan Telang Perm, Telang, Kec. Kamal, Kabupaten Bangkalan, Jawa Timur 69162, Indonesia"
+    }
+]

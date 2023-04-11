@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Temboro",
+        "kecamatan": "Karas",
+        "kota": "Magetan",
+        "alamat": "RT.6/RW.9 Jambangan, Temboro, Karas, Magetan Regency, East Java 63395, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Temenggungan",
+        "kecamatan": "Karas",
+        "kota": "Magetan",
+        "alamat": "RT.2/RW.13 CC83+GFQ, Doro, Temenggungan, Kec. Karas, Kabupaten Magetan, Jawa Timur 63395, Indonesia"
+    }
+]

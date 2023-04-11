@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Payudan Dundang",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Payudan Daleman",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Pordapor",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Ketawang Laok",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Bakeyong",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Batuampar",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Payudan Nangger",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Guluk Guluk",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Tambuko",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Bragung",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Pananggungan",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Payudan Karangsokon",
+        "postalCode": "69463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

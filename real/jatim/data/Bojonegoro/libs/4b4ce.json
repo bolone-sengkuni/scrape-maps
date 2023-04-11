@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dukuh Lor",
+        "kecamatan": "Malo",
+        "kota": "Bojonegoro",
+        "alamat": "RT.9/RW.10 RMR6+C5M, Jln. Basuki Rahmat ds. Dukohlor, Sawah, Dukuh Lor, Kec. Malo, Kabupaten Bojonegoro, Jawa Timur 62153, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Malo",
+        "kecamatan": "Malo",
+        "kota": "Bojonegoro",
+        "alamat": "RT.8/RW.14 VPQM+P96, Sungai Bengawan Solo, Dusun Teleng, Malo, Kec. Malo, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Rendeng",
+        "kecamatan": "Malo",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.12 VPQG+X4V, Karuk, Rendeng, Kec. Malo, Kabupaten Bojonegoro, Jawa Timur 62153, Indonesia"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Klenang Lor",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Liprak Wetan",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Gading Kulon",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Pendil",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Liprak Kidul",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Gunung Geni",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Klenang Kidul",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Banyuanyar Kidul",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Blado Wetan",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Liprak Kulon",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Alassapi",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Banyuanyar Tengah",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "14",
+        "name": "Tarokan",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "subDistrictId": "13",
+        "name": "Sentulan",
+        "postalCode": "67275",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jegu",
+        "kecamatan": "Sutojayan",
+        "kota": "Blitar",
+        "alamat": "RT.6/RW.8 V62R+FFF, Jl. Bhirawa, Jegu, Kec. Sutojayan, Kabupaten Blitar, Jawa Timur 66172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "postalCode": "66172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jegu",
+        "kecamatan": "Sutojayan",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.7 Jl. Dahlia No.rt 10, RW.5, Kebonsari, Jegu, Kec. Sutojayan, Kabupaten Blitar, Jawa Timur 66172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "postalCode": "66184",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Selopuro",
+        "kecamatan": "Selopuro",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.9 V855+WWH, Selopuro, Kec. Selopuro, Kabupaten Blitar, Jawa Timur 66184, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "13",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tumpang",
+        "kecamatan": "Talun",
+        "kota": "Blitar",
+        "alamat": "RT.7/RW.3 V6GX+3V2, Bendilputih, Tumpang, Kec. Talun, Kabupaten Blitar, Jawa Timur 66183, Indonesia"
+    }
+]

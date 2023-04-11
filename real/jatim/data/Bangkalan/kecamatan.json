@@ -1,0 +1,164 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "5",
+        "name": "Galis",
+        "longitude": 112.965271,
+        "latitude": -7.09665
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "9",
+        "name": "Kokop",
+        "longitude": 113.0708571,
+        "latitude": -6.9803806
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "name": "Konang",
+        "longitude": 113.0518025,
+        "latitude": -7.0450826
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "name": "Kwanyar",
+        "longitude": 112.8706205,
+        "latitude": -7.146731
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "4",
+        "name": "Burneh",
+        "longitude": 112.8072456,
+        "latitude": -7.033594
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "2",
+        "name": "Arosbaya",
+        "longitude": 112.833747,
+        "latitude": -6.9736749
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "name": "Geger",
+        "longitude": 112.9330264,
+        "latitude": -7.000879
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "1",
+        "name": "Bangkalan",
+        "longitude": 112.909895,
+        "latitude": -7.046227
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "8",
+        "name": "Klampis",
+        "longitude": 112.8794421,
+        "latitude": -6.9380735
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "17",
+        "name": "Tanjungbumi",
+        "longitude": 113.0627261,
+        "latitude": -6.913622
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "3",
+        "name": "Blega",
+        "longitude": 113.0440945,
+        "latitude": -7.1218845
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "name": "Sepulu",
+        "longitude": 112.9643339,
+        "latitude": -6.930027
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "16",
+        "name": "Tanah Merah",
+        "longitude": 112.8620509,
+        "latitude": -7.071809
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "name": "Modung",
+        "longitude": 112.9834551,
+        "latitude": -7.161384
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "18",
+        "name": "Tragah",
+        "longitude": 112.8218866,
+        "latitude": -7.0990549
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "15",
+        "name": "Socah",
+        "longitude": 112.7314535,
+        "latitude": -7.078789
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "name": "Kamal",
+        "longitude": 112.7298859,
+        "latitude": -7.1364444
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "12",
+        "name": "Labang",
+        "longitude": 112.788211,
+        "latitude": -7.134824
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "1",
+        "name": "Kepanjen Kidul",
+        "longitude": 112.1768094,
+        "latitude": -8.081575
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "2",
+        "name": "Sanan Wetan",
+        "longitude": 112.1741534,
+        "latitude": -8.104513
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "name": "Sukorejo",
+        "longitude": 112.1476479,
+        "latitude": -8.0980625
+    }
+]

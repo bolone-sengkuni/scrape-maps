@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "postalCode": "66187",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gandusari",
+        "kecamatan": "Gandusari",
+        "kota": "Blitar",
+        "alamat": "RT.8/RW.9 X834+HCW, Gandusari, Kec. Gandusari, Kabupaten Blitar, Jawa Timur 66187, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "postalCode": "66187",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gandusari",
+        "kecamatan": "Gandusari",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.11 X833+86P, Gandusari, Kec. Gandusari, Kabupaten Blitar, Jawa Timur 66187, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "subDistrictId": "11",
+        "postalCode": "66187",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukosewu",
+        "kecamatan": "Gandusari",
+        "kota": "Blitar",
+        "alamat": "RT.2/RW.7 Jl. Pancasila No.6, Sukosewu, Kec. Gandusari, Kabupaten Blitar, Jawa Timur 66187, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "subDistrictId": "10",
+        "postalCode": "66187",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Soso",
+        "kecamatan": "Gandusari",
+        "kota": "Blitar",
+        "alamat": "RT.5/RW.5 X87R+XGH, Maguan, Soso, Kec. Gandusari, Kabupaten Blitar, Jawa Timur 66187, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "subDistrictId": "11",
+        "postalCode": "66187",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukosewu",
+        "kecamatan": "Gandusari",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.4 X73P+RG3, Sukosewu, Kec. Gandusari, Kabupaten Blitar, Jawa Timur 66187, Indonesia"
+    }
+]

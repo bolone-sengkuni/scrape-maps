@@ -1,0 +1,57 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "24",
+        "subDistrictId": "1",
+        "name": "Putat Gede",
+        "postalCode": "60189",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "24",
+        "subDistrictId": "5",
+        "name": "Tanjungsari",
+        "postalCode": "60187",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "24",
+        "subDistrictId": "4",
+        "name": "Suko Manunggal",
+        "postalCode": "60188",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "24",
+        "subDistrictId": "2",
+        "name": "Simomulyo",
+        "postalCode": "60281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "24",
+        "subDistrictId": "3",
+        "name": "Sonokwijenan",
+        "postalCode": "60189",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

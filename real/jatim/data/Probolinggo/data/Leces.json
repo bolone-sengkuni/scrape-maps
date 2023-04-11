@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Pondok Wuluh",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Warujinggo",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Jorongan",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Malasan Kulon",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Leces",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Tigasan Wetan",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Tigasan Kulon",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Keprangan (Kerpangan)",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Sumber Kedawung",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Clarak",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

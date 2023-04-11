@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Doko",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.2/RW.11 W989+649, Doko, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Doko",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.13 Jl. Abdul Salam No.22, Doko, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Suru",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.8/RW.2 W83V+M82, Carangkembang, Suru, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    }
+]

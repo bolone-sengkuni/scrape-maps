@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "13",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tumpang",
+        "kecamatan": "Talun",
+        "kota": "Blitar",
+        "alamat": "RT.2/RW.6 V6FX+V44, Bendilputih, Tumpang, Kec. Talun, Kabupaten Blitar, Jawa Timur 66183, Indonesia"
+    }
+]

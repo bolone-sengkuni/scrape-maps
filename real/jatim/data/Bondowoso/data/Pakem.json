@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "3",
+        "name": "Gadingsari",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "2",
+        "name": "Ardisaeng",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "name": "Pakem",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "name": "Petung",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "4",
+        "name": "Kupang",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "name": "Patemon",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "8",
+        "name": "Sumber Dumpyong",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "1",
+        "name": "Andungsari",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

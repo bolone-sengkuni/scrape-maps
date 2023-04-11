@@ -1,0 +1,245 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "2",
+        "name": "Babat",
+        "longitude": 112.1746854,
+        "latitude": -7.1090746
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "18",
+        "name": "Pucuk",
+        "longitude": 112.2600404,
+        "latitude": -7.0911257
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "5",
+        "name": "Deket",
+        "longitude": 112.4236653,
+        "latitude": -7.0957651
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "27",
+        "name": "Turi",
+        "longitude": 112.3518009,
+        "latitude": -7.0685086
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "name": "Laren",
+        "longitude": 112.2536904,
+        "latitude": -6.9789007
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "4",
+        "name": "Brondong",
+        "longitude": 112.2011715,
+        "latitude": -6.9087837
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "25",
+        "name": "Sukorame",
+        "longitude": 112.1014442,
+        "latitude": -7.3449538
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "name": "Lamongan",
+        "longitude": 112.3766789,
+        "latitude": -7.1228671
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "9",
+        "name": "Karangbinangun",
+        "longitude": 112.4295184,
+        "latitude": -7.0337417
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "name": "Paciran",
+        "longitude": 112.3392274,
+        "latitude": -6.8894123
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "23",
+        "name": "Sugio",
+        "longitude": 112.2432104,
+        "latitude": -7.1859287
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "10",
+        "name": "Kedungpring",
+        "longitude": 112.169938,
+        "latitude": -7.1904732
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "16",
+        "name": "Ngimbang",
+        "longitude": 112.2070422,
+        "latitude": -7.2807388
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "3",
+        "name": "Bluluk",
+        "longitude": 112.0906219,
+        "latitude": -7.3014572
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "21",
+        "name": "Sekaran",
+        "longitude": 112.2395819,
+        "latitude": -7.0519607
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "13",
+        "name": "Maduran",
+        "longitude": 112.236511,
+        "latitude": -7.0050652
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "15",
+        "name": "Modo",
+        "longitude": 112.0619646,
+        "latitude": -7.2016542
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "14",
+        "name": "Mantup",
+        "longitude": 112.3459432,
+        "latitude": -7.2729198
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "name": "Kalitengah",
+        "longitude": 112.3587184,
+        "latitude": -7.0212918
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "11",
+        "name": "Kembangbahu",
+        "longitude": 112.3225404,
+        "latitude": -7.2083882
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "6",
+        "name": "Glagah",
+        "longitude": 112.4671984,
+        "latitude": -7.0786116
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "24",
+        "name": "Sukodadi",
+        "longitude": 112.3050904,
+        "latitude": -7.1127537
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "8",
+        "name": "Karang Geneng",
+        "longitude": 112.3081699,
+        "latitude": -7.0208503
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "name": "Solokuro",
+        "longitude": 112.3170154,
+        "latitude": -6.9286258
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "name": "Tikung",
+        "longitude": 112.3752834,
+        "latitude": -7.1888349
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "20",
+        "name": "Sarirejo",
+        "longitude": 112.4261769,
+        "latitude": -7.1721327
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "19",
+        "name": "Sambeng",
+        "longitude": 112.2157296,
+        "latitude": -7.2893286
+    }
+]

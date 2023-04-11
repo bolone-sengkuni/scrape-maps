@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "9",
+        "name": "Kendalrejo",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "14",
+        "name": "Wonorejo",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "name": "Jeblog",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "8",
+        "name": "Kaweron",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "5",
+        "name": "Jajar",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "name": "Kamulan",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "11",
+        "name": "Sragi",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "name": "Bajang",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "12",
+        "name": "Talun",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "2",
+        "name": "Bendosewu",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "3",
+        "name": "Duren",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "4",
+        "name": "Jabung",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "10",
+        "name": "Pasirharjo",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "subDistrictId": "13",
+        "name": "Tumpang",
+        "postalCode": "66183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

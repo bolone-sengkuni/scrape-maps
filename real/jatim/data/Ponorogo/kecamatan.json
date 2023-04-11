@@ -1,0 +1,191 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "10",
+        "name": "Mlarak",
+        "longitude": 111.523182,
+        "latitude": -7.9177626
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "1",
+        "name": "Ponorogo",
+        "longitude": 111.4731673,
+        "latitude": -7.8681204
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "4",
+        "name": "Balong",
+        "longitude": 111.459099,
+        "latitude": -7.9550689
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "5",
+        "name": "Bungkal",
+        "longitude": 111.464495,
+        "latitude": -8.01506
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "7",
+        "name": "Jenangan",
+        "longitude": 111.549735,
+        "latitude": -7.8338101
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "name": "Sukorejo",
+        "longitude": 111.417721,
+        "latitude": -7.837528
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "name": "Sambit",
+        "longitude": 111.517042,
+        "latitude": -7.9991229
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "18",
+        "name": "Siman",
+        "longitude": 111.504842,
+        "latitude": -7.8920045
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "name": "Ngebel",
+        "longitude": 111.63505,
+        "latitude": -7.80228
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "2",
+        "name": "Babadan",
+        "longitude": 111.480658,
+        "latitude": -7.81689
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "19",
+        "name": "Slahung",
+        "longitude": 111.413803,
+        "latitude": -8.0352027
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "12",
+        "name": "Ngrayun",
+        "longitude": 111.4446715,
+        "latitude": -8.1101246
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "16",
+        "name": "Sampung",
+        "longitude": 111.3757309,
+        "latitude": -7.80997
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "8",
+        "name": "Jetis",
+        "longitude": 111.48495,
+        "latitude": -7.9389455
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "14",
+        "name": "Pulung",
+        "longitude": 111.6193849,
+        "latitude": -7.86937
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "13",
+        "name": "Pudak",
+        "longitude": 111.7353945,
+        "latitude": -7.860988
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "6",
+        "name": "Jambon",
+        "longitude": 111.3744225,
+        "latitude": -7.8959014
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "name": "Sawoo",
+        "longitude": 111.5815549,
+        "latitude": -7.9701815
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "20",
+        "name": "Sooko",
+        "longitude": 111.6520861,
+        "latitude": -7.9162015
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "3",
+        "name": "Badegan",
+        "longitude": 111.3239885,
+        "latitude": -7.8976996
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "9",
+        "name": "Kauman",
+        "longitude": 111.402348,
+        "latitude": -7.8562554
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "11",
+        "name": "Novemberangan",
+        "postalCode": "67112",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Kebonsari",
+        "postalCode": "67114",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Mayangan",
+        "postalCode": "67112",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "name": "Wirogunan",
+        "postalCode": "67118",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Purworejo",
+        "postalCode": "67115",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Pohjentrek",
+        "postalCode": "67171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Kebonagung",
+        "postalCode": "67116",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Ngemplakrejo",
+        "postalCode": "67113",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Purutrejo",
+        "postalCode": "67117",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Tembokrejo",
+        "postalCode": "67118",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "27",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Bangilan",
+        "postalCode": "67111",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Purworejo",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Mentoso",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Kaliuntu",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "17",
+        "name": "Wadung",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Sumurgeneng",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "14",
+        "name": "Suwalan",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Karangasem",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Rawasan",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Sugihwaras",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Jenggolo",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Socorejo",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Sekardadi",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Beji",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Remen",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Jenu",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "16",
+        "name": "Temaji",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "6",
+        "subDistrictId": "15",
+        "name": "Tasikharjo",
+        "postalCode": "62352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

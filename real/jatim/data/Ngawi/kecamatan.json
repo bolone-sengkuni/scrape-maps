@@ -1,0 +1,155 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "name": "Karangjati",
+        "longitude": 111.6026394,
+        "latitude": -7.4561135
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "1",
+        "name": "Ngawi",
+        "longitude": 111.394829,
+        "latitude": -7.432491
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "11",
+        "name": "Ngrambe",
+        "longitude": 111.2,
+        "latitude": -7.4999998
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "7",
+        "name": "Kedunggalar",
+        "longitude": 111.31568,
+        "latitude": -7.4316195
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "16",
+        "name": "Sine",
+        "longitude": 111.164878,
+        "latitude": -7.522747
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "4",
+        "name": "Jogorogo",
+        "longitude": 111.261092,
+        "latitude": -7.543809
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "2",
+        "name": "Bringin",
+        "longitude": 111.600799,
+        "latitude": -7.3993095
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "5",
+        "name": "Karanganyar",
+        "longitude": 111.2304995,
+        "latitude": -7.3075471
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "3",
+        "name": "Geneng",
+        "longitude": 111.430871,
+        "latitude": -7.4776694
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "17",
+        "name": "Widodaren",
+        "longitude": 111.2322099,
+        "latitude": -7.407154
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "8",
+        "name": "Kendal",
+        "longitude": 111.2777975,
+        "latitude": -7.5600605
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "13",
+        "name": "Pangkur",
+        "longitude": 111.5354926,
+        "latitude": -7.4852425
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "9",
+        "name": "Kwadungan",
+        "longitude": 111.526423,
+        "latitude": -7.5291734
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "14",
+        "name": "Paron",
+        "longitude": 111.400143,
+        "latitude": -7.4410195
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "10",
+        "name": "Mantingan",
+        "longitude": 111.1641145,
+        "latitude": -7.3807659
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "15",
+        "name": "Pitu",
+        "longitude": 111.37315,
+        "latitude": -7.360447
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "12",
+        "name": "Padas",
+        "longitude": 111.5276045,
+        "latitude": -7.4429655
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "13",
+        "name": "Rejomulyo",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Bangunasri",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Panggung",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Banjarejo",
+        "postalCode": "63137",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Klagen",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Mangge",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Bogorejo",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Purwodadi",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "14",
+        "name": "Tebon",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Manjung",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Karangsono",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Blaran",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Ngumpul",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Jonggrang",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

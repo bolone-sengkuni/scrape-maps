@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Kedawung Wetan",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Grati Tunon",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Sumber Dawesari",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Karang Kliwon",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Kalipang",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Kebon Rejo",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Kedawung Kulon",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Plososari",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Karang Lo",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Ranu Klindungan",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Rebalas",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Sumber Agung",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Cukur Gondang",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Trewung",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Kambingan Rejo",
+        "postalCode": "67184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

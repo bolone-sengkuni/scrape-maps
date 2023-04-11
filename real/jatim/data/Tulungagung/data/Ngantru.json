@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Batokan",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Srikaton",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Mojoagung",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Banjarsari",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Pojok",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Pucung Lor",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Padangan",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Bendosari",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Pinggirsari",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Kepuhrejo",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Ngantru",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Pulerejo",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Pakel",
+        "postalCode": "66252",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

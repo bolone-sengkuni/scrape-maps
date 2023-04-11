@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "1",
+        "name": "Bendosari",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "2",
+        "name": "Madiredo",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "10",
+        "name": "Wiyurejo",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "8",
+        "name": "Sukomulyo",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "5",
+        "name": "Pandesari",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "6",
+        "name": "Pujon Kidul",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "7",
+        "name": "Pujon Lor",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "3",
+        "name": "Ngabab",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "4",
+        "name": "Ngroto",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "subDistrictId": "9",
+        "name": "Tawangsari",
+        "postalCode": "65391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

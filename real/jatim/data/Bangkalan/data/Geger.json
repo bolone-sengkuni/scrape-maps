@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Batobella (Batobelle)",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Katol Barat",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Kampak",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Tegerpriyah (Tegarpriyah)",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Lerpak",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Kompol",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Geger",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Dabung (Debung)",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Kombangan",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Banyoneng Laok (Bayoneng)",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Tagubang (Togubang)",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Campor",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Banyoneng Dajah (Bayoneng)",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

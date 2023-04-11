@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Mlaten",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Sang Anom",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "14",
+        "name": "Watuprapat",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "15",
+        "name": "Wot Galih",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Sebalong",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Kedawang",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Sudimulyo",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Sumber Anyar",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Randuati",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Wates Tani",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Sedarum",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Nguling",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Dandang Gendis",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Kapasan",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Penunggul",
+        "postalCode": "67185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

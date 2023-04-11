@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Plumpung",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "15",
+        "name": "Sumberagung",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Sarangan",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Buluharjo",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Puntukdoro",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Nitikan",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Randugede",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Dadi",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Ngancar",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Bogoarum",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "13",
+        "name": "Sendangagung",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Bulugunung",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Plaosan",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Pacalan",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "14",
+        "subDistrictId": "14",
+        "name": "Sidomukti",
+        "postalCode": "63361",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

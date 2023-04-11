@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Pakistaji",
+        "postalCode": "67239",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Kedungasem",
+        "postalCode": "67236",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Kedopok",
+        "postalCode": "67231",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Wonoasih",
+        "postalCode": "67232",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Jrebeng Kidul",
+        "postalCode": "67233",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Sumber Taman",
+        "postalCode": "67237",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Jrebeng Lor",
+        "postalCode": "67238",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Kedunggaleng",
+        "postalCode": "67239",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "30",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Jrebeng Wetan",
+        "postalCode": "67239",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

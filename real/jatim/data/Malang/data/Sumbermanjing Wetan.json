@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "12",
+        "name": "Sumbermanjing Wetan",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "5",
+        "name": "Klepu",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "3",
+        "name": "Harjokuncaran",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "14",
+        "name": "Tambakrejo",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "13",
+        "name": "Tambak Asri",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "10",
+        "name": "Sitiarjo",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "6",
+        "name": "Ringinkembar",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "11",
+        "name": "Sumberagung",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "15",
+        "name": "Tegalrejo",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "2",
+        "name": "Druju",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "9",
+        "name": "Sidoasri",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "1",
+        "name": "Argotirto",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "7",
+        "name": "Ringinsari",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "4",
+        "name": "Kedungbanteng",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "subDistrictId": "8",
+        "name": "Sekarbanyu",
+        "postalCode": "65176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

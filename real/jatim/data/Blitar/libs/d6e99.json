@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dandong",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.7/RW.7 Jl. Raya Dandong Srengat, Dandong, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kendalrejo",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.7/RW.11 W3HJ+563, Kendalsari, Kendalrejo, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dandong",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.4/RW.7 Jl. Raya Dandong Srengat, Dandong, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Karanggayam",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.9 W24H+G8H, Karanggayam 3, Karanggayam, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66155, Indonesia"
+    }
+]

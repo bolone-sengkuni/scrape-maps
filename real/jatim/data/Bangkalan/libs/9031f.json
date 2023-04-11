@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "postalCode": "69115",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Demangan",
+        "kecamatan": "Bangkalan",
+        "kota": "Bangkalan",
+        "alamat": "RT.9/RW.10 Jl. Panglima Sudirman No.43, Kasorjan, Demangan, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69115, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "postalCode": "69112",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pejagan (Pajagan)",
+        "kecamatan": "Bangkalan",
+        "kota": "Bangkalan",
+        "alamat": "RT.7/RW.5 Jl. Trunojoyo No.19, Pejagan, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69119, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tellang (Telang)",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.7/RW.5 VPC7+984, Jl. Raya Kamal, Perumahan Telang Inda, Telang, Kec. Kamal, Kabupaten Bangkalan, Jawa Timur 69162, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "postalCode": "69174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Blegaoloh",
+        "kecamatan": "Blega",
+        "kota": "Bangkalan",
+        "alamat": "RT.8/RW.9 Jl. Olah Raga Blega, Baban, Blega, Kec. Blega, Kabupaten Bangkalan, Jawa Timur 69174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "postalCode": "69174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Blega",
+        "kecamatan": "Blega",
+        "kota": "Bangkalan",
+        "alamat": "RT.8/RW.9 Jl. Olah Raga Blega, Baban, Blega, Kec. Blega, Kabupaten Bangkalan, Jawa Timur 69174, Indonesia"
+    }
+]

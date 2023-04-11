@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "subDistrictId": "4",
+        "name": "Tamansari",
+        "postalCode": "68485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "subDistrictId": "2",
+        "name": "Karangdoro",
+        "postalCode": "68485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "subDistrictId": "6",
+        "name": "Tegalsari",
+        "postalCode": "68485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "subDistrictId": "5",
+        "name": "Tegalrejo",
+        "postalCode": "68485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "subDistrictId": "1",
+        "name": "Dasri",
+        "postalCode": "68485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "subDistrictId": "3",
+        "name": "Karangmulyo",
+        "postalCode": "68485",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

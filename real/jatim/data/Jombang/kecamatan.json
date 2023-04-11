@@ -1,0 +1,191 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "13",
+        "name": "Ngoro",
+        "longitude": 112.2498605,
+        "latitude": -7.6794625
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "1",
+        "name": "Jogoroto",
+        "longitude": 112.277741,
+        "latitude": -7.5780834
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "name": "Gudo",
+        "longitude": 112.2025145,
+        "latitude": -7.6278725
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "name": "Mojowarno",
+        "longitude": 112.3097124,
+        "latitude": -7.622733
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "11",
+        "name": "Mojoagung",
+        "longitude": 112.3554484,
+        "latitude": -7.586104
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "19",
+        "name": "Sumobito",
+        "longitude": 112.3286064,
+        "latitude": -7.5238021
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "8",
+        "name": "Kesamben",
+        "longitude": 112.3307289,
+        "latitude": -7.466879
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "name": "Ngusikan",
+        "longitude": 112.309864,
+        "latitude": -7.4006284
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "17",
+        "name": "Plandaan",
+        "longitude": 112.1889344,
+        "latitude": -7.459653
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "18",
+        "name": "Ploso",
+        "longitude": 112.2345965,
+        "latitude": -7.444316
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "7",
+        "name": "Kabuh",
+        "longitude": 112.209545,
+        "latitude": -7.389236
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "10",
+        "name": "Megaluh",
+        "longitude": 112.191216,
+        "latitude": -7.5008725
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "20",
+        "name": "Tembelang",
+        "longitude": 112.2531276,
+        "latitude": -7.4786694
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "2",
+        "name": "Jombang",
+        "longitude": 112.2592315,
+        "latitude": -7.561479
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "9",
+        "name": "Kudu",
+        "longitude": 112.29822,
+        "latitude": -7.41446
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "5",
+        "name": "Diwek",
+        "longitude": 112.2305359,
+        "latitude": -7.602137
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "16",
+        "name": "Peterongan",
+        "longitude": 112.2774241,
+        "latitude": -7.543477
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "name": "Wonosalam",
+        "longitude": 112.3938465,
+        "latitude": -7.7077155
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "15",
+        "name": "Perak",
+        "longitude": 112.1733495,
+        "latitude": -7.572289
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "4",
+        "name": "Bareng",
+        "longitude": 112.3,
+        "latitude": -7.6666669
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "3",
+        "name": "Bandar Kedung Mulyo",
+        "longitude": 112.143301,
+        "latitude": -7.569252
+    }
+]

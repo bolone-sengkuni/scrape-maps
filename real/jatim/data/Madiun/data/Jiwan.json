@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Jiwan",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Teguhan",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Kwangsen",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Samberejo",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Ngetrep",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bibrik",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Klagen Serut",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "14",
+        "name": "Wayut",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Kincang Wetan",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Bedoho",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Grobogan",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Bukur",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Sukolilo",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Metesih",
+        "postalCode": "63161",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

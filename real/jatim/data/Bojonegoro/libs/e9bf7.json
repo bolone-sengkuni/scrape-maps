@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "postalCode": "62182",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bulaklo",
+        "kecamatan": "Balen",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.1 QXHJ+HHG, Sambikerep, Bulaklo, Kec. Balen, Kabupaten Bojonegoro, Jawa Timur 62182, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "2",
+        "subDistrictId": "19",
+        "postalCode": "62182",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sarirejo",
+        "kecamatan": "Balen",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.14 Jl. Desa Pilanggede No.1922, Bebet, Sarirejo, Kec. Balen, Kabupaten Bojonegoro, Jawa Timur 62182, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "postalCode": "62182",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bulu",
+        "kecamatan": "Balen",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.14 RX4C+32M, Banaran, Bulu, Kec. Balen, Kabupaten Bojonegoro, Jawa Timur 62182, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "postalCode": "62182",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mayangkawis",
+        "kecamatan": "Balen",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.11 QX55+53H, Jalan Poros Desa, Pacing, Mayangkawis, Balen, Bojonegoro Regency, East Java 62182, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "2",
+        "subDistrictId": "16",
+        "postalCode": "62182",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pilang Gede",
+        "kecamatan": "Balen",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.11 Jl. Desa Pilanggede No.1, Palangsari, Pilang Gede, Kec. Balen, Kabupaten Bojonegoro, Jawa Timur 62182, Indonesia"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "postalCode": "69152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kampak",
+        "kecamatan": "Geger",
+        "kota": "Bangkalan",
+        "alamat": "RT.9/RW.8 2W97+2HQ, Geger, Kampak, Kec. Geger, Kabupaten Bangkalan, Jawa Timur 69152, Indonesia"
+    }
+]

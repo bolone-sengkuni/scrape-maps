@@ -1,0 +1,173 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "5",
+        "name": "Campur Darat",
+        "longitude": 111.862625,
+        "latitude": -8.1748549
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "name": "Sumbergempol",
+        "longitude": 111.9527845,
+        "latitude": -8.0997045
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "16",
+        "name": "Rejotangan",
+        "longitude": 112.0653231,
+        "latitude": -8.1463124
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "6",
+        "name": "Gondang",
+        "longitude": 111.8277094,
+        "latitude": -8.07423
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "9",
+        "name": "Kauman",
+        "longitude": 111.8578735,
+        "latitude": -8.0399664
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "12",
+        "name": "Ngunut",
+        "longitude": 112.003482,
+        "latitude": -8.1196694
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "13",
+        "name": "Pagerwojo",
+        "longitude": 111.7915175,
+        "latitude": -7.96527
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "2",
+        "name": "Bandung",
+        "longitude": 111.7650796,
+        "latitude": -8.1722125
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "8",
+        "name": "Karang Rejo",
+        "longitude": 111.9093905,
+        "latitude": -7.9971103
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "name": "Kedungwaru",
+        "longitude": 111.9255936,
+        "latitude": -8.0385635
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "7",
+        "name": "Kalidawir",
+        "longitude": 111.95544,
+        "latitude": -8.2067139
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "4",
+        "name": "Boyolangu",
+        "longitude": 111.902365,
+        "latitude": -8.106974
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "name": "Tulungagung",
+        "longitude": 111.958827,
+        "latitude": -8.1486727
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "14",
+        "name": "Pakel",
+        "longitude": 111.8340975,
+        "latitude": -8.150235
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "11",
+        "name": "Ngantru",
+        "longitude": 111.9546944,
+        "latitude": -8.015677
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "19",
+        "name": "Tanggung Gunung",
+        "longitude": 111.886219,
+        "latitude": -8.2315831
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "15",
+        "name": "Pucanglaban",
+        "longitude": 112.0005135,
+        "latitude": -8.2399855
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "17",
+        "name": "Sendang",
+        "longitude": 111.8341415,
+        "latitude": -7.9233305
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "3",
+        "name": "Besuki",
+        "longitude": 111.7852995,
+        "latitude": -8.2323645
+    }
+]

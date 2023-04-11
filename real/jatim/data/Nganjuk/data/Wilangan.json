@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "subDistrictId": "1",
+        "name": "Mancon",
+        "postalCode": "64462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "subDistrictId": "5",
+        "name": "Sukoharjo",
+        "postalCode": "64462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "subDistrictId": "2",
+        "name": "Ngadipiro",
+        "postalCode": "64462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "subDistrictId": "4",
+        "name": "Sudimoroharjo",
+        "postalCode": "64462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "subDistrictId": "6",
+        "name": "Wilangan",
+        "postalCode": "64462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "20",
+        "subDistrictId": "3",
+        "name": "Ngudikan",
+        "postalCode": "64462",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

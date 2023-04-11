@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Ditotrunan",
+        "postalCode": "67313",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Jogotrunan",
+        "postalCode": "67314",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Boreng",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Denok",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Banjarwaru",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Tompokersan",
+        "postalCode": "67311",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Citrodiwangsan",
+        "postalCode": "67312",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Jogoyudan",
+        "postalCode": "67315",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Kepuharjo",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Blukon",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Rogotrunan",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Labruk Lor",
+        "postalCode": "67316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

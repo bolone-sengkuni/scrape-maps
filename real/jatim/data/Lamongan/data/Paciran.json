@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "4",
+        "name": "Kandang Semangkon",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "2",
+        "name": "Blimbing",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "9",
+        "name": "Sendangagung",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "name": "Paciran",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "10",
+        "name": "Sendangduwur",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "8",
+        "name": "Paloh",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "name": "Kranji",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "13",
+        "name": "Sumurgayam",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "3",
+        "name": "Drajat",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "name": "Banjarwati",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "11",
+        "name": "Sidokelar",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "15",
+        "name": "Tunggul",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "16",
+        "name": "Warulor",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "14",
+        "name": "Tlogosadang",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "5",
+        "name": "Kemantren",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "12",
+        "name": "Sidokumpul",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "17",
+        "subDistrictId": "17",
+        "name": "Weru",
+        "postalCode": "62264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Pulungan",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Sedati Agung",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Banjar Kemuning",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Gisik Cemandi",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Pabean",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Betro",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "15",
+        "name": "Semampir",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Sedati Gede",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "16",
+        "name": "Tambak Cemandi",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Cemandi",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Pepe",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "14",
+        "name": "Segoro Tambak",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Buncitan",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Kalanganyar",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Pranti",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Kwangsan",
+        "postalCode": "61253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "postalCode": "69216",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Banyuanyar",
+        "kecamatan": "Sampang",
+        "kota": "Sampang",
+        "alamat": "RT.1/RW.3 Jalan pahlawan VIII No.3-A, Taman Arum, Banyuanyar, Kec. Sampang, Kabupaten Sampang, Jawa Timur 69216, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "postalCode": "69216",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Karang Dalem",
+        "kecamatan": "Sampang",
+        "kota": "Sampang",
+        "alamat": "RT.2/RW.3 R62P+JXV, Jl. Kramat, Tako Butt, Karang Dalem, Kec. Sampang, Kabupaten Sampang, Jawa Timur 69216, Indonesia"
+    }
+]

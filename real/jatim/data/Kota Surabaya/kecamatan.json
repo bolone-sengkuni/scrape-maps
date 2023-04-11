@@ -1,0 +1,281 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "17",
+        "name": "Pakal",
+        "longitude": 112.6144725,
+        "latitude": -7.231827
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "8",
+        "name": "Gubeng",
+        "longitude": 112.7493125,
+        "latitude": -7.2726265
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "14",
+        "name": "Lakar Santri",
+        "longitude": 112.6337025,
+        "latitude": -7.30009
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "31",
+        "name": "Wonokromo",
+        "longitude": 112.738307,
+        "latitude": -7.294167
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "15",
+        "name": "Mulyorejo",
+        "longitude": 112.7850065,
+        "latitude": -7.2683406
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "9",
+        "name": "Gununganyar",
+        "longitude": 112.7922506,
+        "latitude": -7.3384186
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "20",
+        "name": "Sawahan",
+        "longitude": 112.721452,
+        "latitude": -7.2738055
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "22",
+        "name": "Simokerto",
+        "longitude": 112.757101,
+        "latitude": -7.2378525
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "21",
+        "name": "Semampir",
+        "longitude": 112.748801,
+        "latitude": -7.21451
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "16",
+        "name": "Pabean Cantikan",
+        "longitude": 112.7325659,
+        "latitude": -7.222289
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "3",
+        "name": "Bubutan",
+        "longitude": 112.73243,
+        "latitude": -7.25042
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "28",
+        "name": "Tenggilis Mejoyo",
+        "longitude": 112.7578115,
+        "latitude": -7.3203825
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "18",
+        "name": "Rungkut",
+        "longitude": 112.8015154,
+        "latitude": -7.3165019
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "4",
+        "name": "Bulak",
+        "longitude": 112.788558,
+        "latitude": -7.2322525
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "23",
+        "name": "Sukolilo",
+        "longitude": 112.8042845,
+        "latitude": -7.2906501
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "10",
+        "name": "Jambangan",
+        "longitude": 112.7155775,
+        "latitude": -7.323975
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "name": "Krembangan",
+        "longitude": 112.7244149,
+        "latitude": -7.2271601
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "29",
+        "name": "Wiyung",
+        "longitude": 112.6932505,
+        "latitude": -7.3115825
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "6",
+        "name": "Gayungan",
+        "longitude": 112.7267275,
+        "latitude": -7.328063
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "27",
+        "name": "Tegalsari",
+        "longitude": 112.737,
+        "latitude": -7.274345
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "25",
+        "name": "Tambaksari",
+        "longitude": 112.7694885,
+        "latitude": -7.2510125
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "11",
+        "name": "Karangpilang",
+        "longitude": 112.6905785,
+        "latitude": -7.3396015
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "1",
+        "name": "Asemrowo",
+        "longitude": 112.6889849,
+        "latitude": -7.238821
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "30",
+        "name": "Wonocolo",
+        "longitude": 112.744423,
+        "latitude": -7.3249829
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "12",
+        "name": "Kenjeran",
+        "longitude": 112.790532,
+        "latitude": -7.2391916
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "24",
+        "name": "Sukomanunggal",
+        "longitude": 112.699403,
+        "latitude": -7.2704835
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "name": "Benowo",
+        "longitude": 112.6018188,
+        "latitude": -7.2374664
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "name": "Tandes",
+        "longitude": 112.6857,
+        "latitude": -7.2615114
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "19",
+        "name": "Sambikerep",
+        "longitude": 112.6552784,
+        "latitude": -7.2751225
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "7",
+        "name": "Genteng",
+        "longitude": 112.73862,
+        "latitude": -7.2585644
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "5",
+        "name": "Dukuh Pakis",
+        "longitude": 112.7003229,
+        "latitude": -7.29155
+    }
+]

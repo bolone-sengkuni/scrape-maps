@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "17",
+        "name": "Wringinanom",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "12",
+        "name": "Pandansari",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "4",
+        "name": "Gubukklakah",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "10",
+        "name": "Ngebruk",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "3",
+        "name": "Dawuhan",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "13",
+        "name": "Poncokusumo",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "2",
+        "name": "Belung",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "15",
+        "name": "Wonomulyo",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "16",
+        "name": "Wonorejo",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "8",
+        "name": "Ngadas",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "11",
+        "name": "Pajaran",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "9",
+        "name": "Ngadireso",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "7",
+        "name": "Karangnongko",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "5",
+        "name": "Jambesari",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "14",
+        "name": "Sumberejo",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "1",
+        "name": "Argosuko",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "subDistrictId": "6",
+        "name": "Karanganyar",
+        "postalCode": "65157",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

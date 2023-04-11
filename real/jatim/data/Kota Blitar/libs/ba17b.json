@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "postalCode": "66126",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Blitar",
+        "kecamatan": "Sukorejo",
+        "kota": "Kota Blitar",
+        "alamat": "RT.1/RW.13 V4XR+92M, Jalan Mojo, Sawur, Blitar, Sukorejo, Blitar City, East Java 66151, Indonesia"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "name": "Tambelangan",
+        "longitude": 113.1534765,
+        "latitude": -7.0442265
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "9",
+        "name": "Sokobanah",
+        "longitude": 113.3982173,
+        "latitude": -6.9417844
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "name": "Ketapang",
+        "longitude": 113.303191,
+        "latitude": -6.929054
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "4",
+        "name": "Jrengik",
+        "longitude": 113.1456666,
+        "latitude": -7.1317925
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "5",
+        "name": "Kedungdung",
+        "longitude": 113.2515935,
+        "latitude": -7.0653906
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "12",
+        "name": "Torjun",
+        "longitude": 113.1987154,
+        "latitude": -7.1531135
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "name": "Camplong",
+        "longitude": 113.331233,
+        "latitude": -7.184146
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "8",
+        "name": "Robatal",
+        "longitude": 113.286147,
+        "latitude": -7.0077535
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "10",
+        "name": "Sreseh",
+        "longitude": 113.0953719,
+        "latitude": -7.1901895
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "1",
+        "name": "Sampang",
+        "longitude": 113.2618629,
+        "latitude": -7.1007359
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "7",
+        "name": "Omben",
+        "longitude": 113.330597,
+        "latitude": -7.1227688
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "2",
+        "name": "Banyuates",
+        "longitude": 113.176276,
+        "latitude": -6.95374
+    }
+]

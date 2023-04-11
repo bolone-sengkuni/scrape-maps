@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Banjar Billah",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Tambelangan",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Karang Anyar",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Barung Gagah",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Batorasang (Baturasang)",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Mambulu Barat",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Birem",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Somber",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Samaran",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Beringin (Bringin)",
+        "postalCode": "69253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

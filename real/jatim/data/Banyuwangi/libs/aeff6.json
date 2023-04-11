@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "postalCode": "68483",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purwoharjo",
+        "kecamatan": "Purwoharjo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.12 Perumahan kedaton, Krajan, Purwoharjo, Kec. Purwoharjo, Kabupaten Banyuwangi, Jawa Timur 68483, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "postalCode": "68483",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purwoharjo",
+        "kecamatan": "Purwoharjo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.6/RW.10 Jl. Slamet Cokro No.42, Krajan, Purwoharjo, Kec. Purwoharjo, Kabupaten Banyuwangi, Jawa Timur 68483, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "postalCode": "68483",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purwoharjo",
+        "kecamatan": "Purwoharjo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.3/RW.13 Jl. Raya Grajagan No.10, Krajan, Purwoharjo, Kec. Purwoharjo, Kabupaten Banyuwangi, Jawa Timur 68482, Indonesia"
+    }
+]

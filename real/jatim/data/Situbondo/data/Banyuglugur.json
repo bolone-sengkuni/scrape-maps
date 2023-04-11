@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Telempong",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Kalianget",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Lubawang",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Tepos",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Kalisari",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Selobanteng",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Banyuglugur",
+        "postalCode": "68359",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

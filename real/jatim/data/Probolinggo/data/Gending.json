@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Banyuanyar Lor",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Brumbungan Lor",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Pajurangan",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Pikatan",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Randupitu",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Sumberkerang",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Klaseman",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Gending",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Sebaung",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Bulang",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Curahsawo",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Pesisir",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Jatiadi",
+        "postalCode": "67272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

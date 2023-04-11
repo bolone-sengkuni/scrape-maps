@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Ajung",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Rowo Indah",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Klompangan",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Wirowongso",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Sukamakmur",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Mangaran",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Pancakarya",
+        "postalCode": "68175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

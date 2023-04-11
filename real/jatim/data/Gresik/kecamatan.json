@@ -1,0 +1,164 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "8",
+        "name": "Dukun",
+        "longitude": 112.453883,
+        "latitude": -6.983333
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "17",
+        "name": "Ujung Pangkah",
+        "longitude": 112.63535,
+        "latitude": -5.7541799
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "11",
+        "name": "Manyar",
+        "longitude": 112.5922771,
+        "latitude": -7.0953314
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "10",
+        "name": "Kedamean",
+        "longitude": 112.5323485,
+        "latitude": -7.3142701
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "2",
+        "name": "Balong Panggang",
+        "longitude": 112.452259,
+        "latitude": -7.2593275
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "name": "Panceng",
+        "longitude": 112.4678035,
+        "latitude": -6.9310485
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "1",
+        "name": "Gresik",
+        "longitude": 112.5715085,
+        "latitude": -6.5612375
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "4",
+        "name": "Bungah",
+        "longitude": 112.5746749,
+        "latitude": -7.0220335
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "name": "Benjeng",
+        "longitude": 112.4927485,
+        "latitude": -7.2450095
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "name": "Tambak",
+        "longitude": 112.63535,
+        "latitude": -5.7541799
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "name": "Menganti",
+        "longitude": 112.575706,
+        "latitude": -7.275051
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "14",
+        "name": "Sangkapura",
+        "longitude": 112.6683414,
+        "latitude": -5.8121429
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "name": "Sidayu",
+        "longitude": 112.5528575,
+        "latitude": -6.9724455
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "name": "Cerme",
+        "longitude": 112.558544,
+        "latitude": -7.2164015
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "7",
+        "name": "Duduk Sampeyan",
+        "longitude": 112.521557,
+        "latitude": -7.1564485
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "9",
+        "name": "Kebomas",
+        "longitude": 112.6237464,
+        "latitude": -7.1741465
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "18",
+        "name": "Wringin Anom",
+        "longitude": 112.5198291,
+        "latitude": -7.3897025
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "name": "Driyorejo",
+        "longitude": 112.6024625,
+        "latitude": -7.3633695
+    }
+]

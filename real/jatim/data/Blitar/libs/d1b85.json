@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "21",
+        "subDistrictId": "5",
+        "postalCode": "66155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kolomayan",
+        "kecamatan": "Wonodadi",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.8 W2JG+8GG, Jalan Raya, Kamuga, Kolomayan, Kec. Wonodadi, Kabupaten Blitar, Jawa Timur, Indonesia"
+    }
+]

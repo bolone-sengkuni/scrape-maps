@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalitidu",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.13 VQ88+Q73, Gangsalan, Kalitidu, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "17",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Panjunan",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.12 Jl. Raya Ngasem - Kalitidu No.350, Krajan, Panjunan, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalitidu",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.12 Jl. Raya Ngasem - Kalitidu No.466, Gangsalan, Kalitidu, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Leran",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.12 RQ6W+8XR, Kwangenrejo, Sidokumpul, Kumpul Bejo, Leran, Kalitidu, Bojonegoro Regency, East Java 62152, Indonesia"
+    }
+]

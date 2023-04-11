@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "16",
+        "name": "Tambakrejo",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Jogorepuh",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Pasrepan",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Sibon",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Rejosalam",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Galih",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Ngantungan",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Petung",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Klakah",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Sapulante",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "name": "Tempuran",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Poh Gedang",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Cengkrong",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Mangguan",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Lemahbang",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Poh Gading",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Ampelsari",
+        "postalCode": "67175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

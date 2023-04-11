@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Kaliboto Lor",
+        "postalCode": "67355",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Rojopolo",
+        "postalCode": "67355",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Jatiroto",
+        "postalCode": "67355",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Sukosari",
+        "postalCode": "67355",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Banyuputih Kidul",
+        "postalCode": "67355",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Kaliboto Kidul",
+        "postalCode": "67355",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

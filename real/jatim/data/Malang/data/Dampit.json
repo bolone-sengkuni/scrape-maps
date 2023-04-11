@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "11",
+        "name": "Sukodono",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "9",
+        "name": "Rembun",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "8",
+        "name": "Pojok",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "10",
+        "name": "Srimulyo",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Jambangan",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Amadanom",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Bumirejo",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Dampit",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Baturetno",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Pamotan",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "12",
+        "name": "Sumbersuko",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Majangtengah",
+        "postalCode": "65181",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

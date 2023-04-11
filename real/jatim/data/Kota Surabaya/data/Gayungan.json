@@ -1,0 +1,46 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Ketintang",
+        "postalCode": "60231",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Menanggal",
+        "postalCode": "60234",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Dukuh Menanggal",
+        "postalCode": "60234",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Gayungan",
+        "postalCode": "60235",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

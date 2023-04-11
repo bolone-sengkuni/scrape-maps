@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Campor Timur",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Keles",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "14",
+        "name": "Tambaagung Tengah",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Ambunten Timur",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Beluk Raja",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Beluk Kenek",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Ambunten Tengah",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Beluk Ares",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Sogian",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "13",
+        "name": "Tambaagung Barat",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Campor Barat",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Bukabu",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "15",
+        "name": "Tambaagung Timur",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Tambaagung Ares",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Ambunten Barat",
+        "postalCode": "69455",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

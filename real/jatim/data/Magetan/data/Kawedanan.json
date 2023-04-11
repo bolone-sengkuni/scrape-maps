@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "20",
+        "name": "Tulung",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "12",
+        "name": "Ngentep",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "name": "Mojorejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "8",
+        "name": "Kawedanan",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Jambangan",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "17",
+        "name": "Selorejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "19",
+        "name": "Tladan",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Genengan",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Balerejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "16",
+        "name": "Sampung",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "18",
+        "name": "Sugihrejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Giripurno",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "9",
+        "name": "Mangunrejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "13",
+        "name": "Ngunut",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Garon",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Bogem",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "14",
+        "name": "Pojok",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "11",
+        "name": "Ngadirejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "15",
+        "name": "Rejosari",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "name": "Karangrejo",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

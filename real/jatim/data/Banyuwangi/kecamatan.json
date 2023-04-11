@@ -1,0 +1,218 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "2",
+        "name": "Bangorejo",
+        "longitude": 114.1636951,
+        "latitude": -8.5519809
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "name": "Kalibaru",
+        "longitude": 113.9742405,
+        "latitude": -8.2701721
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "name": "Muncar",
+        "longitude": 114.3185635,
+        "latitude": -8.4466424
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "4",
+        "name": "Gambiran",
+        "longitude": 114.16663,
+        "latitude": -8.418795
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "23",
+        "name": "Tegalsari",
+        "longitude": 114.1326699,
+        "latitude": -8.41421
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "1",
+        "name": "Banyuwangi",
+        "longitude": 114.3661508,
+        "latitude": -8.216925
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "9",
+        "name": "Kabat",
+        "longitude": 114.3079741,
+        "latitude": -8.2701565
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "name": "Tegaldlimo",
+        "longitude": 114.436426,
+        "latitude": -8.613517
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "11",
+        "name": "Kalipuro",
+        "longitude": 114.3469622,
+        "latitude": -8.1435524
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "20",
+        "name": "Songgon",
+        "longitude": 114.156627,
+        "latitude": -8.1978611
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "16",
+        "name": "Rogojampi",
+        "longitude": 114.299805,
+        "latitude": -8.31045
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "24",
+        "name": "Wongsorejo",
+        "longitude": 114.3435975,
+        "latitude": -7.9882849
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "3",
+        "name": "Cluring",
+        "longitude": 114.2360149,
+        "latitude": -8.4354199
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "17",
+        "name": "Sempu",
+        "longitude": 114.152095,
+        "latitude": -8.2797
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "12",
+        "name": "Licin",
+        "longitude": 114.2410475,
+        "latitude": -8.1517006
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "19",
+        "name": "Singojuruh",
+        "longitude": 114.231375,
+        "latitude": -8.300815
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "name": "Giri",
+        "longitude": 114.3524,
+        "latitude": -8.19079
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "8",
+        "name": "Glenmore",
+        "longitude": 114.0286651,
+        "latitude": -8.28145
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "18",
+        "name": "Siliragung",
+        "longitude": 114.090345,
+        "latitude": -8.5250735
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "15",
+        "name": "Purwoharjo",
+        "longitude": 114.231635,
+        "latitude": -8.4872499
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "7",
+        "name": "Glagah",
+        "longitude": 114.305183,
+        "latitude": -8.185278
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "21",
+        "name": "Srono",
+        "longitude": 114.2577499,
+        "latitude": -8.37411
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "name": "Pesanggaran",
+        "longitude": 114.0913001,
+        "latitude": -8.588603
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "5",
+        "name": "Genteng",
+        "longitude": 114.155055,
+        "latitude": -8.3324851
+    }
+]

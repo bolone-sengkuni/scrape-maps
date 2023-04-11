@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "14",
+        "name": "Tumpang",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "13",
+        "name": "Tulusbesar",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "8",
+        "name": "Malangsuko",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "15",
+        "name": "Wringinsongo",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "3",
+        "name": "Duwet",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "10",
+        "name": "Pandanajeng",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "7",
+        "name": "Kidal",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "11",
+        "name": "Pulungdowo",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "9",
+        "name": "Ngingit",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "12",
+        "name": "Slamet",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "5",
+        "name": "Jeru",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "2",
+        "name": "Bokor",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "6",
+        "name": "Kambingan",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "1",
+        "name": "Benjor",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "subDistrictId": "4",
+        "name": "Duwet Krajan",
+        "postalCode": "65156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

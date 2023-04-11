@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "4",
+        "name": "Panglungan",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "1",
+        "name": "Carangwulung",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "2",
+        "name": "Galengdowo",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "3",
+        "name": "Jarak",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "8",
+        "name": "Wonomerto",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "7",
+        "name": "Wonokerto",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "9",
+        "name": "Wonosalam",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "6",
+        "name": "Sumberjo",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "21",
+        "subDistrictId": "5",
+        "name": "Sambirejo",
+        "postalCode": "61476",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

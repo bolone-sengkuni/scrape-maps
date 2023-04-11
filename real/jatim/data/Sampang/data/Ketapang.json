@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Ketapang Barat",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Banyusokah",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bira Barat",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Bunten Barat",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Pangereman",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "14",
+        "name": "Rabiyan",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Paopale Daya",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Ketapang Laok",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Pancor",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Ketapang Daya",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Karang Anyar",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Bunten Timur",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Paopalelaok",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Ketapang Timur",
+        "postalCode": "69261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

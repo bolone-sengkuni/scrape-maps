@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Torongrejo",
+        "postalCode": "65325",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Pendem",
+        "postalCode": "65324",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Mojorejo",
+        "postalCode": "65322",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Beji",
+        "postalCode": "65326",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Junrejo",
+        "postalCode": "65321",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Dadaprejo",
+        "postalCode": "65323",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "3",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Tlekung",
+        "postalCode": "65327",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

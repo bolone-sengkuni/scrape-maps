@@ -1,0 +1,245 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "2",
+        "name": "Balen",
+        "longitude": 111.96628,
+        "latitude": -7.1906485
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "27",
+        "name": "Trucuk",
+        "longitude": 111.8094918,
+        "latitude": -7.1320349
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "23",
+        "name": "Sukosewu",
+        "longitude": 111.9373399,
+        "latitude": -7.241595
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "name": "Kalitidu",
+        "longitude": 111.752735,
+        "latitude": -7.1524649
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "17",
+        "name": "Ngasem",
+        "longitude": 111.738388,
+        "latitude": -7.253255
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "name": "Padangan",
+        "longitude": 111.6111279,
+        "latitude": -7.1806781
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "name": "Malo",
+        "longitude": 111.715423,
+        "latitude": -7.1157546
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "21",
+        "name": "Sekar",
+        "longitude": 111.7061625,
+        "latitude": -7.4070759
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "22",
+        "name": "Sugihwaras",
+        "longitude": 111.962305,
+        "latitude": -7.3347989
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "name": "Ngambon",
+        "longitude": 111.7158594,
+        "latitude": -7.3258
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "24",
+        "name": "Sumberrejo",
+        "longitude": 112.026695,
+        "latitude": -7.213745
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "10",
+        "name": "Kasiman",
+        "longitude": 111.640401,
+        "latitude": -7.113528
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "name": "Margomulyo",
+        "longitude": 111.4922009,
+        "latitude": -7.310137
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "25",
+        "name": "Tambakrejo",
+        "longitude": 111.63864,
+        "latitude": -7.290718
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "18",
+        "name": "Ngraho",
+        "longitude": 111.5404605,
+        "latitude": -7.255593
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "6",
+        "name": "Gondang",
+        "longitude": 111.839955,
+        "latitude": -7.4042955
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "12",
+        "name": "Kedungadem",
+        "longitude": 112.0329905,
+        "latitude": -7.323185
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "20",
+        "name": "Purwosari",
+        "longitude": 111.66186,
+        "latitude": -7.179335
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "26",
+        "name": "Temayang",
+        "longitude": 111.9091351,
+        "latitude": -7.3319345
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "name": "Baureno",
+        "longitude": 112.1039434,
+        "latitude": -7.1167105
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "9",
+        "name": "Kapas",
+        "longitude": 111.908781,
+        "latitude": -7.1922389
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "4",
+        "name": "Bubulan",
+        "longitude": 111.8283285,
+        "latitude": -7.317145
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "13",
+        "name": "Kepoh Baru",
+        "longitude": 112.0978214,
+        "latitude": -7.2073625
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "8",
+        "name": "Kanor",
+        "longitude": 112.0300445,
+        "latitude": -7.1188605
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "5",
+        "name": "Dander",
+        "longitude": 111.8450939,
+        "latitude": -7.2213119
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "1",
+        "name": "Bojonegoro",
+        "longitude": 111.8960479,
+        "latitude": -7.1560887
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "11",
+        "name": "Kedewan",
+        "longitude": 111.6541251,
+        "latitude": -7.049812
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "name": "Prayungan",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "3",
+        "name": "Ketro",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "8",
+        "name": "Sawoo",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "12",
+        "name": "Tugurejo",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "2",
+        "name": "Grogol",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "13",
+        "name": "Tumpakpelem",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "5",
+        "name": "Ngindeng",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "name": "Bondrang",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "name": "Pangkal",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "4",
+        "name": "Kori",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "14",
+        "name": "Tumpuk",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "9",
+        "name": "Sriti (Serinti)",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "11",
+        "name": "Tempuran",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "10",
+        "name": "Temon",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

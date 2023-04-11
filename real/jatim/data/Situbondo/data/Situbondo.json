@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Kotakan",
+        "postalCode": "68313",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Kalibagor",
+        "postalCode": "68314",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Dawuhan",
+        "postalCode": "68311",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Talkandang",
+        "postalCode": "68315",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Patokan",
+        "postalCode": "68312",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "33",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Olean",
+        "postalCode": "68316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

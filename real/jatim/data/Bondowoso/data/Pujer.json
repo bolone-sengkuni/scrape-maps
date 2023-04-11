@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Padasan",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Maskuning Wetan",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Mengok",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Kejayan",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Alassumur",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Randucangkring",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Sukowono",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Maskuning Kulon",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Sukodono",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Mangli",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Sukokerto",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

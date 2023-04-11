@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Karang Sengon",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Besuk",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Klabang",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Wonoboyo",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Blimbing",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Klampokan",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Wonokerto",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Leprak",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Pandak",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Karanganyar",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Sumbersuko",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

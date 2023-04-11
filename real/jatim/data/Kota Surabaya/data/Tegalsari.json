@@ -1,0 +1,57 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "27",
+        "subDistrictId": "4",
+        "name": "Tegalsari",
+        "postalCode": "60262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "27",
+        "subDistrictId": "5",
+        "name": "Wonorejo",
+        "postalCode": "60263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "27",
+        "subDistrictId": "3",
+        "name": "Keputran",
+        "postalCode": "60265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "27",
+        "subDistrictId": "2",
+        "name": "Kedungdoro",
+        "postalCode": "60261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "27",
+        "subDistrictId": "1",
+        "name": "Dr. Sutomo",
+        "postalCode": "60264",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

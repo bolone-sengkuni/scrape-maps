@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "postalCode": "66153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bendo",
+        "kecamatan": "Ponggok",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.6 Jl. Raya Bendo No.18, Bulucawang, Bendo, Kec. Ponggok, Kabupaten Blitar, Jawa Timur 66153, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngaglik",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.5/RW.8 W457+4G6, Sendung, Ngaglik, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "postalCode": "66153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bendo",
+        "kecamatan": "Ponggok",
+        "kota": "Blitar",
+        "alamat": "RT.8/RW.12 W48C+Q9V, Jl. Raya Kediri - Blitar, Bendo, Kec. Ponggok, Kabupaten Blitar, Jawa Timur 66153, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "postalCode": "66153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bendo",
+        "kecamatan": "Ponggok",
+        "kota": "Blitar",
+        "alamat": "RT.5/RW.14 Unnamed Road, Bulucawang, Bendo, Kec. Ponggok, Kabupaten Blitar, Jawa Timur 66153, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "postalCode": "66171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jatinom",
+        "kecamatan": "Kanigoro",
+        "kota": "Blitar",
+        "alamat": "V55G+PPM, Jl. Mawar, RT.03/RW.03, Nglaos, Jatinom, Kec. Kanigoro, Kota Blitar, Jawa Timur 66171, Indonesia"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "8",
+        "name": "Kejagan",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "13",
+        "name": "Temon",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "16",
+        "name": "Wonorejo",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "6",
+        "name": "Jambuwok",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "name": "Beloh",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "4",
+        "name": "Bicak",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "12",
+        "name": "Tawangsari",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "name": "Jatipasar",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "1",
+        "name": "Balongwono",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "2",
+        "name": "Bejijong",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "11",
+        "name": "Sentonorejo",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "15",
+        "name": "Watesumpak",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "14",
+        "name": "Trowulan",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "9",
+        "name": "Pakis",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "10",
+        "name": "Panggih",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "subDistrictId": "5",
+        "name": "Domas",
+        "postalCode": "61362",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

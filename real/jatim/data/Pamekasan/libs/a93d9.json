@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "postalCode": "69371",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Panglegur",
+        "kecamatan": "Tlanakan",
+        "kota": "Pamekasan",
+        "alamat": "RT.9/RW.7 RF5F+CQJ, Jalan Raya, Kramat, Panglegur, Tlanakan, Pamekasan Regency, East Java 69371, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "postalCode": "69371",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Panglegur",
+        "kecamatan": "Tlanakan",
+        "kota": "Pamekasan",
+        "alamat": "RT.9/RW.2 Jl. Raya Panglegur Gang Malang Teter No.9, Kramat, Panglegur, Kec. Tlanakan, Kabupaten Pamekasan, Jawa Timur 69371, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "postalCode": "69371",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Larangan Tokol",
+        "kecamatan": "Tlanakan",
+        "kota": "Pamekasan",
+        "alamat": "RT.9/RW.13 RF3C+MG2, Asemanis Satu, Larangan Tokol, Kec. Tlanakan, Kabupaten Pamekasan, Jawa Timur 69371, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "postalCode": "69371",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Panglegur",
+        "kecamatan": "Tlanakan",
+        "kota": "Pamekasan",
+        "alamat": "RT.2/RW.6 Jl. Raya Panglegur, Kramat, Panglegur, Kec. Tlanakan, Kabupaten Pamekasan, Jawa Timur 69371, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "postalCode": "69317",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gladak Anyar",
+        "kecamatan": "Pamekasan",
+        "kota": "Pamekasan",
+        "alamat": "RT.1/RW.4 RFXG+FM7, Gladak Anyar, Pamekasan, Pamekasan Regency, East Java 69317, Indonesia"
+    }
+]

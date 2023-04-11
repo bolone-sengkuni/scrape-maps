@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Kacangan",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "16",
+        "name": "Tambakromo",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Kemiri",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Kedungrejo",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Ketileng",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Semlaran",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "18",
+        "name": "Tinawun",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Rendeng",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "15",
+        "name": "Sumberejo",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Ngujung",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "17",
+        "name": "Tanggir",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "14",
+        "name": "Sukorejo",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Petak",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Banaran",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "20",
+        "name": "Tulungagung",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Kliteh",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "19",
+        "name": "Trembes",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Malo",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Dukuh Lor",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "14",
+        "subDistrictId": "13",
+        "name": "Sudah",
+        "postalCode": "62153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

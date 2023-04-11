@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Gendingan",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "15",
+        "name": "Simo",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "14",
+        "name": "Ringinpitu",
+        "postalCode": "66223",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Ngujang",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Plandaan",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Majan",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Bulusari",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "18",
+        "name": "Tunggulsari",
+        "postalCode": "66222",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Boro",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Mangunsari",
+        "postalCode": "66228",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Rejoagung",
+        "postalCode": "66225",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "16",
+        "name": "Tapan",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "17",
+        "name": "Tawangsari",
+        "postalCode": "66227",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Kedungwaru",
+        "postalCode": "66224",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Ketanon",
+        "postalCode": "66226",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Bangoan",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "19",
+        "name": "Winong",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Loderesan",
+        "postalCode": "66229",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Plosokandang",
+        "postalCode": "66221",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

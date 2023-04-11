@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Panduman",
+        "postalCode": "68192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Suger Kidul",
+        "postalCode": "68192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Sukowiryo",
+        "postalCode": "68192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Jelbuk",
+        "postalCode": "68192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Suko Jember",
+        "postalCode": "68192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Suco Pangepok",
+        "postalCode": "68192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

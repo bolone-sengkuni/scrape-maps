@@ -1,0 +1,57 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "30",
+        "subDistrictId": "3",
+        "name": "Margorejo",
+        "postalCode": "60238",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "30",
+        "subDistrictId": "4",
+        "name": "Sidosermo",
+        "postalCode": "60239",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "30",
+        "subDistrictId": "1",
+        "name": "Bendul Merisi",
+        "postalCode": "60239",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "30",
+        "subDistrictId": "2",
+        "name": "Jemur Wonosari",
+        "postalCode": "60237",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "30",
+        "subDistrictId": "5",
+        "name": "Siwalankerto",
+        "postalCode": "60236",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

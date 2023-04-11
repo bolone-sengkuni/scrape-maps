@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "5",
+        "name": "Kaliglagah",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "3",
+        "name": "Jamintoro",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "1",
+        "name": "Gelang",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "8",
+        "name": "Rowo Tengah",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "10",
+        "name": "Yosorati",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "2",
+        "name": "Jambesari",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "4",
+        "name": "Jatiroto",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "6",
+        "name": "Karang Bayat",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "9",
+        "name": "Sumber Agung",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "subDistrictId": "7",
+        "name": "Pringgowirawan",
+        "postalCode": "68156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

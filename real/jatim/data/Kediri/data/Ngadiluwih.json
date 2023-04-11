@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Bedug",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "11",
+        "name": "Rembang",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Badal",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "12",
+        "name": "Rembangkepuh",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "15",
+        "name": "Tales",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Badalpandean",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Banggle",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "14",
+        "name": "Slumbung",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "name": "Dukuh",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "16",
+        "name": "Wonorejo",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "10",
+        "name": "Purwokerto",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "13",
+        "name": "Seketi",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Branggahan",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "name": "Mangunrejo",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Banjarejo",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "13",
+        "subDistrictId": "9",
+        "name": "Ngadiluwih",
+        "postalCode": "64171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

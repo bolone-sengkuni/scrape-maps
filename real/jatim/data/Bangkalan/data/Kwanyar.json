@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Kwanyar Barat",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Batah Timur",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Ketetang",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Karang Anyar",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Karang Entang atau Gentang",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Duwek Buter",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "16",
+        "name": "Tebul",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "14",
+        "name": "Pasanggrahan (Pesanggrahan)",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Batah Barat",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Janteh",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "15",
+        "name": "Sumur Kuning (Somor Koneng)",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Paoran",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Gunong atau Gunung Sereng",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Pandanan",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Morombuh",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Dlemer",
+        "postalCode": "69163",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

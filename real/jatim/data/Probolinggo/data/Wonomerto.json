@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "11",
+        "name": "Wonorejo",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "5",
+        "name": "Pohsangit Lor",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "10",
+        "name": "Tunggak Cerme",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "9",
+        "name": "Sumberkare",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "4",
+        "name": "Patalan",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "name": "Pohsangit Tengah",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "3",
+        "name": "Kedung Supit",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "6",
+        "name": "Pohsangit Ngisor",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "8",
+        "name": "Sepuh Gempol",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "1",
+        "name": "Jrebeng",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "subDistrictId": "2",
+        "name": "Kareng Kidul",
+        "postalCode": "67253",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

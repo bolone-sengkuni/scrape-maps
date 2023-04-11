@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "postalCode": "67163",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Purwodadi",
+        "kecamatan": "Purwodadi",
+        "kota": "Pasuruan",
+        "alamat": "RT.1/RW.2 5PRH+CJH, Jatisari, Purwodadi, Kec. Purwodadi, Pasuruan, Jawa Timur 67163, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "16",
+        "subDistrictId": "6",
+        "postalCode": "67162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Martopuro",
+        "kecamatan": "Purwosari",
+        "kota": "Pasuruan",
+        "alamat": "RT.4/RW.9 Jl. Pasarbaru Perumahan Rukun Asri No.480, Donorejo, Martopuro, Kec. Purwosari, Pasuruan, Jawa Timur 67162, Indonesia"
+    }
+]

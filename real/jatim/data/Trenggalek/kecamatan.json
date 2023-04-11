@@ -1,0 +1,128 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "4",
+        "name": "Durenan",
+        "longitude": 111.8077761,
+        "latitude": -8.0880621
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "12",
+        "name": "Suruh",
+        "longitude": 111.6244949,
+        "latitude": -8.11137
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "7",
+        "name": "Karangan",
+        "longitude": 111.6676346,
+        "latitude": -8.0719541
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "2",
+        "name": "Bendungan",
+        "longitude": 111.6989746,
+        "latitude": -7.9523695
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "14",
+        "name": "Watulimo",
+        "longitude": 111.7145365,
+        "latitude": -8.2653119
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "10",
+        "name": "Pogalan",
+        "longitude": 111.7463635,
+        "latitude": -8.0543645
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "3",
+        "name": "Dongko",
+        "longitude": 111.559945,
+        "latitude": -8.2057851
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "name": "Kampak",
+        "longitude": 111.6540101,
+        "latitude": -8.2006299
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "1",
+        "name": "Trenggalek",
+        "longitude": 111.6189421,
+        "latitude": -8.136162
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "5",
+        "name": "Gandusari",
+        "longitude": 111.71613,
+        "latitude": -8.1414945
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "name": "Panggul",
+        "longitude": 111.453761,
+        "latitude": -8.243469
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "13",
+        "name": "Tugu",
+        "longitude": 111.629316,
+        "latitude": -8.0286944
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "11",
+        "name": "Pule",
+        "longitude": 111.536069,
+        "latitude": -8.1119305
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "8",
+        "name": "Munjungan",
+        "longitude": 111.5713235,
+        "latitude": -8.3111525
+    }
+]

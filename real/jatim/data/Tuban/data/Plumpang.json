@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "name": "Kesamben",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "9",
+        "name": "Klotok",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Bandungrejo",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Jatimulyo",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "14",
+        "name": "Plumpang",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Kedungrojo",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Cangkring",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "10",
+        "name": "Magersari",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "11",
+        "name": "Ngrayung",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "16",
+        "name": "Sumberagung",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "12",
+        "name": "Penidon",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Kedungsoko",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "15",
+        "name": "Sembungrejo",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "13",
+        "name": "Plandirejo",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "17",
+        "name": "Sumurjalak",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "name": "Kepohagung",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Kebomlati",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "13",
+        "subDistrictId": "18",
+        "name": "Trutup",
+        "postalCode": "62382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Cangkarman (Cangkareman)",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Galis Daya atau Dajah",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Batokaban",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Sen Asen",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Campor",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Sambiyan",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Genteng",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Konang",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Durin Timur",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Durin Barat",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Bandung",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Kanegarah (Kanagereh)",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Pakes",
+        "postalCode": "69175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

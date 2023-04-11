@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Jember Kidul",
+        "postalCode": "68131",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Kebon Agung",
+        "postalCode": "68137",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Kepatihan",
+        "postalCode": "68137",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Mangli",
+        "postalCode": "68136",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Tegal Besar",
+        "postalCode": "68132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Kaliwates",
+        "postalCode": "68133",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Sempusari",
+        "postalCode": "68135",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

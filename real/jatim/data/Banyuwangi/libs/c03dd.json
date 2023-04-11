@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "postalCode": "68461",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kabat",
+        "kecamatan": "Kabat",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.12 P8C8+VQJ, Karangrejo, Kabat, Kec. Kabat, Kabupaten Banyuwangi, Jawa Timur 68461, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "postalCode": "68461",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kabat",
+        "kecamatan": "Kabat",
+        "kota": "Banyuwangi",
+        "alamat": "RT.6/RW.12 P898+R7P, Karangrejo, Kabat, Kec. Kabat, Kabupaten Banyuwangi, Jawa Timur 68461, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "9",
+        "subDistrictId": "16",
+        "postalCode": "68461",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tambong",
+        "kecamatan": "Kabat",
+        "kota": "Banyuwangi",
+        "alamat": "RT.7/RW.1 P8W2+3R6, Dusun Krajan, Tambong, Kec. Kabat, Kabupaten Banyuwangi, Jawa Timur 68461, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "postalCode": "68461",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Badean",
+        "kecamatan": "Kabat",
+        "kota": "Banyuwangi",
+        "alamat": "RT.4/RW.8 M8VQ+66J, Jatisari, Badean, Kec. Kabat, Kabupaten Banyuwangi, Jawa Timur 68461, Indonesia"
+    }
+]

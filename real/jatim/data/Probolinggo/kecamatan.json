@@ -1,0 +1,218 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "7",
+        "name": "Kota Anyar",
+        "longitude": 113.559393,
+        "latitude": -7.760195
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "19",
+        "name": "Sumber",
+        "longitude": 113.081791,
+        "latitude": -7.9552304
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "name": "Leces",
+        "longitude": 113.2278716,
+        "latitude": -7.8547609
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "8",
+        "name": "Kraksaan",
+        "longitude": 113.4085255,
+        "latitude": -7.7533626
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "name": "Sukapura",
+        "longitude": 113.0092735,
+        "latitude": -7.9212625
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "10",
+        "name": "Krucil",
+        "longitude": 113.5187709,
+        "latitude": -7.942127
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "24",
+        "name": "Wonomerto",
+        "longitude": 113.15498,
+        "latitude": -7.8289725
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "5",
+        "name": "Gading",
+        "longitude": 113.4966195,
+        "latitude": -7.87184
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "2",
+        "name": "Banyu Anyar",
+        "longitude": 113.3135649,
+        "latitude": -7.869596
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "23",
+        "name": "Tongas",
+        "longitude": 113.0955699,
+        "latitude": -7.7578785
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "17",
+        "name": "Pakuniran",
+        "longitude": 113.5540515,
+        "latitude": -7.8217945
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "21",
+        "name": "Tegal Siwalan",
+        "longitude": 113.2604961,
+        "latitude": -7.872811
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "16",
+        "name": "Pajarakan",
+        "longitude": 113.3710629,
+        "latitude": -7.7798115
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "15",
+        "name": "Paiton",
+        "longitude": 113.5286645,
+        "latitude": -7.7312495
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "22",
+        "name": "Tiris",
+        "longitude": 113.391017,
+        "latitude": -7.9447885
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "name": "Maron",
+        "longitude": 113.3622049,
+        "latitude": -7.8418849
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "3",
+        "name": "Besuk",
+        "longitude": 113.47399,
+        "latitude": -7.793225
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "4",
+        "name": "Dringu",
+        "longitude": 113.256832,
+        "latitude": -7.7845736
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "13",
+        "name": "Lumbang",
+        "longitude": 113.046784,
+        "latitude": -7.8412424
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "20",
+        "name": "Sumberasih",
+        "longitude": 113.1941645,
+        "latitude": -7.7442065
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "9",
+        "name": "Krejengan",
+        "longitude": 113.4155,
+        "latitude": -7.79923
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "6",
+        "name": "Gending",
+        "longitude": 113.306801,
+        "latitude": -7.7933258
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "1",
+        "name": "Bantaran",
+        "longitude": 113.1819449,
+        "latitude": -7.871572
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "11",
+        "name": "Kuripan",
+        "longitude": 113.135945,
+        "latitude": -7.906735
+    }
+]

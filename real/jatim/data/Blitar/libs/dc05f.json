@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Doko",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.6 W964+4P2, Unnamed Road, Suru, Doko, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Suru",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.9/RW.4 W82X+6GP, Unnamed Road, Suru, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Doko",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.12 W933+WJG, Unnamed Road, Genengan, Doko, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumber Urip",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.3/RW.13 X92G+PJM, Precet, Sumber Urip, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Suru",
+        "kecamatan": "Doko",
+        "kota": "Blitar",
+        "alamat": "RT.1/RW.11 W85R+J99, Carangkembang, Suru, Kec. Doko, Kabupaten Blitar, Jawa Timur 66186, Indonesia"
+    }
+]

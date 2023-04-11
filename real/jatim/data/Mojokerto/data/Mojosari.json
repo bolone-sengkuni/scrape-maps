@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "19",
+        "name": "Wonokusumo",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Mojosari",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Belahantengah",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Mojosulur",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "15",
+        "name": "Sarirejo",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Kebondalem",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Awang Awang",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "17",
+        "name": "Seduri",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Pekukuhan",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "18",
+        "name": "Sumbertanggul",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Menanggal",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Modopuro",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Kedunggempol",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Jotangan",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Kauman",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Leminggir",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Ngimbangan",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "14",
+        "name": "Randubango",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "subDistrictId": "16",
+        "name": "Sawahan",
+        "postalCode": "61382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

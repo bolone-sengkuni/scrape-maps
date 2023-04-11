@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "7",
+        "name": "Purwoasri",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "8",
+        "name": "Tegaldlimo",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "9",
+        "name": "Wringinpitu",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "4",
+        "name": "Kedungwungu",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "3",
+        "name": "Kedunggebang",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "1",
+        "name": "Kalipait",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "5",
+        "name": "Kendalrejo",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "6",
+        "name": "Purwoagung",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "22",
+        "subDistrictId": "2",
+        "name": "Kedungasri",
+        "postalCode": "68484",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

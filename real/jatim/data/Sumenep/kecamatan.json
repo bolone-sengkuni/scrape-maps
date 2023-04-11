@@ -1,0 +1,245 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "22",
+        "name": "Pragaan",
+        "longitude": 113.6558359,
+        "latitude": -7.0920172
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "6",
+        "name": "Batuputih",
+        "longitude": 113.934826,
+        "latitude": -6.9176795
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "14",
+        "name": "Guluk Guluk",
+        "longitude": 113.6354265,
+        "latitude": -7.0449581
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "21",
+        "name": "Pasongsongan",
+        "longitude": 113.661429,
+        "latitude": -6.95048
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "2",
+        "name": "Ambunten",
+        "longitude": 113.739676,
+        "latitude": -6.9128395
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "10",
+        "name": "Ganding",
+        "longitude": 113.702724,
+        "latitude": -7.0376075
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "12",
+        "name": "Gayam",
+        "longitude": 114.3395655,
+        "latitude": -7.1375665
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "23",
+        "name": "Ra'as (Raas)",
+        "longitude": 114.5666667,
+        "latitude": -7.1422221
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "16",
+        "name": "Kangayan",
+        "longitude": 115.536507,
+        "latitude": -6.743632
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "name": "Kalianget",
+        "longitude": 113.901861,
+        "latitude": -7.0499825
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "18",
+        "name": "Manding",
+        "longitude": 113.8843094,
+        "latitude": -6.9532515
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "11",
+        "name": "Gapura",
+        "longitude": 113.961147,
+        "latitude": -7.0034615
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "8",
+        "name": "Dasuk",
+        "longitude": 113.8245071,
+        "latitude": -6.9148925
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "13",
+        "name": "Gili Ginting (Giligenteng)",
+        "longitude": 113.9161111,
+        "latitude": -7.1949998
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "5",
+        "name": "Batuan",
+        "longitude": 113.836552,
+        "latitude": -7.0223765
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "3",
+        "name": "Arjasa",
+        "longitude": 115.2995095,
+        "latitude": -6.924439
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "9",
+        "name": "Dungkek",
+        "longitude": 114.1064945,
+        "latitude": -6.9682025
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "4",
+        "name": "Batang Batang",
+        "longitude": 114.017802,
+        "latitude": -6.9426035
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "7",
+        "name": "Bluto",
+        "longitude": 113.7755975,
+        "latitude": -7.0995635
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "19",
+        "name": "Masalembu",
+        "longitude": 114.5025571,
+        "latitude": -5.3196725
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "20",
+        "name": "Nonggunong",
+        "longitude": 114.3965144,
+        "latitude": -6.9719936
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "26",
+        "name": "Saronggi",
+        "longitude": 113.8381174,
+        "latitude": -7.085747
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "25",
+        "name": "Sapeken",
+        "longitude": 115.884502,
+        "latitude": -7.0676915
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "17",
+        "name": "Lenteng",
+        "longitude": 113.774747,
+        "latitude": -7.046273
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "24",
+        "name": "Rubaru",
+        "longitude": 113.7614195,
+        "latitude": -6.9635565
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "27",
+        "name": "Talango",
+        "longitude": 114.000528,
+        "latitude": -7.130831
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "1",
+        "name": "Kota Sumenep",
+        "longitude": 113.858299,
+        "latitude": -7.0095569
+    }
+]

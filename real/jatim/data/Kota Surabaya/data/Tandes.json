@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "11",
+        "name": "Tandes Lor",
+        "postalCode": "60187",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "4",
+        "name": "Buntaran",
+        "postalCode": "60184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "7",
+        "name": "Karang Poh",
+        "postalCode": "60186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "9",
+        "name": "Manukan Wetan",
+        "postalCode": "60185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "10",
+        "name": "Tandes Kidul",
+        "postalCode": "60187",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "6",
+        "name": "Gedang Asin",
+        "postalCode": "60186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "5",
+        "name": "Gadel",
+        "postalCode": "60188",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "1",
+        "name": "Balong Sari",
+        "postalCode": "60186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "3",
+        "name": "Bibis",
+        "postalCode": "60186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "12",
+        "name": "Tubanan",
+        "postalCode": "60188",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "8",
+        "name": "Manukan Kulon",
+        "postalCode": "60185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "26",
+        "subDistrictId": "2",
+        "name": "Banjar Sugian",
+        "postalCode": "60185",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

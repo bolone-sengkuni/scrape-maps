@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Kedungturi",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "17",
+        "name": "Tanggungan",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Mentaos",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Gempol Legundi",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "14",
+        "name": "Sepanyul",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Mejoyolosari",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Pesanggrahan",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Blimbing",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Pucangro",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Japanan",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Krembangan",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Plumbon Gambang",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "18",
+        "name": "Wangkalkepuh",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "15",
+        "name": "Sukoiber",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Godong",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bugasur Kedaleman",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "16",
+        "name": "Sukopinggir",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Gudo",
+        "postalCode": "61463",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

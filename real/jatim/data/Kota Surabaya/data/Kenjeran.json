@@ -1,0 +1,46 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Tambak Wedi",
+        "postalCode": "60126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Tanah Kali Kedinding",
+        "postalCode": "60129",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Bulak Banteng",
+        "postalCode": "60127",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Sidotopo atau Sidoropo Wetan",
+        "postalCode": "60128",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

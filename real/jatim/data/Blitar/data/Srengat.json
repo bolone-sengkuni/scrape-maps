@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Bagelenan",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "name": "Ngaglik",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "13",
+        "name": "Selokajang",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Kandangan",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Kauman",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Kendalrejo",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Dandong",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Kerjen",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "16",
+        "name": "Wonorejo",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "12",
+        "name": "Purwokerto",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Karanggayam",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "name": "Pakisrejo",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Dermojayan",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "15",
+        "name": "Togogan",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "9",
+        "name": "Maron",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "14",
+        "name": "Srengat",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

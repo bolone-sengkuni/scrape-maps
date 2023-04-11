@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "postalCode": "66181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Nglegok",
+        "kecamatan": "Nglegok",
+        "kota": "Blitar",
+        "alamat": "RT.2/RW.3 X678+PX2, Jl. Raya Nglegok, Nglegok 1, Nglegok, Kec. Nglegok, Kabupaten Blitar, Jawa Timur 66181, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "postalCode": "66181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Penataran",
+        "kecamatan": "Nglegok",
+        "kota": "Blitar",
+        "alamat": "RT.7/RW.2 X6P6+2RM, Penataran, Kec. Nglegok, Kabupaten Blitar, Jawa Timur 66181, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "postalCode": "66181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Modangan",
+        "kecamatan": "Nglegok",
+        "kota": "Blitar",
+        "alamat": "RT.7/RW.5 262M+2X9, Karanganyar Barat, Modangan, Kec. Nglegok, Kabupaten Blitar, Jawa Timur 66181, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "postalCode": "66181",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumberasri",
+        "kecamatan": "Nglegok",
+        "kota": "Blitar",
+        "alamat": "RT.2/RW.3 26F4+G27, Sumbersari 2, Sumberasri, Kec. Nglegok, Kabupaten Blitar, Jawa Timur 66181, Indonesia"
+    }
+]

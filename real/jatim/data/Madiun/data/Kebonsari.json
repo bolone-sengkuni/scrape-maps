@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "8",
+        "name": "Pucanganom",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "name": "Palur",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "9",
+        "name": "Rejosari",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "name": "Krandegan",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "1",
+        "name": "Bacem",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "3",
+        "name": "Kebonsari",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "12",
+        "name": "Sukorejo",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "11",
+        "name": "Singgahan",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "name": "Mojorejo",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "13",
+        "name": "Tambakmas",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "4",
+        "name": "Kendondong",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "10",
+        "name": "Sidorejo",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "2",
+        "name": "Balerejo",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "8",
+        "subDistrictId": "14",
+        "name": "Tanjungrejo",
+        "postalCode": "63173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

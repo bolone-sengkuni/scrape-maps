@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Bulu",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "14",
+        "name": "Wilangan",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "12",
+        "name": "Nglewan (Ngelewan)",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Bangsalan",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Bancangan",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Campursari",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "name": "Ngadisanan",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Bedingin",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "name": "Maguwan",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Gajah",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "9",
+        "name": "Kemuning",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Campurejo",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Besuki",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "15",
+        "name": "Wringinanom",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "15",
+        "subDistrictId": "13",
+        "name": "Sambit",
+        "postalCode": "63474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

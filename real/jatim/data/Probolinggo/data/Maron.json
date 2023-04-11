@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Brumbungan Kidul",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Ganting Wetan",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "15",
+        "name": "Suko",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "17",
+        "name": "Sumberpoh",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Pegalangan Kidul",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Maron Kidul",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "18",
+        "name": "Wonorejo",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "16",
+        "name": "Sumberdawe",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Kedungsari",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "13",
+        "name": "Puspan",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Brabe",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Ganting Kulon",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "14",
+        "name": "Satreyan",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Brani Wetan",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Gerongan",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Maron Kulon",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Maron Wetan",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Brani Kulon",
+        "postalCode": "67276",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

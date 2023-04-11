@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Gunung Rejo",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Sukorejo",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Ketanggung",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Karang Mulyo",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Pager Kidul",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Klepu (Kelepu)",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Sumberejo (Sumber Rejo)",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Pager Lor",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Sembowo",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Sudimoro",
+        "postalCode": "63573",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

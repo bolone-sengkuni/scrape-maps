@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "19",
+        "name": "Uteran",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "9",
+        "name": "Kranggan",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "15",
+        "name": "Sangen",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "1",
+        "name": "Banaran",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "11",
+        "name": "Pagotan",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "6",
+        "name": "Kertobanyon",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "13",
+        "name": "Putat",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "10",
+        "name": "Nglandung",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "5",
+        "name": "Kaibon",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "16",
+        "name": "Sareng",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "name": "Kertosari",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "14",
+        "name": "Sambirejo",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "3",
+        "name": "Jatisari",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "name": "Geger",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "17",
+        "name": "Slambur",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "4",
+        "name": "Jogodayuh",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "18",
+        "name": "Sumberejo",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "8",
+        "name": "Klorogan",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "4",
+        "subDistrictId": "12",
+        "name": "Purworejo",
+        "postalCode": "63171",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

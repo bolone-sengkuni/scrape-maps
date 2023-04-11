@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "subDistrictId": "25",
+        "postalCode": "62192",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tulungagung",
+        "kecamatan": "Baureno",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.2 V4CC+9FG, Besari, Tulungagung, Kec. Baureno, Kabupaten Bojonegoro, Jawa Timur 62192, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "postalCode": "62192",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Blongsong",
+        "kecamatan": "Baureno",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.4 V473+PFX, Landar, Blongsong, Kec. Baureno, Kabupaten Bojonegoro, Jawa Timur 62192, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "subDistrictId": "20",
+        "postalCode": "62192",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sraturejo",
+        "kecamatan": "Baureno",
+        "kota": "Bojonegoro",
+        "alamat": "RT.5/RW.4 V36M+677, Jalan Raya, Grenjeng, Sraturejo, Baureno, Bojonegoro Regency, East Java 62192, Indonesia"
+    }
+]

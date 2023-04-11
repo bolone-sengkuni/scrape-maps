@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "6",
+        "name": "Pakisan",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "8",
+        "name": "Sulek",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "name": "Patemon",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "name": "Jebung Kidul",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "10",
+        "name": "Trotosari",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "2",
+        "name": "Gunosari",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "9",
+        "name": "Tlogosari",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "1",
+        "name": "Brambang Darussolah",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "5",
+        "name": "Kembang",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "18",
+        "subDistrictId": "4",
+        "name": "Jebung Lor",
+        "postalCode": "68272",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

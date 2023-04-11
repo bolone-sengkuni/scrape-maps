@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Jetis",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "name": "Lakardowo",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Bendung",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "11",
+        "name": "Ngabar",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "16",
+        "name": "Sidorejo",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Banjarsari",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Kupang",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "name": "Mojorejo",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "12",
+        "name": "Paringan",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "9",
+        "name": "Mojolebak",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "15",
+        "name": "Sawo",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "13",
+        "name": "Penompo",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "14",
+        "name": "Perning",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Jolotundo",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Canggu",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "subDistrictId": "8",
+        "name": "Mlirip",
+        "postalCode": "61352",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

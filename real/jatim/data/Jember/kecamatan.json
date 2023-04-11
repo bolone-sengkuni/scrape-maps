@@ -1,0 +1,281 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "28",
+        "name": "Tanggul",
+        "longitude": 113.5001606,
+        "latitude": -8.0988275
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "20",
+        "name": "Rambipuji",
+        "longitude": 113.595946,
+        "latitude": -8.2284
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "9",
+        "name": "Jombang",
+        "longitude": 113.3633005,
+        "latitude": -8.22559
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "25",
+        "name": "Sumber Baru",
+        "longitude": 113.4100064,
+        "latitude": -8.0911725
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "18",
+        "name": "Patrang",
+        "longitude": 113.7135349,
+        "latitude": -8.1472139
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "8",
+        "name": "Jenggawah",
+        "longitude": 113.63922,
+        "latitude": -8.290003
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "7",
+        "name": "Jelbuk",
+        "longitude": 113.7308835,
+        "latitude": -8.0461719
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "12",
+        "name": "Kencong",
+        "longitude": 113.3553716,
+        "latitude": -8.281888
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "16",
+        "name": "Pakusari",
+        "longitude": 113.7703365,
+        "latitude": -8.1538195
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "name": "Sukowono",
+        "longitude": 113.8308681,
+        "latitude": -8.0604756
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "name": "Sumber Sari",
+        "longitude": 113.72189,
+        "latitude": -8.176109
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "2",
+        "name": "Ambulu",
+        "longitude": 113.6064875,
+        "latitude": -8.378224
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "21",
+        "name": "Semboro",
+        "longitude": 113.442503,
+        "latitude": -8.178453
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "19",
+        "name": "Puger",
+        "longitude": 113.392398,
+        "latitude": -8.3879425
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "6",
+        "name": "Gumuk Mas",
+        "longitude": 113.4011969,
+        "latitude": -8.334329
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "name": "Kaliwates",
+        "longitude": 113.676629,
+        "latitude": -8.17414
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "17",
+        "name": "Panti",
+        "longitude": 113.6151529,
+        "latitude": -8.135723
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "4",
+        "name": "Balung",
+        "longitude": 113.5255296,
+        "latitude": -8.2736905
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "10",
+        "name": "Kalisat",
+        "longitude": 113.8085199,
+        "latitude": -8.124881
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "23",
+        "name": "Sukorambi",
+        "longitude": 113.6624645,
+        "latitude": -8.1285795
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "15",
+        "name": "Mumbulsari",
+        "longitude": 113.731619,
+        "latitude": -8.2555611
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "13",
+        "name": "Ledokombo",
+        "longitude": 113.8684494,
+        "latitude": -8.125624
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "30",
+        "name": "Umbulsari",
+        "longitude": 113.4442335,
+        "latitude": -8.245855
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "name": "Sumber Jambe",
+        "longitude": 113.8987156,
+        "latitude": -8.0669051
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "1",
+        "name": "Ajung",
+        "longitude": 113.6634734,
+        "latitude": -8.2420815
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "29",
+        "name": "Tempurejo",
+        "longitude": 113.7808445,
+        "latitude": -8.4243306
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "14",
+        "name": "Mayang",
+        "longitude": 113.784355,
+        "latitude": -8.1889285
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "5",
+        "name": "Bangsalsari",
+        "longitude": 113.5419575,
+        "latitude": -8.1197779
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "3",
+        "name": "Arjasa",
+        "longitude": 113.7304489,
+        "latitude": -8.102105
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "31",
+        "name": "Wuluhan",
+        "longitude": 113.536235,
+        "latitude": -8.3532635
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "name": "Silo",
+        "longitude": 113.901559,
+        "latitude": -8.2606199
+    }
+]

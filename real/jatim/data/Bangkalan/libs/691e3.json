@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "postalCode": "69172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dumajah",
+        "kecamatan": "Tanah Merah",
+        "kota": "Bangkalan",
+        "alamat": "RT.4/RW.6 WVF4+Q2V, Unnamed Road, Jati, Dumajah, Kec. Tanah Merah, Kabupaten Bangkalan, Jawa Timur 69172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "postalCode": "69172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Dumajah",
+        "kecamatan": "Tanah Merah",
+        "kota": "Bangkalan",
+        "alamat": "RT.7/RW.4 WVF6+MM7, Unnamed Road, Mantoan, Dumajah, Kec. Tanah Merah, Kabupaten Bangkalan, Jawa Timur 69172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "postalCode": "69115",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Demangan",
+        "kecamatan": "Bangkalan",
+        "kota": "Bangkalan",
+        "alamat": "RT.1/RW.2 XPCX+2X7, Kasorjan, Demangan, Bangkalan, Bangkalan Regency, East Java 69115, Indonesia"
+    }
+]

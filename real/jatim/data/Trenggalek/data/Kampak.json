@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bogoran",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Senden",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Ngadimulyo",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Bendoagung",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Sugihan",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Karangrejo",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Timahan",
+        "postalCode": "66373",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

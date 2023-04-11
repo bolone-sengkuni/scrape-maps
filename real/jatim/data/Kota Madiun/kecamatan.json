@@ -1,0 +1,29 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "2",
+        "name": "Manguharjo",
+        "longitude": 111.5014933,
+        "latitude": -7.6241191
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "1",
+        "name": "Kartoharjo",
+        "longitude": 111.5216973,
+        "latitude": -7.6165792
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "16",
+        "districtId": "3",
+        "name": "Taman",
+        "longitude": 111.5212589,
+        "latitude": -7.6526106
+    }
+]

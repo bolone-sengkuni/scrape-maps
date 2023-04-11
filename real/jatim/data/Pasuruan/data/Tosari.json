@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "7",
+        "name": "Tosari",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "4",
+        "name": "Ngadiwono",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "6",
+        "name": "Sedaeng",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "5",
+        "name": "Podokoyo",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "3",
+        "name": "Mororejo",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "1",
+        "name": "Baledono",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "2",
+        "name": "Kandangan",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "subDistrictId": "8",
+        "name": "Wonokitri",
+        "postalCode": "67177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

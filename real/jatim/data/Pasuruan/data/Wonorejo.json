@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "8",
+        "name": "Kluwut",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "3",
+        "name": "Karang Asem",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "11",
+        "name": "Rebono",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "15",
+        "name": "Wonosari",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "name": "Kendang Dukuh",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "9",
+        "name": "Lebaksari",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "12",
+        "name": "Sambisirah",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "14",
+        "name": "Wonorejo",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "2",
+        "name": "Jati Gunting",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "6",
+        "name": "Karangsono",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "10",
+        "name": "Pakijangan",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "1",
+        "name": "Coban Blimbing",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "5",
+        "name": "Karangjati Anyar",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "13",
+        "name": "Tamansari",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "subDistrictId": "4",
+        "name": "Karang Menggah",
+        "postalCode": "67173",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

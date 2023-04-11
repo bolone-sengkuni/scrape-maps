@@ -1,0 +1,299 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "22",
+        "name": "Poncokusumo",
+        "longitude": 112.822931,
+        "latitude": -8.032008
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "18",
+        "name": "Pagak",
+        "longitude": 112.5157306,
+        "latitude": -8.251991
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "27",
+        "name": "Tajinan",
+        "longitude": 112.6765885,
+        "latitude": -8.0595984
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "6",
+        "name": "Donomulyo",
+        "longitude": 112.4319126,
+        "latitude": -8.316529
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "17",
+        "name": "Ngantang",
+        "longitude": 112.3748295,
+        "latitude": -7.880035
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "10",
+        "name": "Kalipare",
+        "longitude": 112.4298155,
+        "latitude": -8.2159144
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "24",
+        "name": "Singosari",
+        "longitude": 112.670033,
+        "latitude": -7.8478315
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "15",
+        "name": "Lawang",
+        "longitude": 112.697098,
+        "latitude": -7.8307588
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "28",
+        "name": "Tirtoyudo",
+        "longitude": 112.8187909,
+        "latitude": -8.248857
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "23",
+        "name": "Pujon",
+        "longitude": 112.4379569,
+        "latitude": -7.8574309
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "8",
+        "name": "Gondanglegi",
+        "longitude": 112.623025,
+        "latitude": -8.158018
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "25",
+        "name": "Sumbermanjing Wetan",
+        "longitude": 112.724281,
+        "latitude": -8.3449751
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "name": "Wagir",
+        "longitude": 112.5495911,
+        "latitude": -8.0090125
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "7",
+        "name": "Gedangan",
+        "longitude": 112.611571,
+        "latitude": -8.3360525
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "name": "Pagelaran",
+        "longitude": 112.600061,
+        "latitude": -8.1976345
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "1",
+        "name": "Ampelgading",
+        "longitude": 112.898594,
+        "latitude": -8.2535654
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "5",
+        "name": "Dau",
+        "longitude": 112.5337054,
+        "latitude": -7.9542146
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "4",
+        "name": "Dampit",
+        "longitude": 112.7696311,
+        "latitude": -8.2458649
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "13",
+        "name": "Kepanjen",
+        "longitude": 112.5752205,
+        "latitude": -8.131497
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "11",
+        "name": "Karangploso",
+        "longitude": 112.598232,
+        "latitude": -7.8542875
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "20",
+        "name": "Pakis",
+        "longitude": 112.708214,
+        "latitude": -7.9620925
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "29",
+        "name": "Tumpang",
+        "longitude": 112.7586914,
+        "latitude": -8.0127895
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "21",
+        "name": "Pakisaji",
+        "longitude": 112.5917259,
+        "latitude": -8.05914
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "33",
+        "name": "Wonosari",
+        "longitude": 112.4946495,
+        "latitude": -8.0537095
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "16",
+        "name": "Ngajung (Ngajum)",
+        "longitude": 112.527915,
+        "latitude": -8.0496565
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "9",
+        "name": "Jabung",
+        "longitude": 112.7939925,
+        "latitude": -7.933724
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "2",
+        "name": "Bantur",
+        "longitude": 112.5496645,
+        "latitude": -8.3025115
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "14",
+        "name": "Kromengan",
+        "longitude": 112.5006055,
+        "latitude": -8.1126174
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "12",
+        "name": "Kasembon",
+        "longitude": 112.338634,
+        "latitude": -7.815782
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "30",
+        "name": "Turen",
+        "longitude": 112.706291,
+        "latitude": -8.1771875
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "3",
+        "name": "Bululawang",
+        "longitude": 112.6458645,
+        "latitude": -8.09416
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "32",
+        "name": "Wajak",
+        "longitude": 112.776206,
+        "latitude": -8.1141785
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "26",
+        "name": "Sumberpucung",
+        "longitude": 112.4876405,
+        "latitude": -8.165961
+    }
+]

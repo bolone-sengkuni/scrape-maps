@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "10",
+        "name": "Sumber Wringin",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "9",
+        "name": "Sukowono",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "8",
+        "name": "Sukosari",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "1",
+        "name": "Arjasa",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "11",
+        "name": "Sumberdanti",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "4",
+        "name": "Mojogeni",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "2",
+        "name": "Balet Baru",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "name": "Sukorejo",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "3",
+        "name": "Dawuhan Mangli",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "5",
+        "name": "Pocangan",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "12",
+        "name": "Sumberwaru",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "24",
+        "subDistrictId": "6",
+        "name": "Sukokerto",
+        "postalCode": "68194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

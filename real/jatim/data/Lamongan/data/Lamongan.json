@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "18",
+        "name": "Tlogoanyar",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "15",
+        "name": "Sukorejo",
+        "postalCode": "62215",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Plosowahyu",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Kramat",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Sendangrejo",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Rancang Kencono",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "16",
+        "name": "Sumberjo",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "14",
+        "name": "Sukomulyo",
+        "postalCode": "62216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Made",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Sidoharjo",
+        "postalCode": "62217",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "name": "Sidomukti",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "20",
+        "name": "Wajik",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Karanglangit",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Banjarmendalan",
+        "postalCode": "62212",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Sidokumpul",
+        "postalCode": "62213",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Kebet",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "17",
+        "name": "Tanjung",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "19",
+        "name": "Tumenggungan",
+        "postalCode": "62214",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Pangkatrejo",
+        "postalCode": "62218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Jetis",
+        "postalCode": "62211",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

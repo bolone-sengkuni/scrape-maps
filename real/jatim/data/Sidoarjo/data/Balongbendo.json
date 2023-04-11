@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Kedung Sukodani",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "13",
+        "name": "Seketi",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "19",
+        "name": "Wonokarang",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Jabaran",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "14",
+        "name": "Singkalan",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Bogem Pinggir",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "20",
+        "name": "Wonokupang",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Jeruk Legi",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Penambangan",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Bakung Temenggungan",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Bakalan Wringinpitu",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Seduri",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Kemangsen",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Gagang Kepuhsari",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "16",
+        "name": "Suwaluh",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Balongbendo",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "17",
+        "name": "Waruberon",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Bakung Pringgodani",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "18",
+        "name": "Watesari",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "subDistrictId": "15",
+        "name": "Sumokembangsri",
+        "postalCode": "61263",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

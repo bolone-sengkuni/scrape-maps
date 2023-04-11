@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Suru",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Kepel",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Kweden",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Mojoduwur",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Kuncir",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Ngetos",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Oro-Oro Ombo",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Blongko",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Klodan",
+        "postalCode": "64474",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

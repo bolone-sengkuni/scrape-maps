@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "13",
+        "name": "Wonokromo",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "12",
+        "name": "Tambakrigadung",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "11",
+        "name": "Takeranklating",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "4",
+        "name": "Dukuhagung",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "6",
+        "name": "Jatirejo",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "9",
+        "name": "Pengumbulanadi",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "8",
+        "name": "Kelorarum",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "2",
+        "name": "Balongwangi",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "3",
+        "name": "Botoputih",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "1",
+        "name": "Bakalanpule",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "10",
+        "name": "Soko",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "7",
+        "name": "Jotosanur",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "26",
+        "subDistrictId": "5",
+        "name": "Guminingrejo",
+        "postalCode": "62281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

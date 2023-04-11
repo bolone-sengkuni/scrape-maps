@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "3",
+        "name": "Branang",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "name": "Pasinan",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "11",
+        "name": "Wates",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "8",
+        "name": "Semedusari",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "name": "Jatirejo",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "1",
+        "name": "Alas Tlogo",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "10",
+        "name": "Tampung",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "name": "Rowo Gempol",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "4",
+        "name": "Gejug Jati",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "9",
+        "name": "Tambak Lekok",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "subDistrictId": "2",
+        "name": "Balung Anyar",
+        "postalCode": "67186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

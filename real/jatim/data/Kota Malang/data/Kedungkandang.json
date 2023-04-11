@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "11",
+        "name": "Tlogowaru",
+        "postalCode": "65133",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "7",
+        "name": "Lesanpuro",
+        "postalCode": "65138",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Arjowinangun",
+        "postalCode": "65132",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Buring",
+        "postalCode": "65136",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "10",
+        "name": "Sawojajar",
+        "postalCode": "65139",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "12",
+        "name": "Wonokoyo",
+        "postalCode": "65135",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Kotalama",
+        "postalCode": "65136",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Kedungkandang",
+        "postalCode": "65137",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "8",
+        "name": "Madyopuro",
+        "postalCode": "65139",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "9",
+        "name": "Mergosono",
+        "postalCode": "65134",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Bumiayu",
+        "postalCode": "65135",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "19",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Cemorokandang",
+        "postalCode": "65138",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

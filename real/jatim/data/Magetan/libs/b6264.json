@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "7",
+        "subDistrictId": "15",
+        "postalCode": "63382",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Rejosari",
+        "kecamatan": "Kawedanan",
+        "kota": "Magetan",
+        "alamat": "RT.4/RW.9 Jl. Pandean I No.2, Genengan, Rejosari, Kec. Kawedanan, Kabupaten Magetan, Jawa Timur 63382, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "postalCode": "63383",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kuwonharjo",
+        "kecamatan": "Takeran",
+        "kota": "Magetan",
+        "alamat": "RT.3/RW.1, Plasan, Kuwonharjo, Takeran, Magetan Regency, East Java 63383, Indonesia"
+    }
+]

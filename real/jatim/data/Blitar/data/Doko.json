@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Doko",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Sidorejo",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Resapombo",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Sumber Urip",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Genengan",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Slorok",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Plumbangan",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Kalimanis",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Jambepawon",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "name": "Suru",
+        "postalCode": "66186",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

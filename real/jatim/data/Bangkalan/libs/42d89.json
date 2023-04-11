@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "postalCode": "69112",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pejagan (Pajagan)",
+        "kecamatan": "Bangkalan",
+        "kota": "Bangkalan",
+        "alamat": "RT.4/RW.13 Jl. Trunojoyo No.19, Pejagan, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69119, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "postalCode": "69162",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tellang (Telang)",
+        "kecamatan": "Kamal",
+        "kota": "Bangkalan",
+        "alamat": "RT.6/RW.13 VPC7+984, Jl. Raya Kamal, Perumahan Telang Inda, Telang, Kec. Kamal, Kabupaten Bangkalan, Jawa Timur 69162, Indonesia"
+    }
+]

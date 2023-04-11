@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "14",
+        "name": "Pliwetan",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "15",
+        "name": "Pucangan",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Leran Wetan",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Cepokorejo",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Leran Kulon",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "16",
+        "name": "Sumurgung",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "19",
+        "name": "Wangun",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Glodog",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Dawung",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Palang",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Cendoro",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "18",
+        "name": "Tegalbang",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "17",
+        "name": "Tasikmadu",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Gesikharjo",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Panyuran",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Karangagung",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Ketambul",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Kradenan",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Ngimbang",
+        "postalCode": "62391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

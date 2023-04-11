@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Kalangan",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Sumberejo",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Geneng",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Ngelo",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Margomulyo",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Meduri",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

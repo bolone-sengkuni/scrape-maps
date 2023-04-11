@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "3",
+        "name": "Jedong",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "4",
+        "name": "Mendalanwangi",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "7",
+        "name": "Parangargo",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "1",
+        "name": "Dalisodo",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "10",
+        "name": "Sitirejo",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "6",
+        "name": "Pandanrejo",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "9",
+        "name": "Sidorahayu",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "11",
+        "name": "Sukodadi",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "8",
+        "name": "Petungsewu",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "2",
+        "name": "Gondowangi",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "12",
+        "name": "Sumbersuko",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "31",
+        "subDistrictId": "5",
+        "name": "Pandanlandung",
+        "postalCode": "65158",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

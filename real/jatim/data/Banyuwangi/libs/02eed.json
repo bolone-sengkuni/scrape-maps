@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "21",
+        "subDistrictId": "9",
+        "postalCode": "68471",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumbersari",
+        "kecamatan": "Srono",
+        "kota": "Banyuwangi",
+        "alamat": "RT.5/RW.5 J6P3+32P, Jl. Grajagan, Krajan, Sumbersari, Kec. Srono, Kabupaten Banyuwangi, Jawa Timur 68465, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "21",
+        "subDistrictId": "1",
+        "postalCode": "68471",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bagorejo",
+        "kecamatan": "Srono",
+        "kota": "Banyuwangi",
+        "alamat": "RT.3/RW.10 J867+298, Jl. Pahlawan, Krajan, Bagorejo, Kec. Srono, Kabupaten Banyuwangi, Jawa Timur 68471, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "21",
+        "subDistrictId": "4",
+        "postalCode": "68471",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Parijatah Kulon",
+        "kecamatan": "Srono",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.5 Jl. Raya Genteng No.16, Melik, Parijatah Kulon, Kec. Srono, Kabupaten Banyuwangi, Jawa Timur 68471, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "postalCode": "68472",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Blambangan",
+        "kecamatan": "Muncar",
+        "kota": "Banyuwangi",
+        "alamat": "RT.1/RW.10 Jl. Srono - Muncar, Dusun Mangunreja, Blambangan, Kec. Muncar, Kabupaten Banyuwangi, Jawa Timur 68472, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "21",
+        "subDistrictId": "8",
+        "postalCode": "68471",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukonatar",
+        "kecamatan": "Srono",
+        "kota": "Banyuwangi",
+        "alamat": "RT.4/RW.7 SPBU, Jl. Raya Srono Utara, Sukorejo, Sukonatar, Kec. Srono, Kabupaten Banyuwangi, Jawa Timur 68471, Indonesia"
+    }
+]

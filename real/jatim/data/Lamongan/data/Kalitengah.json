@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "10",
+        "name": "Kediren",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "11",
+        "name": "Kuluran",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "6",
+        "name": "Dibe",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "8",
+        "name": "Jelakcatur",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "12",
+        "name": "Lukrejo",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "9",
+        "name": "Kalitengah",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "13",
+        "name": "Mungli",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "18",
+        "name": "Sugihwaras",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "14",
+        "name": "Pengangsalan",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "19",
+        "name": "Tiwet",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "3",
+        "name": "Butungan",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "2",
+        "name": "Bojoasri",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "name": "Gambuhan",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "4",
+        "name": "Canditunggal",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "16",
+        "name": "Pucangtelu",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "17",
+        "name": "Somosari",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "1",
+        "name": "Blajo",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "20",
+        "name": "Tunjungmekar",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "15",
+        "name": "Pucangro",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "7",
+        "subDistrictId": "5",
+        "name": "Cluring",
+        "postalCode": "62255",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

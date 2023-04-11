@@ -1,0 +1,164 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "3",
+        "name": "Buduran",
+        "longitude": 112.7551395,
+        "latitude": -7.4429441
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "6",
+        "name": "Jabon",
+        "longitude": 112.7888045,
+        "latitude": -7.536658
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "4",
+        "name": "Candi",
+        "longitude": 112.731999,
+        "latitude": -7.4852961
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "1",
+        "name": "Sidoarjo",
+        "longitude": 112.6653355,
+        "latitude": -7.4549084
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "8",
+        "name": "Krian",
+        "longitude": 112.5950649,
+        "latitude": -7.402904
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "10",
+        "name": "Prambon",
+        "longitude": 112.550363,
+        "latitude": -7.469144
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "15",
+        "name": "Tarik",
+        "longitude": 112.5108774,
+        "latitude": -7.4478365
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "5",
+        "name": "Gedangan",
+        "longitude": 112.7282635,
+        "latitude": -7.3893555
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "16",
+        "name": "Tulangan",
+        "longitude": 112.6477435,
+        "latitude": -7.4761885
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "17",
+        "name": "Waru",
+        "longitude": 112.7681935,
+        "latitude": -7.3535775
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "9",
+        "name": "Porong",
+        "longitude": 112.7300276,
+        "latitude": -7.5317696
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "name": "Sukodono",
+        "longitude": 112.6653435,
+        "latitude": -7.3974885
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "7",
+        "name": "Krembung",
+        "longitude": 112.6377224,
+        "latitude": -7.5167745
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "11",
+        "name": "Sedati",
+        "longitude": 112.7935875,
+        "latitude": -7.406781
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "14",
+        "name": "Tanggulangin",
+        "longitude": 112.7214685,
+        "latitude": -7.5068579
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "2",
+        "name": "Balongbendo",
+        "longitude": 112.5242355,
+        "latitude": -7.418531
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "13",
+        "name": "Taman",
+        "longitude": 112.6674644,
+        "latitude": -7.3631164
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "18",
+        "name": "Wonoayu",
+        "longitude": 112.629199,
+        "latitude": -7.4279084
+    }
+]

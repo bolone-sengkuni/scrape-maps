@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "1",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bondrang",
+        "kecamatan": "Sawoo",
+        "kota": "Ponorogo",
+        "alamat": "RT.9/RW.13 Jotangan, Bondrang, Sawoo, Ponorogo Regency, East Java 63475, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Prayungan",
+        "kecamatan": "Sawoo",
+        "kota": "Ponorogo",
+        "alamat": "RT.07/RW.01, Ngimo, Prayungan, Sawoo, Ponorogo Regency, East Java 63475, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "6",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pangkal",
+        "kecamatan": "Sawoo",
+        "kota": "Ponorogo",
+        "alamat": "RT.9/RW.8 2H3H+CQF, National Rte 3, Nglumpang, Pangkal, Sawoo, Ponorogo Regency, East Java 63475, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "17",
+        "subDistrictId": "7",
+        "postalCode": "63475",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Prayungan",
+        "kecamatan": "Sawoo",
+        "kota": "Ponorogo",
+        "alamat": "RT.07/RW.01, Ngimo, Prayungan, Sawoo, Ponorogo Regency, East Java 63475, Indonesia"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Sembung",
+        "postalCode": "66219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Jepun",
+        "postalCode": "66218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Kepatihan",
+        "postalCode": "66219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Kutoanyar",
+        "postalCode": "66215",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Panggungrejo",
+        "postalCode": "66214",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "name": "Tamanan",
+        "postalCode": "66217",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Botoran",
+        "postalCode": "66213",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Kenayan",
+        "postalCode": "66212",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Karangwaru",
+        "postalCode": "66217",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Kedungsoko",
+        "postalCode": "66215",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Bago",
+        "postalCode": "66218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Kauman",
+        "postalCode": "66219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Kampungdalem",
+        "postalCode": "66212",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "1",
+        "subDistrictId": "14",
+        "name": "Tertek",
+        "postalCode": "66216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

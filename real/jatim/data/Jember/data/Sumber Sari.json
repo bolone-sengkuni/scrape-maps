@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "6",
+        "name": "Tegal Gede",
+        "postalCode": "68124",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "8",
+        "name": "Kranjingan",
+        "postalCode": "68123",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "2",
+        "name": "Karangrejo",
+        "postalCode": "68124",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "5",
+        "name": "Sumbersari",
+        "postalCode": "68121",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "7",
+        "name": "Wirolegi",
+        "postalCode": "68124",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "1",
+        "name": "Antirogo",
+        "postalCode": "68125",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "9",
+        "name": "Tegalgede",
+        "postalCode": "68126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "3",
+        "name": "Kebonsari",
+        "postalCode": "68122",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "27",
+        "subDistrictId": "4",
+        "name": "Keranjingan",
+        "postalCode": "68126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

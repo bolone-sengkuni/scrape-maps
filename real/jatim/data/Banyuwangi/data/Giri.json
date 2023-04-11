@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Jambesari",
+        "postalCode": "68425",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Mojopanggung",
+        "postalCode": "68425",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Giri",
+        "postalCode": "68423",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Boyolangu",
+        "postalCode": "68424",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Penataban",
+        "postalCode": "68422",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Grogol",
+        "postalCode": "68425",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

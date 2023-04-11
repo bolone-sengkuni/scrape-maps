@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "14",
+        "name": "Ploso",
+        "postalCode": "64417",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Bogo",
+        "postalCode": "64415",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "15",
+        "name": "Ploso I",
+        "postalCode": "64417",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Jatirejo I",
+        "postalCode": "64416",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "16",
+        "name": "Ringin Anom",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "name": "Payaman",
+        "postalCode": "64418",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Ganung Kidul",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Kauman",
+        "postalCode": "64411",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Kartoharjo",
+        "postalCode": "64416",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "17",
+        "name": "Werungotok",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Cangkringan",
+        "postalCode": "64415",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Balong Pacul",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Begadung",
+        "postalCode": "64413",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Kedung Dowo",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Jatirejo",
+        "postalCode": "64416",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Mangun Dikaran",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Kramat",
+        "postalCode": "64419",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

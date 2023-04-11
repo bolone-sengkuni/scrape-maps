@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Sumberejo",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Dimong",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Sendangrejo",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Gunungsari",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Tulungrejo",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Tanjungrejo",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Betek",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Tiron",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Banjarsari",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Bagi",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Sirapan",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Nglames",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Dempelan",
+        "postalCode": "63151",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

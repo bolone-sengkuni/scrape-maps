@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "postalCode": "68453",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sidodadi",
+        "kecamatan": "Wongsorejo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.13 392W+HGQ, Jl. Raya Situbondo, Krajan, Sidodadi, Kec. Wongsorejo, Kabupaten Banyuwangi, Jawa Timur 68453, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "24",
+        "subDistrictId": "12",
+        "postalCode": "68453",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wongsorejo",
+        "kecamatan": "Wongsorejo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.2/RW.14 2C33+V4W, Dusun Krajan, Wongsorejo, Kec. Wongsorejo, Kabupaten Banyuwangi, Jawa Timur 68453, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "postalCode": "68453",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sidodadi",
+        "kecamatan": "Wongsorejo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.8/RW.14 Krajan, Sidodadi, Wongsorejo, Banyuwangi Regency, East Java 68453, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "24",
+        "subDistrictId": "3",
+        "postalCode": "68453",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bajulmati",
+        "kecamatan": "Wongsorejo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.7/RW.10 395V+4H3, Jl. Raya Galekan, Galekan, Bajulmati, Kec. Wongsorejo, Kabupaten Banyuwangi, Jawa Timur 68453, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "24",
+        "subDistrictId": "7",
+        "postalCode": "68453",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sidodadi",
+        "kecamatan": "Wongsorejo",
+        "kota": "Banyuwangi",
+        "alamat": "RT.9/RW.13 X9R3+QJC, Jl.kh. musyaffa, Krajan II, Sidodadi, Kec. Wongsorejo, Kabupaten Banyuwangi, Jawa Timur 68453, Indonesia"
+    }
+]

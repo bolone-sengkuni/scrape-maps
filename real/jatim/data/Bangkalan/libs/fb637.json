@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "postalCode": "69155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mandung",
+        "kecamatan": "Kokop",
+        "kota": "Bangkalan",
+        "alamat": "RT.5/RW.2 Jl.Pon Pes Assyarqowiyah Poloh Desa Mandung No.3, Rambay, Mandung, Kec. Kokop, Kabupaten Bangkalan, Jawa Timur 69155, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "postalCode": "69155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bandang Laok",
+        "kecamatan": "Kokop",
+        "kota": "Bangkalan",
+        "alamat": "RT.8/RW.13 3344+2WM, Seloeh, Bandang Laok, Kec. Kokop, Kabupaten Bangkalan, Jawa Timur 69155, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "postalCode": "69155",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Durjan",
+        "kecamatan": "Kokop",
+        "kota": "Bangkalan",
+        "alamat": "RT.5/RW.10 X4HC+RM3, Koalla, Durjan, Kec. Kokop, Kabupaten Bangkalan, Jawa Timur 69155, Indonesia"
+    }
+]

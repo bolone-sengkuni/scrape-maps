@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "name": "Nanggungan",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "1",
+        "name": "Bangsongan",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "8",
+        "name": "Sambirobyong",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "3",
+        "name": "Jambu",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "name": "Mukuh",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "10",
+        "name": "Semambung",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "11",
+        "name": "Senden",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "12",
+        "name": "Sukoharjo",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "4",
+        "name": "Kayen Kidul",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "9",
+        "name": "Sekaran",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "2",
+        "name": "Baye",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "name": "Padangan",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

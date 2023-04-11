@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Klabetan",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Klapayan (Klapaian)",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Gunelap (Genelap)",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Labuhan",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Maneron",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Gangseyan (Gengseyan)",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Bangsereh",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Prancak",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "13",
+        "name": "Sepulu",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Banyior",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "15",
+        "name": "Tanah Gurah Temor (Tanagura Timur)",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Kelbung",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "14",
+        "name": "Tanah Gurah Barat (Tanagura Barat)",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Lembung Paseser",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "14",
+        "subDistrictId": "12",
+        "name": "Saplasah",
+        "postalCode": "69154",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

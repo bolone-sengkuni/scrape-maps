@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "postalCode": "61124",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kembangan",
+        "kecamatan": "Kebomas",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.14 RJG3+QJ6, Unnamed Road, Kembangan, Kec. Kebomas, Kabupaten Gresik, Jawa Timur 61124, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "9",
+        "subDistrictId": "15",
+        "postalCode": "61123",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Segoromadu",
+        "kecamatan": "Kebomas",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.1 RJ4P+FFG, Jl. Klp., Segoromadu, Kec. Kebomas, Kabupaten Gresik, Jawa Timur 61124, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "postalCode": "61124",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngargosari",
+        "kecamatan": "Kebomas",
+        "kota": "Gresik",
+        "alamat": "RT.3/RW.3 RJ7H+RFM, Jl. Mayjend Sungkono Gg. XVIII, Pundung, Ngargosari, Kec. Kebomas, Kabupaten Gresik, Jawa Timur 61124, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "9",
+        "subDistrictId": "21",
+        "postalCode": "61124",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tenggulunan",
+        "kecamatan": "Kebomas",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.9 Tenggulunan, Kebomas, Gresik Regency, East Java 61123, Indonesia"
+    }
+]

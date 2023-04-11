@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Brangkal",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Dagangan",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Mergoasri",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Selogabus",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Sembung",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Pacing",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Suciharjo",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "name": "Sukorejo",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Kemlaten",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "18",
+        "name": "Wukirharjo",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Parangbatu",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Mergorejo",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "16",
+        "name": "Sugihwaras",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Kumpulrejo",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Cengkong",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Mojomalang",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Ngawun",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Sendangrejo",
+        "postalCode": "62366",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

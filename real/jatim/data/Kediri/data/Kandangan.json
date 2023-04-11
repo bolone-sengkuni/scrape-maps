@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Banaran",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Karangtengah",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Jerukwangi",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Medowo",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Klampisan",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bukur",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Kasreman",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Jerukgulung",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Mlancu",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Kandangan",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Jlumbang",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Kemiri",
+        "postalCode": "64294",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

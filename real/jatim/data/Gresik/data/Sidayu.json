@@ -1,0 +1,233 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Asempapak",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "21",
+        "name": "Wadeng",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "15",
+        "name": "Randuboto",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "12",
+        "name": "Purwodadi",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "name": "Pengulu",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Golokan",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Kertosono",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Gedangan",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "name": "Ngawen",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Lasem",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Kauman",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "18",
+        "name": "Sidomulyo",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "13",
+        "name": "Racikulon",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "19",
+        "name": "Srowo",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Bunderan",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "17",
+        "name": "Sedagaran",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "14",
+        "name": "Racitengah",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "16",
+        "name": "Sambipondok",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "9",
+        "name": "Mriyunan",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "20",
+        "name": "Sukorejo",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Mojoasem",
+        "postalCode": "61153",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

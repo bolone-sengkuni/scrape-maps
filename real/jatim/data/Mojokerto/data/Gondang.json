@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "12",
+        "name": "Kemasantani",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "9",
+        "name": "Kalikatir",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "11",
+        "name": "Kebontunggul",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "10",
+        "name": "Karangkuten",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "16",
+        "name": "Pugeran",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "14",
+        "name": "Padi",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "2",
+        "name": "Begaganlimo",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "7",
+        "name": "Gumeng",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "5",
+        "name": "Dilem",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "17",
+        "name": "Tawar",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "8",
+        "name": "Jatidukuh",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "18",
+        "name": "Wonoploso",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "13",
+        "name": "Ngembat",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "3",
+        "name": "Bening",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "15",
+        "name": "Pohjejer",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "6",
+        "name": "Gondang",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "1",
+        "name": "Bakalan",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "name": "Centong",
+        "postalCode": "61372",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

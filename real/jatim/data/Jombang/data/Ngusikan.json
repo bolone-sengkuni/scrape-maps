@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Kedung Bogo",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Keboan",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "name": "Manunggal",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Asem Gede",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "6",
+        "name": "Kromong",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "8",
+        "name": "Mojodanu",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "10",
+        "name": "Ngusikan",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "11",
+        "name": "Sumber Nongko",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "9",
+        "name": "Ngampel",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Ketapang Kuning",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Cupak",
+        "postalCode": "61454",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

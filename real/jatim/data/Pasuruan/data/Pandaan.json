@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "18",
+        "name": "Wedoro",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Kebon Waris",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Karang Jati",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Banjarsari",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Kutorejo",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "10",
+        "name": "Pandaan",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "17",
+        "name": "Tunggul Wulung",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "15",
+        "name": "Sumber Rejo",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "11",
+        "name": "Petungasri",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Durensewu",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "9",
+        "name": "Nogosari",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Banjar Kejen",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Jogosari",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Kemiri Sewu",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "12",
+        "name": "Plintahan",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "16",
+        "name": "Tawang Rejo",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "13",
+        "name": "Sebani",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "subDistrictId": "14",
+        "name": "Sumber Gedang",
+        "postalCode": "67156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

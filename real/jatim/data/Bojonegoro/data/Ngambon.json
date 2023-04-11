@@ -1,0 +1,57 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "name": "Sengon",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "name": "Nglampin",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "name": "Ngambon",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "name": "Karangmangu",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "name": "Bondol",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Tamansari",
+        "postalCode": "68216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Kembang",
+        "postalCode": "68219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Kotakulon",
+        "postalCode": "68213",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Pejaten",
+        "postalCode": "68218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Dabasah",
+        "postalCode": "68211",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Badean",
+        "postalCode": "68214",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Pancoran",
+        "postalCode": "68219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Kademangan",
+        "postalCode": "68217",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Blindungan",
+        "postalCode": "68212",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Nangkaan",
+        "postalCode": "68215",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Sukowiryo",
+        "postalCode": "68219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

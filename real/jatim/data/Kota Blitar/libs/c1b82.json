@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "postalCode": "66122",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pakunden",
+        "kecamatan": "Sukorejo",
+        "kota": "Kota Blitar",
+        "alamat": "RT.1/RW.7 W42W+H4X, Jl. Letjend. Mt. Haryono, Pakunden, Kec. Sukorejo, Kota Blitar, Jawa Timur 67122, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "postalCode": "66122",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pakunden",
+        "kecamatan": "Sukorejo",
+        "kota": "Kota Blitar",
+        "alamat": "RT.9/RW.5 W45P+6GV, Jl. Bogowonto, Pakunden, Kec. Sukorejo, Kota Blitar, Jawa Timur 67122, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "postalCode": "66121",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukorejo",
+        "kecamatan": "Sukorejo",
+        "kota": "Kota Blitar",
+        "alamat": "RT.1/RW.7 Jl. Jati Gg. I No.123, Sukorejo, Kec. Sukorejo, Kota Blitar, Jawa Timur 66121, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "postalCode": "66122",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pakunden",
+        "kecamatan": "Sukorejo",
+        "kota": "Kota Blitar",
+        "alamat": "RT.5/RW.6 Jl. Tanjung No.208, Pakunden, Kec. Sukorejo, Kota Blitar, Jawa Timur 67122, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "postalCode": "66121",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukorejo",
+        "kecamatan": "Sukorejo",
+        "kota": "Kota Blitar",
+        "alamat": "RT.3/RW.10 W525+P82, Jl. Soka, Sukorejo, Kec. Sukorejo, Kota Blitar, Jawa Timur 66121, Indonesia"
+    }
+]

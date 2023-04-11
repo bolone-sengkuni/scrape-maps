@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Kalibaru Kulon",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Banyuanyar",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Kalibaru Manis",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Kalibaru Wetan",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Kebonrejo",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Kajarharjo",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

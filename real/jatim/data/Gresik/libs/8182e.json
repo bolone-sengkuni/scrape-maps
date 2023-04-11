@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Driyorejo",
+        "kecamatan": "Driyorejo",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.1 Jl. Raya Krikilan No.102, Dusun Semambung, Driyorejo, Kec. Driyorejo, Kabupaten Gresik, Jawa Timur 61177, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Driyorejo",
+        "kecamatan": "Driyorejo",
+        "kota": "Gresik",
+        "alamat": "RT.1/RW.3 JJR5+5C9, Jl. Cerry, Dusun Driyorejo, Driyorejo, Kec. Driyorejo, Kabupaten Gresik, Jawa Timur 61177, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mulung",
+        "kecamatan": "Driyorejo",
+        "kota": "Gresik",
+        "alamat": "RT.1/RW.12 Jl. Raya Randegansari No.9, Paras, Mulung, Kec. Driyorejo, Kabupaten Gresik, Jawa Timur 61177, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Cangkir",
+        "kecamatan": "Driyorejo",
+        "kota": "Gresik",
+        "alamat": "RT.5/RW.13 Jl. Raya Cangkir No.KM 22, Dusun Wates, Cangkir, Kec. Driyorejo, Kabupaten Gresik, Jawa Timur 61177, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Driyorejo",
+        "kecamatan": "Driyorejo",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.13 Jl. Cerry No.13, Dusun Driyorejo, Driyorejo, Kec. Driyorejo, Kabupaten Gresik, Jawa Timur 61177, Indonesia"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Doudo",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "9",
+        "name": "Serah",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "13",
+        "name": "Surowiti",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "10",
+        "name": "Siwalan",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "name": "Petung",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "11",
+        "name": "Sukodono",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "12",
+        "name": "Sumurber",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Pantenan",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "14",
+        "name": "Wotan",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "name": "Prupuh",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Ketanen",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Campurejo",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Banyutengah",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Dalegan",
+        "postalCode": "61156",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "2",
+        "name": "Gunung Malang",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "8",
+        "name": "Sumber Pakem",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "7",
+        "name": "Rowosari",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "6",
+        "name": "Randu Agung",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "9",
+        "name": "Sumberjambe",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "3",
+        "name": "Jambe Arum",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "4",
+        "name": "Plereyan",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "5",
+        "name": "Pringgondani",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "26",
+        "subDistrictId": "1",
+        "name": "Cumedak",
+        "postalCode": "68195",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

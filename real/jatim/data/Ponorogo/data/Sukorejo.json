@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "2",
+        "name": "Gandukepuh",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "12",
+        "name": "Nambangrejo",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "1",
+        "name": "Bangunrejo",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "16",
+        "name": "Sidorejo",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "14",
+        "name": "Prajegan",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "11",
+        "name": "Morosari",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "17",
+        "name": "Sragi",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "9",
+        "name": "Kranggan",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "4",
+        "name": "Gelanglor",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "8",
+        "name": "Kedung Banteng",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "15",
+        "name": "Serangan",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "6",
+        "name": "Kalimalang",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "7",
+        "name": "Karanglo Lor",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "5",
+        "name": "Golan",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "13",
+        "name": "Nampan",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "10",
+        "name": "Lengkong",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "18",
+        "name": "Sukorejo",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "21",
+        "subDistrictId": "3",
+        "name": "Gegeran",
+        "postalCode": "63453",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

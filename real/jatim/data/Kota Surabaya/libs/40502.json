@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "31",
+        "subDistrictId": "5",
+        "postalCode": "60242",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sawunggaling",
+        "kecamatan": "Wonokromo",
+        "kota": "Kota Surabaya",
+        "alamat": "Jl. Karangan No.238, RT.007/RW.01, Sawunggaling, Kec. Wonokromo, Kota SBY, Jawa Timur 60242, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "29",
+        "subDistrictId": "4",
+        "postalCode": "60228",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wiyung",
+        "kecamatan": "Wiyung",
+        "kota": "Kota Surabaya",
+        "alamat": "RT.2/RW.7 Babatan, gang III besar No.92 - 94, Wiyung, Kec. Wiyung, Kota SBY, Jawa Timur 60227, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "29",
+        "subDistrictId": "2",
+        "postalCode": "60222",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Balas Klumprik",
+        "kecamatan": "Wiyung",
+        "kota": "Kota Surabaya",
+        "alamat": "RT.4/RW.4 belakang loundry satriya, Jl. Balas Klumprik No.147, Balas Klumprik, Kec. Wiyung, Kota SBY, Jawa Timur 60222, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "29",
+        "subDistrictId": "1",
+        "postalCode": "60227",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Babatan",
+        "kecamatan": "Wiyung",
+        "kota": "Kota Surabaya",
+        "alamat": "RT.7/RW.10 Gg. V-G/Gang Musholla No.22, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60227, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "postalCode": "60219",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Made",
+        "kecamatan": "Sambikerep",
+        "kota": "Kota Surabaya",
+        "alamat": "RT.8/RW.3 waterfront wp 2 no.83, Jl. Citraland Surabaya, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+    }
+]

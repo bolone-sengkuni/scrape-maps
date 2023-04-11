@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Kalianget Barat",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Kalianget Timur",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Marengan Laok",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Pinggirpapas",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Karang Anyar",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Kertasada",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "34",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Kalimo'ok",
+        "postalCode": "69471",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

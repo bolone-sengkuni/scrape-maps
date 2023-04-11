@@ -1,0 +1,57 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "1",
+        "name": "Kandangan",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "5",
+        "name": "Sumbermulyo",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "2",
+        "name": "Pesanggaran",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "4",
+        "name": "Sumberagung",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "name": "Sarongan",
+        "postalCode": "68488",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

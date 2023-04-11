@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "name": "Tobungan",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Konang",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Artodung",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Pandan",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Pagendingan",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Bulay",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Lembung",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Polagan",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Galis",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Ponteh",
+        "postalCode": "69382",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

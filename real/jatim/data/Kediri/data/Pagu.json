@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "10",
+        "name": "Tanjung",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "12",
+        "name": "Wates",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "13",
+        "name": "Wonosari",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "11",
+        "name": "Tengger Kidul",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "name": "Bulupasar",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "name": "Menang",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "name": "Semanding",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "name": "Jagung",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "8",
+        "name": "Semen",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "name": "Bendo",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "9",
+        "name": "Sitimert0",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "name": "Kambingan",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "16",
+        "subDistrictId": "6",
+        "name": "Pagu",
+        "postalCode": "64183",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

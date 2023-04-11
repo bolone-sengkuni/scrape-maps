@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Piton",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Sooka (Soko)",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Mantren",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Bomo",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Kebonsari",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Ploso",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Tinatar",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Mendolo Lor",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Kendal",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Punung",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Wareng",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Mendolo Kidul",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "24",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Gondosari",
+        "postalCode": "63553",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

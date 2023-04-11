@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "postalCode": "66152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kandangan",
+        "kecamatan": "Srengat",
+        "kota": "Blitar",
+        "alamat": "RT.6/RW.2 Unnamed Rd, 66152 Kandangan, Kandangan, Kec. Srengat, Kabupaten Blitar, Jawa Timur 66152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "postalCode": "66153",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bendo",
+        "kecamatan": "Ponggok",
+        "kota": "Blitar",
+        "alamat": "RT.9/RW.3 Jl. Raya Bendo No.184, Bendo, Kec. Ponggok, Kabupaten Blitar, Jawa Timur 66153, Indonesia"
+    }
+]

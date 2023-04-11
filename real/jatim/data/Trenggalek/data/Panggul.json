@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "name": "Depok",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "14",
+        "name": "Sawahan",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "10",
+        "name": "Nglebeng",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "7",
+        "name": "Karangtengah",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "6",
+        "name": "Gayam",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "15",
+        "name": "Tangkil",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "11",
+        "name": "Ngrambingan",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "9",
+        "name": "Manggis",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "16",
+        "name": "Terbis",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "4",
+        "name": "Bodag",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "2",
+        "name": "Barang",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "8",
+        "name": "Kertosono",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "17",
+        "name": "Wonocoyo",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "3",
+        "name": "Besuki",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "12",
+        "name": "Ngrencak",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "13",
+        "name": "Panggul",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "36",
+        "districtId": "9",
+        "subDistrictId": "1",
+        "name": "Banjar",
+        "postalCode": "66364",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

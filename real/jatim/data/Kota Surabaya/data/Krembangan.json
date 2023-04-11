@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Perak Barat",
+        "postalCode": "60177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "KeNovemberoran",
+        "postalCode": "60176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Moro Krembangan",
+        "postalCode": "60178",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Kemayoran",
+        "postalCode": "60176",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Dupak",
+        "postalCode": "60179",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Krembangan Selatan",
+        "postalCode": "60175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

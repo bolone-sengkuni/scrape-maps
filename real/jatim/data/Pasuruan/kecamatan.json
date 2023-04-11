@@ -1,0 +1,218 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "19",
+        "name": "Rembang",
+        "longitude": 112.798614,
+        "latitude": -7.6452
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "14",
+        "name": "Prigen",
+        "longitude": 112.6378604,
+        "latitude": -7.6908061
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "5",
+        "name": "Grati",
+        "longitude": 113.0017611,
+        "latitude": -7.7384795
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "7",
+        "name": "Kraton",
+        "longitude": 112.8566275,
+        "latitude": -7.6418841
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "1",
+        "name": "Bangil",
+        "longitude": 112.775101,
+        "latitude": -7.6049758
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "4",
+        "name": "Gondang Wetan",
+        "longitude": 112.9127055,
+        "latitude": -7.708709
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "23",
+        "name": "Winongan",
+        "longitude": 112.9435555,
+        "latitude": -7.7463911
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "9",
+        "name": "Lumbang",
+        "longitude": 112.990975,
+        "latitude": -7.830854
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "24",
+        "name": "Wonorejo",
+        "longitude": 112.793692,
+        "latitude": -7.722919
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "20",
+        "name": "Sukorejo",
+        "longitude": 112.7288335,
+        "latitude": -7.6905045
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "6",
+        "name": "Kejayan",
+        "longitude": 112.835464,
+        "latitude": -7.7357544
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "17",
+        "name": "Puspo",
+        "longitude": 112.891306,
+        "latitude": -7.8552849
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "3",
+        "name": "Gempol",
+        "longitude": 112.6751129,
+        "latitude": -7.5942435
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "2",
+        "name": "Beji",
+        "longitude": 106.823737,
+        "latitude": -6.375881
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "18",
+        "name": "Rejoso",
+        "longitude": 112.9467364,
+        "latitude": -7.6681595
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "12",
+        "name": "Pasrepan",
+        "longitude": 112.863165,
+        "latitude": -7.7679149
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "16",
+        "name": "Purwosari",
+        "longitude": 112.7221,
+        "latitude": -7.7573485
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "22",
+        "name": "Tutur",
+        "longitude": 112.8400781,
+        "latitude": -7.8662035
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "10",
+        "name": "Nguling",
+        "longitude": 113.0531515,
+        "latitude": -7.7312195
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "21",
+        "name": "Tosari",
+        "longitude": 112.9016509,
+        "latitude": -7.894968
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "15",
+        "name": "Purwodadi",
+        "longitude": 112.695423,
+        "latitude": -7.816005
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "11",
+        "name": "Pandaan",
+        "longitude": 112.7083795,
+        "latitude": -7.6462154
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "8",
+        "name": "Lekok",
+        "longitude": 113.006748,
+        "latitude": -7.6713535
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "26",
+        "districtId": "13",
+        "name": "Pohjentrek",
+        "longitude": 112.866594,
+        "latitude": -7.6633725
+    }
+]

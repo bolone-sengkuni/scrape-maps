@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "14",
+        "name": "Sumberagung",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "11",
+        "name": "Pranggang",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "7",
+        "name": "Klanderan",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "9",
+        "name": "Plosokidul",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "6",
+        "name": "Kayunan",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "8",
+        "name": "Panjer",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "13",
+        "name": "Sepawon",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "15",
+        "name": "Wonorejo Trisulo",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "10",
+        "name": "Plosolor",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "5",
+        "name": "Kawedusan",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "12",
+        "name": "Punjul",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "2",
+        "name": "Donganti",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "3",
+        "name": "Gondang",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "1",
+        "name": "Brenggolo",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "20",
+        "subDistrictId": "4",
+        "name": "Jarak",
+        "postalCode": "64175",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "postalCode": "67273",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Leces",
+        "kecamatan": "Leces",
+        "kota": "Probolinggo",
+        "alamat": "Jalan Perumahan Leces Permai, RT. 04 RW. 06, Leces Permai, Leces, Kec. Leces, Kabupaten Probolinggo, Jawa Timur 67273, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "4",
+        "subDistrictId": "7",
+        "postalCode": "67271",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pabean",
+        "kecamatan": "Dringu",
+        "kota": "Probolinggo",
+        "alamat": "RT.9/RW.3 Belakang Kampus UPM, Gg. III Gg. Krajan No.102, Krajan, Pabean, Kec. Dringu, Kota Probolinggo, Jawa Timur 67216, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "postalCode": "67271",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalirejo",
+        "kecamatan": "Dringu",
+        "kota": "Probolinggo",
+        "alamat": "Jl. Raya Dringu Gg kerinci, Dusun Bengkengan RT.001/RW003, Dusun Krajan, Kalirejo, Kec. Dringu, Kabupaten Probolinggo, Jawa Timur 67271, Indonesia"
+    }
+]

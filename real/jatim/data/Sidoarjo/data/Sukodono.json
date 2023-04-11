@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "name": "Sukodono",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Plumbungan",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "18",
+        "name": "Suruh",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "16",
+        "name": "Suko",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Pekarungan",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "19",
+        "name": "Wilayut",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Keloposepuluh",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Masangan Kulon",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Masangan Wetan",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Jumputrejo",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Pademonegoro",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Ngaresrejo",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Jogosatru",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Sambungrejo",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Kebonagung",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Cangkringsari",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Anggaswangi",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Panjunan",
+        "postalCode": "61216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "32",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Bangsri",
+        "postalCode": "61258",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

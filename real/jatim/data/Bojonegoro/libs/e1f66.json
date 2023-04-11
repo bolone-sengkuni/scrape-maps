@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "13",
+        "subDistrictId": "15",
+        "postalCode": "62194",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pejok",
+        "kecamatan": "Kepoh Baru",
+        "kota": "Bojonegoro",
+        "alamat": "RT.9/RW.4 P3QJ+XH8, Unnamed Road, Sawah, Pejok, Kec. Kepoh Baru, Kabupaten Bojonegoro, Jawa Timur 62194, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "postalCode": "62112",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ledok Wetan",
+        "kecamatan": "Bojonegoro",
+        "kota": "Bojonegoro",
+        "alamat": "RT.7/RW.5 Jl. Mastrip No.18, Ledok Kulon Tiga, Ledok Wetan, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "postalCode": "62192",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gajah",
+        "kecamatan": "Baureno",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.2 Jl. Babat - Bojonegoro No.249, Kalongan, Gajah, Kec. Baureno, Kabupaten Bojonegoro, Jawa Timur 62192, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "15",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngringinrejo",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.10 VR5C+J5P, Jl. Letjend. Sudirman, Ngringinrejo, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "postalCode": "62168",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Meduri",
+        "kecamatan": "Margomulyo",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.14 MGH9+86J, Jl. Raya Ngawi-Cepu, Hutan, Meduri, Kec. Margomulyo, Kabupaten Bojonegoro, Jawa Timur 62168, Indonesia"
+    }
+]

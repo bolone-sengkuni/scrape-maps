@@ -1,0 +1,222 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "name": "Pesanggrahan",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Gelap",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Laren",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "16",
+        "name": "Pelangwot",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Gampang Sejati",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "20",
+        "name": "Tejoasri",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Dateng",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Brangsi",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "19",
+        "name": "Taman Prijek",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Bulutigo",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Godog",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Duri Kulon",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Bulubrangsi",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "18",
+        "name": "Siser",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Centini",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Karangwungu Lor",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Keduyung",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Karangtawar",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Jabung",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Mojo Asem",
+        "postalCode": "62262",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

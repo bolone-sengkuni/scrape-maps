@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Mojosarirejo",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Kesambenwetan",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Banjaran",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Cangkir",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Bambe",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Petiken",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Krikilan",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Randegansari",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "14",
+        "name": "Tanjungan",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Sumput",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Driyorejo",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Mulung",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "15",
+        "name": "Tenaru",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Karangandong",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Gadung",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "6",
+        "subDistrictId": "16",
+        "name": "Wedoroanom",
+        "postalCode": "61177",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

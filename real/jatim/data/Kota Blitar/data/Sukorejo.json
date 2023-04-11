@@ -1,0 +1,79 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Pakunden",
+        "postalCode": "66122",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Tlumpu",
+        "postalCode": "66124",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Blitar",
+        "postalCode": "66126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Turi",
+        "postalCode": "66126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Sukorejo",
+        "postalCode": "66121",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Tanjung Sari",
+        "postalCode": "66126",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "5",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Karang Sari",
+        "postalCode": "66125",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

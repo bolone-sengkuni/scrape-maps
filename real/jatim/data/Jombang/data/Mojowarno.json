@@ -1,0 +1,211 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Grobogan",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Kedungpari",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Mojowangi",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "name": "Sidokerto",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "16",
+        "name": "Selorejo",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Karanglo",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Gedangan",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Latsari",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Catak Gayam",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "18",
+        "name": "Sukomulyo",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Japanan",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Mojojejer",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Mojoduwur",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Penggaron",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "19",
+        "name": "Wringinpitu",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Mojowarno",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Menganto",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Rejoslamet",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "10",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Gondek",
+        "postalCode": "61475",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "10",
+        "name": "Pegantenan",
+        "longitude": 113.4773845,
+        "latitude": -7.0454224
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "2",
+        "name": "Batumarmar",
+        "longitude": 113.48319,
+        "latitude": -6.955566
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "12",
+        "name": "Tlanakan",
+        "longitude": 113.4303106,
+        "latitude": -7.1925825
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "7",
+        "name": "Pakong",
+        "longitude": 113.561137,
+        "latitude": -7.0430031
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "1",
+        "name": "Pamekasan",
+        "longitude": 113.4729835,
+        "latitude": -7.1548016
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "4",
+        "name": "Kadur",
+        "longitude": 113.5604125,
+        "latitude": -7.090038
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "6",
+        "name": "Pademawu",
+        "longitude": 113.516911,
+        "latitude": -7.1915485
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "11",
+        "name": "Proppo",
+        "longitude": 113.412287,
+        "latitude": -7.1304935
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "9",
+        "name": "Pasean",
+        "longitude": 113.5874484,
+        "latitude": -6.9377311
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "8",
+        "name": "Palenga'an",
+        "longitude": 113.4353319,
+        "latitude": -7.073059
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "5",
+        "name": "Larangan",
+        "longitude": 106.729361,
+        "latitude": -6.235702
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "13",
+        "name": "Waru",
+        "longitude": 113.565405,
+        "latitude": -6.9718724
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "25",
+        "districtId": "3",
+        "name": "Galis",
+        "longitude": 113.5504,
+        "latitude": -7.1483058
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Tunglur",
+        "postalCode": "64222",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Krecek",
+        "postalCode": "64218",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Lamong",
+        "postalCode": "64216",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Canggu",
+        "postalCode": "64217",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Blaru",
+        "postalCode": "64219",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Bringin",
+        "postalCode": "64224",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Badas",
+        "postalCode": "64221",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Sekoto",
+        "postalCode": "64223",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

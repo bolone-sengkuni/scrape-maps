@@ -1,0 +1,191 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "18",
+        "name": "Tekung",
+        "longitude": 113.2195545,
+        "latitude": -8.182075
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "21",
+        "name": "Yosowilangun",
+        "longitude": 113.2452644,
+        "latitude": -8.2532139
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "12",
+        "name": "Randuagung",
+        "longitude": 113.2432095,
+        "latitude": -8.0463991
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "10",
+        "name": "Pasrujambe atau Pasujambe",
+        "longitude": 112.9558134,
+        "latitude": -8.09329
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "3",
+        "name": "Gucialit",
+        "longitude": 113.09937,
+        "latitude": -8.029443
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "11",
+        "name": "Pronojiwo",
+        "longitude": 112.9399839,
+        "latitude": -8.177433
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "5",
+        "name": "Kedungjajang",
+        "longitude": 113.1948814,
+        "latitude": -8.0356246
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "6",
+        "name": "Klakah",
+        "longitude": 113.2408482,
+        "latitude": -7.9965638
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "9",
+        "name": "Pasirian",
+        "longitude": 113.038469,
+        "latitude": -8.2280224
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "20",
+        "name": "Tempursari",
+        "longitude": 112.9358348,
+        "latitude": -8.2886945
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "16",
+        "name": "Sukodono",
+        "longitude": 113.2161769,
+        "latitude": -8.1055436
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "7",
+        "name": "Kunir",
+        "longitude": 113.1980899,
+        "latitude": -8.2261345
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "13",
+        "name": "Ranuyoso",
+        "longitude": 113.217315,
+        "latitude": -7.9429551
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "4",
+        "name": "Jatiroto",
+        "longitude": 113.2896278,
+        "latitude": -8.1286781
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "15",
+        "name": "Senduro",
+        "longitude": 112.970084,
+        "latitude": -8.052122
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "19",
+        "name": "Tempeh",
+        "longitude": 113.1015575,
+        "latitude": -8.2148314
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "1",
+        "name": "Lumajang",
+        "longitude": 113.2147631,
+        "latitude": -8.130365
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "17",
+        "name": "Sumbersuko",
+        "longitude": 113.168797,
+        "latitude": -8.1509565
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "8",
+        "name": "Padang",
+        "longitude": 113.1794286,
+        "latitude": -8.0870549
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "2",
+        "name": "Candipuro",
+        "longitude": 112.9730455,
+        "latitude": -8.2108784
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "14",
+        "districtId": "14",
+        "name": "Rowokangkung",
+        "longitude": 113.2855055,
+        "latitude": -8.1836655
+    }
+]

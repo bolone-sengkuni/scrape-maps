@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Sugihwaras",
+        "postalCode": "64452",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Gampeng",
+        "postalCode": "64452",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Tempuran",
+        "postalCode": "64452",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Ngluyu",
+        "postalCode": "64452",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Lengkong Lor",
+        "postalCode": "64452",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "22",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Bajang",
+        "postalCode": "64452",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

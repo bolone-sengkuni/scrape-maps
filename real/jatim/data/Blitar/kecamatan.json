@@ -1,0 +1,200 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "1",
+        "name": "Bakung",
+        "longitude": 112.071905,
+        "latitude": -8.269455
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "3",
+        "name": "Doko",
+        "longitude": 112.3715,
+        "latitude": -8.072515
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "14",
+        "name": "Selorejo",
+        "longitude": 112.4320914,
+        "latitude": -8.0774636
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "8",
+        "name": "Kesamben",
+        "longitude": 112.3739795,
+        "latitude": -8.1148825
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "12",
+        "name": "Sanan Kulon",
+        "longitude": 112.1416894,
+        "latitude": -8.0876855
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "7",
+        "name": "Kanigoro",
+        "longitude": 112.2018705,
+        "latitude": -8.1214257
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "5",
+        "name": "Garum",
+        "longitude": 112.2162979,
+        "latitude": -8.0824905
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "15",
+        "name": "Srengat",
+        "longitude": 112.072549,
+        "latitude": -8.0794074
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "22",
+        "name": "Wonotirto",
+        "longitude": 112.1761051,
+        "latitude": -8.2636125
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "10",
+        "name": "Panggungrejo",
+        "longitude": 112.26953,
+        "latitude": -8.24948
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "2",
+        "name": "Binangun",
+        "longitude": 112.340857,
+        "latitude": -8.2116561
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "16",
+        "name": "Sutojayan",
+        "longitude": 112.194091,
+        "latitude": -8.1780435
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "18",
+        "name": "Udanawu",
+        "longitude": 112.0297919,
+        "latitude": -8.0177004
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "13",
+        "name": "Selopuro",
+        "longitude": 112.3175991,
+        "latitude": -8.137877
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "17",
+        "name": "Talun",
+        "longitude": 112.275942,
+        "latitude": -8.1004861
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "4",
+        "name": "Gandusari",
+        "longitude": 112.3446185,
+        "latitude": -7.998219
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "20",
+        "name": "Wlingi",
+        "longitude": 112.3847655,
+        "latitude": -8.0223276
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "11",
+        "name": "Ponggok",
+        "longitude": 112.1183635,
+        "latitude": -8.0302256
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "21",
+        "name": "Wonodadi",
+        "longitude": 112.002035,
+        "latitude": -8.0479619
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "6",
+        "name": "Kademangan",
+        "longitude": 112.1063915,
+        "latitude": -8.1791674
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "9",
+        "name": "Nglegok",
+        "longitude": 112.234011,
+        "latitude": -8.0037615
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "4",
+        "districtId": "19",
+        "name": "Wates",
+        "longitude": 112.3290944,
+        "latitude": -8.291968
+    }
+]

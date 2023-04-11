@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "12",
+        "name": "Prangi",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "14",
+        "name": "Sidorejo",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "name": "Banjarjo",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "16",
+        "name": "Tebon",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "11",
+        "name": "Padangan",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "name": "Kebunagung",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "10",
+        "name": "Nguken",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "name": "Dengok",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "5",
+        "name": "Kendung",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "13",
+        "name": "Purworejo",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "9",
+        "name": "Ngradin",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "name": "Cendono",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "8",
+        "name": "Ngeper",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "15",
+        "name": "Sonorejo",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "6",
+        "name": "Kuncen",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "name": "Ngasinan",
+        "postalCode": "62162",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

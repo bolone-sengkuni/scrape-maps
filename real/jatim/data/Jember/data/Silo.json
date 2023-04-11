@@ -1,0 +1,101 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "2",
+        "name": "Harjomolyo",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "7",
+        "name": "Sidomulyo",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "5",
+        "name": "Pace",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "9",
+        "name": "Sumberjati",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "6",
+        "name": "Sempolan",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "8",
+        "name": "Silo",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "1",
+        "name": "Garahan",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "4",
+        "name": "Mulyorejo",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "22",
+        "subDistrictId": "3",
+        "name": "Karangharjo",
+        "postalCode": "68184",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

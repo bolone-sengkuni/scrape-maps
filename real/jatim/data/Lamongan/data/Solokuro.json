@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "8",
+        "name": "Takerharjo",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "10",
+        "name": "Tenggulun",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "5",
+        "name": "Payaman",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "7",
+        "name": "Sugihan",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "4",
+        "name": "Dagan",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "6",
+        "name": "Solokuro",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "9",
+        "name": "Tebluru",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "1",
+        "name": "Banyubang",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "2",
+        "name": "Bluri",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "13",
+        "districtId": "22",
+        "subDistrictId": "3",
+        "name": "Dadapan",
+        "postalCode": "62265",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

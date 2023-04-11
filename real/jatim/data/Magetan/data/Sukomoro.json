@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "name": "Bandar",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "9",
+        "name": "Pojoksari",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "12",
+        "name": "Tambakmas",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "name": "Kembangan",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "6",
+        "name": "Kedungguwo",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "11",
+        "name": "Tamanan",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "14",
+        "name": "Truneng",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "name": "Kalangketi",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "name": "Bulu",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "name": "Bogem",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "10",
+        "name": "Sukomoro",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "name": "Bibis",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "8",
+        "name": "Kentangan",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "16",
+        "subDistrictId": "13",
+        "name": "Tinap",
+        "postalCode": "63391",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

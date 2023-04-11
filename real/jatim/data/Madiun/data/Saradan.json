@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "3",
+        "name": "Bener",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "11",
+        "name": "Sugihwaras",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "13",
+        "name": "Sumberbendo",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "2",
+        "name": "Bandungan",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "10",
+        "name": "Sidorejo",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "15",
+        "name": "Tulung",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "4",
+        "name": "Bongsopotro",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "6",
+        "name": "Klumutan",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "8",
+        "name": "Pajaran",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "name": "Sambirejo",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "7",
+        "name": "Ngepeh",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "1",
+        "name": "Bajulan",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "12",
+        "name": "Sukorejo",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "14",
+        "name": "Sumbersari",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "15",
+        "districtId": "12",
+        "subDistrictId": "5",
+        "name": "Klangon",
+        "postalCode": "63155",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

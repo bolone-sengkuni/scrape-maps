@@ -1,0 +1,178 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "name": "Bleber",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "15",
+        "name": "Rejomulyo",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "7",
+        "name": "Kanigoro",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "1",
+        "name": "Banjaranyar",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "16",
+        "name": "Setonorejo",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "11",
+        "name": "Mojosari",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "5",
+        "name": "Jabang",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "name": "Butuh",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "name": "Jambean",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "name": "Kras",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "2",
+        "name": "Bendosari",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "12",
+        "name": "Nyawangan",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "9",
+        "name": "Krandang",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "13",
+        "name": "Pelas",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "14",
+        "name": "Purwodadi",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "10",
+        "subDistrictId": "8",
+        "name": "Karangtalun",
+        "postalCode": "64172",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

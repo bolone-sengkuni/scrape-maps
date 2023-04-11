@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "20",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sudu",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.8 VP22+JHR, Jl. Bojonegoro - Ngawi, Alas Mlati, Sudu, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "11",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mlaten",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.9 VP9R+J6W, Talok Kalitidu, Mlaten, Kalitidu, Dangkep, Mlaten, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "17",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Panjunan",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.10 Jl. Nasional No.20, Pinggiran, Panjunan, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "7",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Leran",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.8/RW.7 VR4G+2V8, Leran, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "7",
+        "subDistrictId": "19",
+        "postalCode": "62152",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pungpungan",
+        "kecamatan": "Kalitidu",
+        "kota": "Bojonegoro",
+        "alamat": "RT.4/RW.2 VR78+323, Jl. Raya Cepu, Pungpungan, Kec. Kalitidu, Kabupaten Bojonegoro, Jawa Timur 62152, Indonesia"
+    }
+]

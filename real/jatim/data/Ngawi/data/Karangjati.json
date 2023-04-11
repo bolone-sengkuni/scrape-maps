@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Rejuno",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "15",
+        "name": "Sembung",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Legundi",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Dungmiri",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "16",
+        "name": "Sidokerto",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Gempol",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Karangjati",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Danguk",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Puhti",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Rejomulyo",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "14",
+        "name": "Sawo",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Jatipuro",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Ploso Lor",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "13",
+        "name": "Ringin Anom",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "17",
+        "name": "Sidorejo",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Brangol",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "23",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Campur Asri",
+        "postalCode": "63284",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

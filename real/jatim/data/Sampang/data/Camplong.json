@@ -1,0 +1,156 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Banjar Tabulu",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "name": "Prajjan",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Madupat",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Banjar Talela",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "11",
+        "name": "Rabasan",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Pamolaan",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "13",
+        "name": "Taddan",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Plampaan",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Anggersek",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Dharma Tanjung",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "12",
+        "name": "Sejati",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Dharma Camplong",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "14",
+        "name": "Tambaan",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "31",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Batu Karang",
+        "postalCode": "69281",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "postalCode": "61119",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gapurosukolilo",
+        "kecamatan": "Gresik",
+        "kota": "Gresik",
+        "alamat": "RT.4/RW.9 Jl. Panglima Sudirman No.121, Kramatandap, Gapurosukolilo, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61122, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "postalCode": "61113",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pulopancikan",
+        "kecamatan": "Gresik",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.13 Jl. Malik Ibrahim No.2, Bedilan, Pulopancikan, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61114, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "1",
+        "subDistrictId": "18",
+        "postalCode": "61113",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tlogobendung",
+        "kecamatan": "Gresik",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.3 No., Jl. R.A. Kartini Gg. \u2169\u2165 No.100, Injen Barat, Tlogobendung, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61122, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "postalCode": "61114",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Bedilan",
+        "kecamatan": "Gresik",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.3 Parkiran Maulana Malik Ibrahim, Jl. Pahlawan, Tlogobendung, Bedilan, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61114, Indonesia"
+    }
+]

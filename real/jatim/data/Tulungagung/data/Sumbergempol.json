@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "name": "Junjung",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "14",
+        "name": "Tambakrejo",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "6",
+        "name": "Jabalsari",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "12",
+        "name": "Sambirobyong",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "15",
+        "name": "Trenceng",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "13",
+        "name": "Sumberdadi",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "16",
+        "name": "Wates",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "11",
+        "name": "Sambijajar",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "2",
+        "name": "Bendiljati Wetan",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "4",
+        "name": "Bukur",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "name": "Bendilwungu",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "17",
+        "name": "Wonorejo",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "9",
+        "name": "Podorejo",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "1",
+        "name": "Bendiljati Kulon",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "8",
+        "name": "Mirigambar",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "10",
+        "name": "Sambidoplang",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "38",
+        "districtId": "18",
+        "subDistrictId": "5",
+        "name": "Doroampel",
+        "postalCode": "66291",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "10",
+        "name": "Sukapura",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "name": "Pakel",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "1",
+        "name": "Jetak",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "5",
+        "name": "Ngadisari",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "12",
+        "name": "Wonotoro",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "4",
+        "name": "Ngadirejo",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "2",
+        "name": "Kedasih",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "8",
+        "name": "Sapikerep",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "11",
+        "name": "Wonokerto",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "3",
+        "name": "Ngadas",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "6",
+        "name": "Ngepung",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "29",
+        "districtId": "18",
+        "subDistrictId": "9",
+        "name": "Sariwani",
+        "postalCode": "67254",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

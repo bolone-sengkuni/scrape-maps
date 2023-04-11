@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.9/RW.9 PP3F+X8G, Karang, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.2/RW.2 PP8F+GQJ, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Nglampin",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.7 MP93+V5R, Dusun Kleco, Nglampin, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sengon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.7/RW.6 Ngrapah, Sengon, Ngambon, Bojonegoro Regency, East Java 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "17",
+        "subDistrictId": "20",
+        "postalCode": "62154",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Setren",
+        "kecamatan": "Ngasem",
+        "kota": "Bojonegoro",
+        "alamat": "RT.3/RW.5 MQ54+4W8, Dukuh Nglambangan, Desa, Sambirejo, Setren, Kec. Ngasem, Kabupaten Bojonegoro, Jawa Timur 62154, Indonesia"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "3",
+        "name": "Ngrogung",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "name": "Talun",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "name": "Sempu",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "name": "Ngebel",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "name": "Pupus",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "8",
+        "name": "Wagir Lor",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "name": "Sahang",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "28",
+        "districtId": "11",
+        "subDistrictId": "1",
+        "name": "Gondowido",
+        "postalCode": "63493",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

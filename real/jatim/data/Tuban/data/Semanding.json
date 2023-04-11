@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "2",
+        "name": "Bektiharjo",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "4",
+        "name": "Gedongombo",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "5",
+        "name": "Genaharjo",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "12",
+        "name": "Prunggahan Kulon",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "1",
+        "name": "Bejagung",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "8",
+        "name": "Karang",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "7",
+        "name": "Jadi",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "6",
+        "name": "Gesing",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "13",
+        "name": "Prunggahan Wetan",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "3",
+        "name": "Boto",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "16",
+        "name": "Tegalagung",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "9",
+        "name": "Kowang",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "10",
+        "name": "Ngino",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "17",
+        "name": "Tunah",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "15",
+        "name": "Semanding",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "11",
+        "name": "Penambangan",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "15",
+        "subDistrictId": "14",
+        "name": "Sambongrejo",
+        "postalCode": "62381",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

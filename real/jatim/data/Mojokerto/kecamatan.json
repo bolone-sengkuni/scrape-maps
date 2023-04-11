@@ -1,0 +1,164 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "11",
+        "name": "Mojosari",
+        "longitude": 112.544292,
+        "latitude": -7.5027566
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "7",
+        "name": "Jetis",
+        "longitude": 112.4459125,
+        "latitude": -7.405244
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "10",
+        "name": "Mojoanyar",
+        "longitude": 112.487266,
+        "latitude": -7.4740645
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "15",
+        "name": "Puri",
+        "longitude": 112.449719,
+        "latitude": -7.5389201
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "13",
+        "name": "Pacet",
+        "longitude": 112.5434405,
+        "latitude": -7.667808
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "17",
+        "name": "Trawas",
+        "longitude": 112.5933815,
+        "latitude": -7.6534845
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "9",
+        "name": "Kutorejo",
+        "longitude": 112.525603,
+        "latitude": -7.5569054
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "2",
+        "name": "Dawar Blandong",
+        "longitude": 112.415461,
+        "latitude": -7.3448996
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "18",
+        "name": "Trowulan",
+        "longitude": 112.3795979,
+        "latitude": -7.55471
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "16",
+        "name": "Sooko",
+        "longitude": 112.411506,
+        "latitude": -7.5048164
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "4",
+        "name": "Gedeg",
+        "longitude": 112.396315,
+        "latitude": -7.4395824
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "14",
+        "name": "Pungging",
+        "longitude": 112.5733629,
+        "latitude": -7.5361719
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "5",
+        "name": "Gondang",
+        "longitude": 112.486457,
+        "latitude": -7.678484
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "12",
+        "name": "Ngoro",
+        "longitude": 112.6282954,
+        "latitude": -7.5489963
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "3",
+        "name": "Dlanggu",
+        "longitude": 112.470452,
+        "latitude": -7.566425
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "8",
+        "name": "Kemlagi",
+        "longitude": 112.373202,
+        "latitude": -7.4016015
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "1",
+        "name": "Bangsal",
+        "longitude": 112.4824539,
+        "latitude": -7.4993984
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "20",
+        "districtId": "6",
+        "name": "Jatirejo",
+        "longitude": 112.414689,
+        "latitude": -7.6054294
+    }
+]

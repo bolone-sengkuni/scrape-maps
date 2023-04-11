@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalibaru Manis",
+        "kecamatan": "Kalibaru",
+        "kota": "Banyuwangi",
+        "alamat": "RT.6/RW.3 Dusun Barurejo, Kalibaru Manis, Kalibaru, Banyuwangi Regency, East Java 68467, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalibaru Manis",
+        "kecamatan": "Kalibaru",
+        "kota": "Banyuwangi",
+        "alamat": "RT.1/RW.14 PXG5+9WQ, Dusun Sumber Beringin, Kalibaru Manis, Kec. Kalibaru, Kabupaten Banyuwangi, Jawa Timur 68467, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "postalCode": "68467",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalibaru Kulon",
+        "kecamatan": "Kalibaru",
+        "kota": "Banyuwangi",
+        "alamat": "RT.7/RW.13 Pasar, Krajan II, Kalibaru Kulon, Kec. Kalibaru, Kabupaten Banyuwangi, Jawa Timur 68467, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "postalCode": "68466",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tegalharjo",
+        "kecamatan": "Glenmore",
+        "kota": "Banyuwangi",
+        "alamat": "RT.7/RW.3 M2XH+8VQ, Dusun Krajan, Tegalharjo, Kec. Glenmore, Kabupaten Banyuwangi, Jawa Timur 68466, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "2",
+        "districtId": "8",
+        "subDistrictId": "6",
+        "postalCode": "68466",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tegalharjo",
+        "kecamatan": "Glenmore",
+        "kota": "Banyuwangi",
+        "alamat": "RT.5/RW.10 Dusun Krajan, Tegalharjo, Glenmore, Banyuwangi Regency, East Java, Indonesia"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "14",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tawang",
+        "kecamatan": "Wates",
+        "kota": "Kediri",
+        "alamat": "RT.2/RW.9 34PH+R3C, Wates, Tawang, Kec. Wates, Kabupaten Kediri, Jawa Timur 64174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "14",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tawang",
+        "kecamatan": "Wates",
+        "kota": "Kediri",
+        "alamat": "RT.2/RW.12 34PH+HR5, Wates, Tawang, Kec. Wates, Kabupaten Kediri, Jawa Timur 64174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "11",
+        "districtId": "26",
+        "subDistrictId": "17",
+        "postalCode": "64174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wates",
+        "kecamatan": "Wates",
+        "kota": "Kediri",
+        "alamat": "RT.3/RW.7 34PH+6C7, Wates, Kec. Wates, Kabupaten Kediri, Jawa Timur 64174, Indonesia"
+    }
+]

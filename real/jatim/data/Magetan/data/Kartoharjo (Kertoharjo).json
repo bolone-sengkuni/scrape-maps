@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "11",
+        "name": "Pencol",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "9",
+        "name": "Mrahu",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "name": "Bayem Taman",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "12",
+        "name": "Sukowidi",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "8",
+        "name": "Klurahan",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "2",
+        "name": "Bayem Wetan",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "7",
+        "name": "Kartoharjo (Kertoharjo)",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "4",
+        "name": "Jajar",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "6",
+        "name": "Karangmojo",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "3",
+        "name": "Gunungan",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "10",
+        "name": "Ngelang",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "17",
+        "districtId": "6",
+        "subDistrictId": "5",
+        "name": "Jeruk",
+        "postalCode": "63395",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

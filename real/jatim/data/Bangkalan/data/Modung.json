@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "9",
+        "name": "Neroh",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "6",
+        "name": "Langpanggang",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "14",
+        "name": "Patereman",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "8",
+        "name": "Modung",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "13",
+        "name": "Patengteng",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "11",
+        "name": "Pakong",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "17",
+        "name": "Suwaan",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "16",
+        "name": "Srabi atau Serabi Timur",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "12",
+        "name": "Pangpajung",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "3",
+        "name": "Glisgis (Gligis)",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "2",
+        "name": "Brakas Dajah",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "5",
+        "name": "Kolla",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "1",
+        "name": "Alaskokon",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "7",
+        "name": "Manggaan",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "4",
+        "name": "Karanganyar",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "15",
+        "name": "Srabi atau Serabi Barat",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "1",
+        "districtId": "13",
+        "subDistrictId": "10",
+        "name": "Paeng",
+        "postalCode": "69166",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

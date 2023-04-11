@@ -1,0 +1,145 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "6",
+        "name": "Kepuh Teluk",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "12",
+        "name": "Tanjungori",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "7",
+        "name": "Pekalongan",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "11",
+        "name": "Tambak",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "4",
+        "name": "Kelompang Gubug",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "name": "Kepuh Legundi",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "13",
+        "name": "Teluk Jatidawang",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "9",
+        "name": "Sukalela",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "name": "Grejeg",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "2",
+        "name": "Gelam",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "8",
+        "name": "Peromaan (Paromaan)",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "10",
+        "name": "Sukaoneng",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "16",
+        "subDistrictId": "1",
+        "name": "Diponggo",
+        "postalCode": "61182",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "4",
+        "name": "Bercak",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "1",
+        "name": "Bajuran",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "11",
+        "name": "Ramban Kulon",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "10",
+        "name": "Pelalangan",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "6",
+        "name": "Cermee",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "name": "Batu Ampar",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "5",
+        "name": "Bercak Asri",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "13",
+        "name": "Solor",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "3",
+        "name": "Batu Salang",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "9",
+        "name": "Kladi",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "15",
+        "name": "Suling Wetan",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "14",
+        "name": "Suling Kulon",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "12",
+        "name": "Ramban Wetan",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "8",
+        "name": "Jirek Mas",
+        "postalCode": "68286",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "3",
+        "subDistrictId": "7",
+        "name": "Grujugan",
+        "postalCode": "68261",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

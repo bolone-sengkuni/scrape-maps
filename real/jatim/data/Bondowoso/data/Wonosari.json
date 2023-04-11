@@ -1,0 +1,134 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "8",
+        "name": "Sumberkalong",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "10",
+        "name": "Traktakan",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "5",
+        "name": "Lombok Wetan",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "11",
+        "name": "Tumpeng",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "name": "Jumpong",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "name": "Pelalangan",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "6",
+        "name": "Pasarejo",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "name": "Lombok Kulon",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "name": "Kapuran",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "9",
+        "name": "Tangsil Wetan",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "name": "Bendoarum",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "12",
+        "name": "Wonosari",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

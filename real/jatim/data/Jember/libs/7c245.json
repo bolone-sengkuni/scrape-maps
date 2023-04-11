@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "postalCode": "68136",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mangli",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.5/RW.6 Perumahan Pesona Surya Milenia, Blok A2/3, Karang Miuwo, Mangli, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68136, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "18",
+        "subDistrictId": "7",
+        "postalCode": "68111",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Patrang",
+        "kecamatan": "Patrang",
+        "kota": "Jember",
+        "alamat": "RT.6/RW.4 Jl. Mangga II No.3, Cangkring, Patrang, Kec. Patrang, Kabupaten Jember, Jawa Timur 68111, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "6",
+        "postalCode": "68135",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sempusari",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.8/RW.12 Jl. Lumba-Lumba Gg. 1 No.6, Mrapa, Sempusari, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 65131, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "7",
+        "postalCode": "68132",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tegal Besar",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.9/RW.5 QPX5+MRG, Tumpengsari, Tegal Besar, Kaliwates, Jember Regency, East Java 68131, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "9",
+        "districtId": "11",
+        "subDistrictId": "5",
+        "postalCode": "68136",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mangli",
+        "kecamatan": "Kaliwates",
+        "kota": "Jember",
+        "alamat": "RT.3/RW.4 Unnamed Road, Karang Miuwo, Mangli, Kaliwates, Jember Regency, East Java 68131, Indonesia"
+    }
+]

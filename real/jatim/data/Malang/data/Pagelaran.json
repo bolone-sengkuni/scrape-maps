@@ -1,0 +1,112 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "1",
+        "name": "Balearjo",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "5",
+        "name": "Kademangan",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "name": "Karangsuko",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "6",
+        "name": "Kanigoro",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "10",
+        "name": "Suwaru",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "name": "Clumprit",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "8",
+        "name": "Pagelaran",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "3",
+        "name": "Brongkal",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "9",
+        "name": "Sidorejo",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "18",
+        "districtId": "19",
+        "subDistrictId": "2",
+        "name": "Banjarejo",
+        "postalCode": "65174",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

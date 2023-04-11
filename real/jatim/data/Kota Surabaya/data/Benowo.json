@@ -1,0 +1,68 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "subDistrictId": "4",
+        "name": "Sememi",
+        "postalCode": "60198",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "subDistrictId": "2",
+        "name": "Klakah Rejo",
+        "postalCode": "60198",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "subDistrictId": "5",
+        "name": "Tambakoso Wilangon",
+        "postalCode": "60191",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "subDistrictId": "1",
+        "name": "Kandangan",
+        "postalCode": "60199",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "subDistrictId": "3",
+        "name": "Romokalisari (Babat Jerawat)",
+        "postalCode": "60192",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "35",
+        "districtId": "2",
+        "subDistrictId": "6",
+        "name": "Sumberejo",
+        "postalCode": "60194",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]

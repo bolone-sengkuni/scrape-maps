@@ -1,0 +1,189 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "8",
+        "name": "Latsari",
+        "postalCode": "62314",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "name": "Kebonsari",
+        "postalCode": "62317",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "11",
+        "name": "Ronggomulyo",
+        "postalCode": "62313",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "1",
+        "name": "Baturetno",
+        "postalCode": "62318",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "7",
+        "name": "Kutorejo",
+        "postalCode": "62311",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "16",
+        "name": "Sukolilo",
+        "postalCode": "62318",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "10",
+        "name": "Perbon",
+        "postalCode": "62319",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "17",
+        "name": "Sumurgung",
+        "postalCode": "62319",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "name": "Kembangbilo",
+        "postalCode": "62319",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "name": "Kingking",
+        "postalCode": "62313",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "9",
+        "name": "Mondokan",
+        "postalCode": "62319",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "3",
+        "name": "Karangsari",
+        "postalCode": "62314",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "15",
+        "name": "Sugiharjo",
+        "postalCode": "62319",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "13",
+        "name": "Sidomulyo",
+        "postalCode": "62312",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "14",
+        "name": "Sidorejo",
+        "postalCode": "62315",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "12",
+        "name": "Sendangharjo",
+        "postalCode": "62319",
+        "longitude": 0.0,
+        "latitude": 0.0
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "37",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "name": "Doromukti",
+        "postalCode": "62316",
+        "longitude": 0.0,
+        "latitude": 0.0
+    }
+]
