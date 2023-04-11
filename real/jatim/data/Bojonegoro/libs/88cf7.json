@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "postalCode": "62164",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kedewan",
+        "kecamatan": "Kedewan",
+        "kota": "Bojonegoro",
+        "alamat": "RT.7/RW.9 XJ7Q+9GH, Margoasri, Kedewan, Kec. Kedewan, Kabupaten Bojonegoro, Jawa Timur 62164, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "11",
+        "subDistrictId": "4",
+        "postalCode": "62164",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kedewan",
+        "kecamatan": "Kedewan",
+        "kota": "Bojonegoro",
+        "alamat": "RT.8/RW.14 Stand Pasar Kedewan No.5, Margoasri, Kedewan, Kec. Kedewan, Kabupaten Bojonegoro, Jawa Timur 62164, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "11",
+        "subDistrictId": "2",
+        "postalCode": "62164",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Hargomulyo",
+        "kecamatan": "Kedewan",
+        "kota": "Bojonegoro",
+        "alamat": "RT.5/RW.6 WJWV+477, Dandangilo, Hargomulyo, Kec. Kedewan, Kabupaten Bojonegoro, Jawa Timur 62164, Indonesia"
+    }
+]
