@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.5/RW.11 PP7F+3XR, Jl. Ps. Ngambon, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.6/RW.13 PP8F+3X8, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.5/RW.6 PP7G+MW6, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "RT.1/RW.8 PP9F+MHX, Jl. Raya Dolokgede, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "6",
+        "districtId": "16",
+        "subDistrictId": "3",
+        "postalCode": "62167",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngambon",
+        "kecamatan": "Ngambon",
+        "kota": "Bojonegoro",
+        "alamat": "Jl. Ps. Ngambon, RT 14/RW 04, Putuk, Ngambon, Kec. Ngambon, Kabupaten Bojonegoro, Jawa Timur 62167, Indonesia"
+    }
+]
