@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "17",
+        "subDistrictId": "12",
+        "postalCode": "68281",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tenggarang",
+        "kecamatan": "Tenggarang",
+        "kota": "Bondowoso",
+        "alamat": "RT.4/RW.10 3VV4+477, Jl. Raya Situbondo, Krajan, Tenggarang, Kec. Tenggarang, Kabupaten Bondowoso, Jawa Timur 68281, Indonesia"
+    }
+]
