@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "12",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumbersuko",
+        "kecamatan": "Curahdami",
+        "kota": "Bondowoso",
+        "alamat": "RT.1/RW.9 3QRQ+C3V, Unnamed Road, Krajan, Sumbersuko, Curahdami, Bondowoso Regency, East Java 68251, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "4",
+        "subDistrictId": "2",
+        "postalCode": "68251",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Curahpoh",
+        "kecamatan": "Curahdami",
+        "kota": "Bondowoso",
+        "alamat": "RT.2/RW.13 Lumbung, Curahpoh, Curahdami, Bondowoso Regency, East Java 68251, Indonesia"
+    }
+]
