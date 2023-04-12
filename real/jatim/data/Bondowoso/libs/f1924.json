@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "postalCode": "68263",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tamanan",
+        "kecamatan": "Tamanan",
+        "kota": "Bondowoso",
+        "alamat": "RT.7/RW.11 XRMH+G3C, Jl. St., Tamanan Timur, Tamanan, Kec. Tamanan, Kabupaten Bondowoso, Jawa Timur 68263, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "postalCode": "68263",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tamanan",
+        "kecamatan": "Tamanan",
+        "kota": "Bondowoso",
+        "alamat": "RT.3/RW.11 XRMG+RVH, Tamanan Timur, Tamanan, Kec. Tamanan, Kabupaten Bondowoso, Jawa Timur 68263, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "postalCode": "68263",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tamanan",
+        "kecamatan": "Tamanan",
+        "kota": "Bondowoso",
+        "alamat": "RT.3/RW.1 Jl. Sukowono Jl. Raya Tamanan No.1, Tamanan Anyar, Tamanan, Kec. Tamanan, Kabupaten Bondowoso, Jawa Timur 68263, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "14",
+        "subDistrictId": "3",
+        "postalCode": "68263",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kemirian",
+        "kecamatan": "Tamanan",
+        "kota": "Bondowoso",
+        "alamat": "RT.8/RW.12 XRGR+6JJ, Sumber Jedeng, Kemirian, Kec. Tamanan, Kabupaten Bondowoso, Jawa Timur, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "14",
+        "subDistrictId": "7",
+        "postalCode": "68263",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tamanan",
+        "kecamatan": "Tamanan",
+        "kota": "Bondowoso",
+        "alamat": "RT.6/RW.10 XRMH+C4J, Jl. Raya Tamanan, Tamanan Anyar, Tamanan, Kec. Tamanan, Kabupaten Bondowoso, Jawa Timur, Indonesia"
+    }
+]
