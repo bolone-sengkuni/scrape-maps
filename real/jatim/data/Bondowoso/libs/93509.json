@@ -1,0 +1,30 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "postalCode": "68285",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sempol",
+        "kecamatan": "Prajekan",
+        "kota": "Bondowoso",
+        "alamat": "RT.6/RW.1 6222+PWC, Jl, Krajan I, Sempol, Prajekan, Bondowoso Regency, East Java 68285, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "9",
+        "subDistrictId": "5",
+        "postalCode": "68285",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sempol",
+        "kecamatan": "Prajekan",
+        "kota": "Bondowoso",
+        "alamat": "RT.4/RW.7 6222+PV4, Krajan I, Sempol, Kec. Prajekan, Kabupaten Bondowoso, Jawa Timur 68285, Indonesia"
+    }
+]
