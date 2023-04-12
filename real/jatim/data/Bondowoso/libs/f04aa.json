@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "20",
+        "subDistrictId": "13",
+        "postalCode": "68252",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wringin",
+        "kecamatan": "Wringin",
+        "kota": "Bondowoso",
+        "alamat": "RT.9/RW.8 5QJ5+24J, Wringin Ps., Wringin, Kec. Wringin, Kabupaten Bondowoso, Jawa Timur 68252, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "20",
+        "subDistrictId": "9",
+        "postalCode": "68252",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jatisari",
+        "kecamatan": "Wringin",
+        "kota": "Bondowoso",
+        "alamat": "RT.2/RW.10 5Q67+8FQ, Bedeen, Jatisari, Kec. Wringin, Kabupaten Bondowoso, Jawa Timur 68252, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "5",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pakem",
+        "kecamatan": "Pakem",
+        "kota": "Bondowoso",
+        "alamat": "RT.2/RW.9 4PRX+246, Duren, Pakem, Kec. Pakem, Kabupaten Bondowoso, Jawa Timur 68253, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "20",
+        "subDistrictId": "9",
+        "postalCode": "68252",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Jatisari",
+        "kecamatan": "Wringin",
+        "kota": "Bondowoso",
+        "alamat": "RT.1/RW.8 Jatian, Jatisari, Wringin, Bondowoso Regency, East Java 68252, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "20",
+        "subDistrictId": "13",
+        "postalCode": "68252",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wringin",
+        "kecamatan": "Wringin",
+        "kota": "Bondowoso",
+        "alamat": "RT.4/RW.12 5QJ4+2PP, Wringin Ps., Wringin, Kec. Wringin, Kabupaten Bondowoso, Jawa Timur 68252, Indonesia"
+    }
+]
