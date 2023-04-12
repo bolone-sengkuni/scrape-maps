@@ -1,0 +1,16 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "16",
+        "subDistrictId": "5",
+        "postalCode": "68291",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sekarputih",
+        "kecamatan": "Tegalampel",
+        "kota": "Bondowoso",
+        "alamat": "RT.6/RW.11 4R2H+M26, Purnama, Sekarputih, Kec. Tegalampel, Kabupaten Bondowoso, Jawa Timur 68291, Indonesia"
+    }
+]
