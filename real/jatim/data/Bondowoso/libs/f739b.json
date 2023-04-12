@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "20",
+        "subDistrictId": "12",
+        "postalCode": "68252",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sumbermalang",
+        "kecamatan": "Wringin",
+        "kota": "Bondowoso",
+        "alamat": "RT.4/RW.2 SEMPOL DESA SUMBER MALANG, DUSUN, Selatan Sungai, Sumbermalang, Kec. Wringin, Kabupaten Bondowoso, Jawa Timur 68252, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "8",
+        "subDistrictId": "7",
+        "postalCode": "68253",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Petung",
+        "kecamatan": "Pakem",
+        "kota": "Bondowoso",
+        "alamat": "RT.2/RW.8 4PVM+H2R, Leduk, Petung, Kec. Pakem, Kabupaten Bondowoso, Jawa Timur 68253, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "5",
+        "postalCode": "68219",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kembang",
+        "kecamatan": "Bondowoso",
+        "kota": "Bondowoso",
+        "alamat": "RT.6/RW.12 3R75+4V6, Griyakembang Permai, Kembang, Bondowoso, Bondowoso Regency, East Java 68219, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "6",
+        "postalCode": "68213",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kotakulon",
+        "kecamatan": "Bondowoso",
+        "kota": "Bondowoso",
+        "alamat": "RT.3/RW.5 3RQ9+R9X, Jl. Diponegoro, Kauman, Kotakulon, Kec. Bondowoso, Kabupaten Bondowoso, Jawa Timur 68219, Indonesia"
+    }
+]
