@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "4",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Maskuning Kulon",
+        "kecamatan": "Pujer",
+        "kota": "Bondowoso",
+        "alamat": "RT.7/RW.8 2VFR+9X7, Krasak, Maskuning Kulon, Kec. Pujer, Kabupaten Bondowoso, Jawa Timur 68271, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "3",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mangli",
+        "kecamatan": "Pujer",
+        "kota": "Bondowoso",
+        "alamat": "RT.7/RW.4 Krajan, Mangli, Pujer, Bondowoso Regency, East Java 68271, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "6",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Mengok",
+        "kecamatan": "Pujer",
+        "kota": "Bondowoso",
+        "alamat": "RT.2/RW.1 2VFF+WXG, Rancang, Mengok, Kec. Pujer, Kabupaten Bondowoso, Jawa Timur 68271, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "10",
+        "subDistrictId": "10",
+        "postalCode": "68271",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Sukokerto",
+        "kecamatan": "Pujer",
+        "kota": "Bondowoso",
+        "alamat": "RT.2/RW.10 XVWW+C2H, Sukokerto, Kec. Pujer, Kabupaten Bondowoso, Jawa Timur 68271, Indonesia"
+    }
+]
