@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Lombok Kulon",
+        "kecamatan": "Wonosari",
+        "kota": "Bondowoso",
+        "alamat": "RT.6/RW.8 Jl. A.Yani, Pasar, Lombok Kulon, Kec. Wonosari, Kabupaten Bondowoso, Jawa Timur 68282, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "6",
+        "subDistrictId": "1",
+        "postalCode": "68284",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Besuk",
+        "kecamatan": "Klabang",
+        "kota": "Bondowoso",
+        "alamat": "RT.9/RW.6 5XJ8+P6V, Jl. Raya Situbondo, Sorah, Besuk, Kec. Klabang, Kabupaten Bondowoso, Jawa Timur 68284, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "1",
+        "subDistrictId": "4",
+        "postalCode": "68217",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kademangan",
+        "kecamatan": "Bondowoso",
+        "kota": "Bondowoso",
+        "alamat": "RT.9/RW.11 3RPQ+9XH, Blk. Timur, Kademangan, Bondowoso, Bondowoso Regency, East Java 68217, Indonesia"
+    }
+]
