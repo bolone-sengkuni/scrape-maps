@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "12",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wonosari",
+        "kecamatan": "Wonosari",
+        "kota": "Bondowoso",
+        "alamat": "RT.5/RW.7 Jl. Raya Situbondo No.Krajan, Glidung, Wonosari, Kec. Wonosari, Kabupaten Bondowoso, Jawa Timur 68282, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "12",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Wonosari",
+        "kecamatan": "Wonosari",
+        "kota": "Bondowoso",
+        "alamat": "RT.1/RW.1 4V9V+GHC, Krajan, Wonosari, Kec. Wonosari, Kabupaten Bondowoso, Jawa Timur 68282, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "4",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Lombok Kulon",
+        "kecamatan": "Wonosari",
+        "kota": "Bondowoso",
+        "alamat": "RT.8/RW.10 3V6R+RQ3, Krajan, Lombok Kulon, Kec. Wonosari, Kabupaten Bondowoso, Jawa Timur 68282, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "11",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Tumpeng",
+        "kecamatan": "Wonosari",
+        "kota": "Bondowoso",
+        "alamat": "Jl Trunojoyo No.105, RT.014/RW.06, Tenggir, Tumpeng, Kec. Wonosari, Kabupaten Bondowoso, Jawa Timur 68282, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "7",
+        "districtId": "19",
+        "subDistrictId": "7",
+        "postalCode": "68282",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pelalangan",
+        "kecamatan": "Wonosari",
+        "kota": "Bondowoso",
+        "alamat": "RT.4/RW.11 3WF9+JJ7, Pelalangan Selatan, Pelalangan, Kec. Wonosari, Kabupaten Bondowoso, Jawa Timur 68282, Indonesia"
+    }
+]
