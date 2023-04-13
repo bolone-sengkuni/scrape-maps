@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "19",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngembung",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.12 Ngembung, Cerme, Gresik Regency, East Java 61171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "4",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Cerme Kidul",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.3 Jl. Raya Cerme Kidul No.68, Cerme Kidul, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "subDistrictId": "9",
+        "postalCode": "61174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Hendrosari",
+        "kecamatan": "Menganti",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.8 Jl. Perum Taman Siwalan Indah No.T-16, Hendrosari, Kec. Menganti, Kabupaten Gresik, Jawa Timur 61174, Indonesia"
+    }
+]
