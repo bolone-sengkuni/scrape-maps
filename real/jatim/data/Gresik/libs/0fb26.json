@@ -1,0 +1,44 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "14",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kedungrukem",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.1/RW.1 PFRQ+X8V, Batara, Kedungblugu, Kedungrukem, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "20",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Munggugianti",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.10 Jl. Kurma I No.Blok L1/66, Munggu, Munggugianti, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Balongtunjung",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.9/RW.7 SDN Balongtunjung, Dsn., Balongtunjung, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    }
+]
