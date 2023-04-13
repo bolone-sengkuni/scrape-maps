@@ -1,0 +1,72 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "14",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kedungrukem",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.8 PFRQ+X8V, Batara, Kedungblugu, Kedungrukem, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "2",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Balongtunjung",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.5/RW.14 SDN Balongtunjung, Dsn., Balongtunjung, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "20",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Munggugianti",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.4/RW.8 Jl. Kurma I No.Blok L1/66, Munggu, Munggugianti, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "5",
+        "subDistrictId": "19",
+        "postalCode": "61171",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Ngembung",
+        "kecamatan": "Cerme",
+        "kota": "Gresik",
+        "alamat": "RT.6/RW.12 Ngembung, Cerme, Gresik Regency, East Java 61171, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "1",
+        "subDistrictId": "2",
+        "postalCode": "61119",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Gapurosukolilo",
+        "kecamatan": "Gresik",
+        "kota": "Gresik",
+        "alamat": "RT.7/RW.6 RJHW+PVR, Jl. R.A.Kartini Gg. VIII, Tuban Barat, Gapurosukolilo, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61111, Indonesia"
+    }
+]
