@@ -1,0 +1,58 @@
+[
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "12",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalipadang",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.10 PFXJ+G8M, Wonokerto, Kalipadang, Kec. Benjeng, Kabupaten Gresik, Jawa Timur 61172, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "3",
+        "subDistrictId": "12",
+        "postalCode": "61172",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Kalipadang",
+        "kecamatan": "Benjeng",
+        "kota": "Gresik",
+        "alamat": "RT.5/RW.3 Wonokerto, Kalipadang, Benjeng, Gresik Regency, East Java, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "postalCode": "61174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pranti",
+        "kecamatan": "Menganti",
+        "kota": "Gresik",
+        "alamat": "RT.8/RW.9 PG6W+3X2, Kemorogan, Pranti, Kec. Menganti, Kabupaten Gresik, Jawa Timur 61174, Indonesia"
+    },
+    {
+        "countryId": "ID",
+        "provinceId": "11",
+        "cityId": "8",
+        "districtId": "12",
+        "subDistrictId": "17",
+        "postalCode": "61174",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "desa": "Pranti",
+        "kecamatan": "Menganti",
+        "kota": "Gresik",
+        "alamat": "RT.4/RW.2 PG5W+8WP, Kemorogan, Pranti, Kec. Menganti, Kabupaten Gresik, Jawa Timur 61174, Indonesia"
+    }
+]
